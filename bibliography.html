@@ -6,8 +6,10 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Compiled by Tim Dennis, UCLA Library Data Science Center">
+<meta name="dcterms.date" content="2026-03-01">
 
-<title>UCLA Research Data Infrastructure</title>
+<title>Bibliography – UCLA Research Data Infrastructure</title>
 <style>
 /* Default styles provided by pandoc.
 ** See https://pandoc.org/MANUAL.html#variables-for-html for config info.
@@ -23,7 +25,27 @@ ul.task-list li input[type="checkbox"] {
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
 }
-</style>
+/* CSS for citations */
+div.csl-bib-body { }
+div.csl-entry {
+  clear: both;
+  margin-bottom: 0em;
+}
+.hanging-indent div.csl-entry {
+  margin-left:2em;
+  text-indent:-2em;
+}
+div.csl-left-margin {
+  min-width:2em;
+  float:left;
+}
+div.csl-right-inline {
+  margin-left:2em;
+  padding-left:1em;
+}
+div.csl-indent {
+  margin-left: 2em;
+}</style>
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
@@ -75,7 +97,7 @@ ul.task-list li input[type="checkbox"] {
 
 </head>
 
-<body class="nav-fixed fullcontent quarto-light">
+<body class="nav-fixed quarto-light">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -94,7 +116,7 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link active" href="./index.html" aria-current="page"> 
+    <a class="nav-link" href="./index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
@@ -110,7 +132,7 @@ ul.task-list li input[type="checkbox"] {
 <span class="menu-text">Gaps Analysis</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./bibliography.html"> 
+    <a class="nav-link active" href="./bibliography.html" aria-current="page"> 
 <span class="menu-text">Bibliography</span></a>
   </li>  
   <li class="nav-item">
@@ -128,21 +150,42 @@ ul.task-list li input[type="checkbox"] {
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#source-categories" id="toc-source-categories" class="nav-link active" data-scroll-target="#source-categories">Source Categories</a></li>
+  <li><a href="#references" id="toc-references" class="nav-link" data-scroll-target="#references">References</a></li>
+  </ul>
+</nav>
+    </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">UCLA Research Data Infrastructure</h1>
-<p class="subtitle lead">Evidence Base from the Research Data Working Group (2022–2024)</p>
+<h1 class="title">Bibliography</h1>
+<p class="subtitle lead">One IT Research Working Group — Reference List</p>
 </div>
 
 
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Compiled by Tim Dennis, UCLA Library Data Science Center </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">March 1, 2026</p>
+    </div>
+  </div>
   
     
   </div>
@@ -152,93 +195,192 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="ucla-already-has-a-research-data-roadmap" class="level1 hero">
-<h1>UCLA Already Has a Research Data Roadmap</h1>
-<p><em>What the Research Data Working Group found — and what it means for the One IT Research Working Group (2026)</em></p>
-</section>
-<section id="about-this-site" class="level2">
-<h2 class="anchored" data-anchor-id="about-this-site">About This Site</h2>
-<p>In 2021–2024, UCLA convened the <strong>Research Data Working Group (RDWG)</strong> — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC &amp; CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA’s research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.</p>
-<p>This site presents the RDWG’s key findings, recommendations, and supporting evidence for the <strong>One IT Research Working Group</strong> (charged by the EVCP and CIO, March 2026).</p>
-</section>
-<section id="key-findings-in-brief" class="level2">
-<h2 class="anchored" data-anchor-id="key-findings-in-brief">Key Findings in Brief</h2>
-<ul>
-<li><strong>UCLA falls behind peers in 8 of 13 research data service categories</strong>, including the most basic: a cohesive program with a service catalog.</li>
-<li><strong>90% of UCLA’s $7M annual enterprise storage spend occurs at the departmental level</strong> — fragmented, redundant, and insecure.</li>
-<li><strong>There is no central ownership of research data services.</strong> PIs navigate compliance requirements, storage crises, and funder mandates alone.</li>
-<li><strong>UCLA’s NSF per-award average ($307K) is 15–30% below UCSB and UCSD.</strong> Missing infrastructure for large multi-site proposals is a contributing factor.</li>
-<li><strong>Funder mandates have outpaced UCLA’s capacity.</strong> The NIH Data Management and Sharing Policy (January 2023) and OSTP public access mandate (December 2025) require institutional infrastructure UCLA does not yet have.</li>
-</ul>
-</section>
-<section id="rdwg-priority-proposals" class="level2">
-<h2 class="anchored" data-anchor-id="rdwg-priority-proposals">RDWG Priority Proposals</h2>
-<p>The RDWG recommended a <strong>layered model</strong> — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.</p>
+<p>Sources organized by category. The formatted reference list appears below; the source RIS file is available for import into Zotero or other reference managers via the <a href="./resources.html">Resources</a> page.</p>
+<section id="source-categories" class="level2">
+<h2 class="anchored" data-anchor-id="source-categories">Source Categories</h2>
 <table class="caption-top table">
-<colgroup>
-<col style="width: 43%">
-<col style="width: 56%">
-</colgroup>
 <thead>
 <tr class="header">
-<th>Proposal</th>
-<th>Description</th>
+<th>#</th>
+<th>Category</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><strong>ORDR</strong></td>
-<td>Office of the Research Data Rockstar — coordination unit, compliance lead, service catalog</td>
+<td>1</td>
+<td>UCLA Primary Documents</td>
 </tr>
 <tr class="even">
-<td><strong>Bruin Research Data Hub</strong></td>
-<td>Hybrid storage platform with baseline faculty allocation; addresses the 90% departmental fragmentation</td>
+<td>2</td>
+<td>Federal Policy and Funder Mandates</td>
 </tr>
 <tr class="odd">
-<td><strong>Expanded Research Data Services</strong></td>
-<td>Building on the Library’s Data Science Center</td>
+<td>3</td>
+<td>Federal Funding Crisis (2025–2026)</td>
 </tr>
 <tr class="even">
-<td><strong>Expanded Research Infrastructure</strong></td>
-<td>Hoffman2 HPC expansion, P3/P4 compliant enclave, Cloud for Research program</td>
+<td>4</td>
+<td>AI and Research Computing Infrastructure</td>
 </tr>
-</tbody>
-</table>
-</section>
-<section id="whats-here" class="level2">
-<h2 class="anchored" data-anchor-id="whats-here">What’s Here</h2>
-<table class="caption-top table">
-<thead>
-<tr class="header">
-<th>Page</th>
-<th>Contents</th>
-</tr>
-</thead>
-<tbody>
 <tr class="odd">
-<td><a href="./rdwg-slides.html">Presentation</a></td>
-<td>Slide deck for the One IT Research WG — March 2026</td>
+<td>5</td>
+<td>Library Technical Infrastructure and Research Software</td>
 </tr>
 <tr class="even">
-<td><a href="./rdwg-one-pager.html">One-Pager</a></td>
-<td>Concise summary of RDWG findings and recommendations</td>
+<td>6</td>
+<td>IT Consolidation and Higher Education IT</td>
 </tr>
 <tr class="odd">
-<td><a href="./gaps-analysis.html">Gaps Analysis</a></td>
-<td>What’s changed since the 2022 roadmap: AI, compliance, RSE, cloud context</td>
+<td>7</td>
+<td>UCLA Faculty and Senate Responses to OneIT (2025)</td>
 </tr>
 <tr class="even">
-<td><a href="./bibliography.html">Bibliography</a></td>
-<td>Full reference list with annotations</td>
-</tr>
-<tr class="odd">
-<td><a href="./resources.html">Resources</a></td>
-<td>RDWG source documents available for download</td>
+<td>8</td>
+<td>OneIT Administration Documents</td>
 </tr>
 </tbody>
 </table>
 <hr>
-<p><em>Prepared by Tim Dennis, UCLA Library Data Science Center. Contact: <a href="mailto:tdennis@library.ucla.edu">tdennis@library.ucla.edu</a></em></p>
+</section>
+<section id="references" class="level2">
+<h2 class="anchored" data-anchor-id="references">References</h2>
+<div id="refs" class="references csl-bib-body hanging-indent" data-entry-spacing="0" data-line-spacing="2" role="list">
+<div id="ref-ABC15_2025" class="csl-entry" role="listitem">
+Arizona, A. (2025). <em>NIH research funding cuts lead to layoffs at Arizona State University</em> [Graphic]. <a href="https://www.youtube.com/watch?v=43rKFo5IMoU">https://www.youtube.com/watch?v=43rKFo5IMoU</a>
+</div>
+<div id="ref-Sky_2025" class="csl-entry" role="listitem">
+Australia, S. N. (2025). <em>Columbia University announce mass layoffs after the Trump Administration revokes grants</em> [Graphic]. <a href="https://www.youtube.com/watch?v=K8Tg2V_ytl4">https://www.youtube.com/watch?v=K8Tg2V_ytl4</a>
+</div>
+<div id="ref-WBAL-TV_2025" class="csl-entry" role="listitem">
+Baltimore, W.-T. (2025). <em>Funding cuts lead to layoff risk for University System of Maryland</em> [Graphic]. <a href="https://www.youtube.com/watch?v=E8rwejgUqpI">https://www.youtube.com/watch?v=E8rwejgUqpI</a>
+</div>
+<div id="ref-University_2022" class="csl-entry" role="listitem">
+California, U. of. (2022). <em>UC Research Data Policy</em>. University of California Office of the President.
+</div>
+<div id="ref-UCLA_2025" class="csl-entry" role="listitem">
+Center Directors, U. D. C. and. (2025). <em>Letter to Chancellor Frenk and EVCP Hunt re: One IT Initiative</em>.
+</div>
+<div id="ref-AFT_2025" class="csl-entry" role="listitem">
+Chapter, A. L. 1990. L. (2025). <em>Request for Consultation on OneIT Initiative and Library Technical Staff</em>.
+</div>
+<div id="ref-Chue_Katz_Barker_2022" class="csl-entry" role="listitem">
+Chue Hong, N. P., Katz, D. S., &amp; Barker, M. (2022). FAIR Principles for Research Software (FAIR4RS Principles). <em>Scientific Data</em>, <em>9</em>, 622. <a href="https://doi.org/10.1038/s41597-022-01710-x">https://doi.org/10.1038/s41597-022-01710-x</a>
+</div>
+<div id="ref-CNBC_2025" class="csl-entry" role="listitem">
+CNBC. (2025). <em>The Truth About AI And The Mass Layoffs</em> [Graphic]. <a href="https://www.youtube.com/watch?v=8g5img1hTes">https://www.youtube.com/watch?v=8g5img1hTes</a>
+</div>
+<div id="ref-Association_2024" class="csl-entry" role="listitem">
+College and Research Libraries, A. of. (2024). <em>Top Trends in Academic Libraries</em>. American Library Association.
+</div>
+<div id="ref-Dabrowska_UCLA_2025" class="csl-entry" role="listitem">
+Dabrowska, D., &amp; Council, U. G. (2025). <em>OneIT Request for Senate Consultation [Graduate Council Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-The_2026a" class="csl-entry" role="listitem">
+Daily, T. A. (2026). <em>OpenAI lands massive new funding &amp; AI compute wars: TPUs vs GPUs</em> [Graphic]. <a href="https://www.youtube.com/watch?v=ditRA-QhtZg">https://www.youtube.com/watch?v=ditRA-QhtZg</a>
+</div>
+<div id="ref-Debenport_UCLA_2025" class="csl-entry" role="listitem">
+Debenport, E., &amp; Letters and Science Faculty Executive Committee, U. C. of. (2025). <em>Response to the One IT Request for Senate Consultation [L&amp;S FEC Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Dennis_2021" class="csl-entry" role="listitem">
+Dennis, T. (2021). <em>Data Science in Libraries</em>.
+</div>
+<div id="ref-Desjardins_UCLA_2025" class="csl-entry" role="listitem">
+Desjardins, R., &amp; Planning and Budget, U. C. on. (2025). <em>OneIT Proposal [Council on Planning and Budget Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Gebremichael_UCLA_2025" class="csl-entry" role="listitem">
+Gebremichael, M., &amp; Engineering and Applied Science Faculty Executive Committee, U. H. S. S. of. (2025). <em>OneIT Request for Senate Consultation [HSSEAS Engineering FEC Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-UCLA_2022" class="csl-entry" role="listitem">
+Group, U. R. D. W. (2022). <em>A Call to Action: A Roadmap for Expanding Research Infrastructure and Data Services at UCLA</em>. UCLA. <a href="https://escholarship.org/uc/item/">https://escholarship.org/uc/item/</a>
+</div>
+<div id="ref-UCLA_2023" class="csl-entry" role="listitem">
+Group, U. R. D. W. (2023). <em>Research Data Roadmap Overview</em> [Graphic]. UCLA.
+</div>
+<div id="ref-UCLA_2024" class="csl-entry" role="listitem">
+Group, U. R. D. W. (2024). <em>RDWG Phase 2: Deans Council Brief</em>. UCLA.
+</div>
+<div id="ref-National_2023" class="csl-entry" role="listitem">
+Health, N. I. of. (2023). <em>NIH Policy for Data Management and Sharing</em>. U.S. Department of Health and Human Services. <a href="https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html">https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html</a>
+</div>
+<div id="ref-Chronicle_2026" class="csl-entry" role="listitem">
+Higher Education, C. of. (2026). <em>The Higher Ed Group Fighting Trump</em> [Graphic]. <a href="https://www.youtube.com/watch?v=jY8i2Z4nRxY">https://www.youtube.com/watch?v=jY8i2Z4nRxY</a>
+</div>
+<div id="ref-Hunt_2025" class="csl-entry" role="listitem">
+Hunt, D. M. (2025). <em>Letter to Chairs and Directors re: One IT Initiative [EVCP Response]</em>. UCLA Office of the Executive Vice Chancellor and Provost.
+</div>
+<div id="ref-FT_2025" class="csl-entry" role="listitem">
+It, F. W. (2025). <em>The graduate 'jobpocalypse': Where have all the entry-level jobs gone?</em> [Graphic]. <a href="https://www.youtube.com/watch?v=IeTFpsuCor8">https://www.youtube.com/watch?v=IeTFpsuCor8</a>
+</div>
+<div id="ref-Leazer_UCLA_2025" class="csl-entry" role="listitem">
+<span class="nocase">Leazer, G., &amp; UCLA Committee on Data, and P., Information Technology</span>. (2025). <em>OneIT Request for Senate Consultation [CDITP Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Maloy_UCLA_2025" class="csl-entry" role="listitem">
+Maloy, J., &amp; Council, U. U. (2025). <em>OneIT Request for Senate Consultation [Undergraduate Council Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Mayeda_UCLA_2025" class="csl-entry" role="listitem">
+Mayeda, E. R., &amp; Committee, U. F. W. (2025). <em>One IT Request for Senate Consultation [Faculty Welfare Committee Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-McCarty_UCLA_2025" class="csl-entry" role="listitem">
+McCarty, T. L., &amp; Education and Information Studies Faculty Executive Committee, U. S. of. (2025). <em>OneIT Request for Senate Consultation [SE&amp;IS FEC Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-McEvoy_UCLA_2025" class="csl-entry" role="listitem">
+McEvoy, M., &amp; Board, U. A. S. E. (2025). <em>OneIT Request for Senate Consultation [Executive Board Letter to EVCP Hunt]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Mint_2025" class="csl-entry" role="listitem">
+Mint. (2025). <em>US Universities Face Student Drop, Announce Budget Cuts &amp; Layoffs as Crisis Deepens</em> [Graphic]. <a href="https://www.youtube.com/watch?v=ViMuIOV1pXs">https://www.youtube.com/watch?v=ViMuIOV1pXs</a>
+</div>
+<div id="ref-KSDK_2025" class="csl-entry" role="listitem">
+News, K. (2025). <em>More than 300 jobs cut at WashU, around 200 openings closed after federal funding losses</em> [Graphic]. <a href="https://www.youtube.com/watch?v=NE9-UCvBrlI">https://www.youtube.com/watch?v=NE9-UCvBrlI</a>
+</div>
+<div id="ref-Association_2023" class="csl-entry" role="listitem">
+Research Libraries, A. of. (2023). <em>Research Analytics and Data Services Initiative</em>. Association of Research Libraries.
+</div>
+<div id="ref-r/HPC_2026" class="csl-entry" role="listitem">
+<span class="nocase">r/HPC</span>. (2026). <em>HPC design &amp; admin resources</em>. <a href="https://www.reddit.com/r/HPC/comments/1rtfow5/hpc_design_admin_resources/">https://www.reddit.com/r/HPC/comments/1rtfow5/hpc_design_admin_resources/</a>
+</div>
+<div id="ref-r/mlops_2026" class="csl-entry" role="listitem">
+<span class="nocase">r/mlops</span>. (2026). <em>Wrote a guide to building an ML research cluster. Feedback appreciated.</em> <a href="https://www.reddit.com/r/mlops/comments/1rdpbkd/wrote_a_guide_to_building_an_ml_research_cluster/">https://www.reddit.com/r/mlops/comments/1rdpbkd/wrote_a_guide_to_building_an_ml_research_cluster/</a>
+</div>
+<div id="ref-r/NIH_2026" class="csl-entry" role="listitem">
+<span class="nocase">r/NIH</span>. (2026a). <em>How NIH went from 756 funding announcements to 14</em>. <a href="https://www.reddit.com/r/NIH/comments/1rvjv8f/how_nih_went_from_756_funding_announcements_to/">https://www.reddit.com/r/NIH/comments/1rvjv8f/how_nih_went_from_756_funding_announcements_to/</a>
+</div>
+<div id="ref-r/NIH_2026a" class="csl-entry" role="listitem">
+<span class="nocase">r/NIH</span>. (2026b). <em>White House stalls release of US science budgets approved by Congress</em>. <a href="https://www.reddit.com/r/NIH/comments/1rgazcm/white_house_stalls_release_of_us_science_budgets/">https://www.reddit.com/r/NIH/comments/1rgazcm/white_house_stalls_release_of_us_science_budgets/</a>
+</div>
+<div id="ref-Office_2022" class="csl-entry" role="listitem">
+Science and Technology Policy, O. of. (2022). <em>Ensuring Free, Immediate, and Equitable Access to Federally Funded Research</em>. Executive Office of the President. <a href="https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/">https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/</a>
+</div>
+<div id="ref-IBM_2022" class="csl-entry" role="listitem">
+Security, I. (2022). <em>Cost of a Data Breach Report</em>. IBM.
+</div>
+<div id="ref-Shlyakhtenko_UCLA_2025" class="csl-entry" role="listitem">
+Shlyakhtenko, D., &amp; Research, U. C. on. (2025). <em>OneIT Request for Senate Consultation [Council on Research Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-The_2026" class="csl-entry" role="listitem">
+Show, T. I. (2026). <em>Why AI Researchers Are Quitting and Panicking on the Way Out</em> [Graphic]. <a href="https://www.youtube.com/watch?v=rtT87iAm_SM">https://www.youtube.com/watch?v=rtT87iAm_SM</a>
+</div>
+<div id="ref-Stanford_2026" class="csl-entry" role="listitem">
+SIEPR, S. (2026). <em>SIEPR Economic Summit 2026: University Presidents on the Future of Higher Education</em> [Graphic]. <a href="https://www.youtube.com/watch?v=5PUb-CjD9J4">https://www.youtube.com/watch?v=5PUb-CjD9J4</a>
+</div>
+<div id="ref-Sorenson_UCLA_2025" class="csl-entry" role="listitem">
+Sorenson, O., &amp; Management Faculty Executive Committee, U. A. S. of. (2025). <em>OneIT Request for Senate Consultation [Anderson AGSM FEC Response]</em>. UCLA Academic Senate.
+</div>
+<div id="ref-Texas_2026" class="csl-entry" role="listitem">
+System, T. T. U. (2026). <em>Texas Tech Joins NVIDIA to Launch Next-Generation AI Infrastructure</em> [Graphic]. <a href="https://www.youtube.com/watch?v=b5HlH7RcGNk">https://www.youtube.com/watch?v=b5HlH7RcGNk</a>
+</div>
+<div id="ref-One_2025" class="csl-entry" role="listitem">
+Team, O. I. P. (2025). <em>Request for Senate Consultation: One IT Discovery Phase</em>. UCLA Digital and Technology Solutions.
+</div>
+<div id="ref-Bloomberg_2026" class="csl-entry" role="listitem">
+Television, B. (2026). <em>Bloomberg Surveillance 3/16/2026</em> [Graphic]. <a href="https://www.youtube.com/watch?v=vahB50-jgKs">https://www.youtube.com/watch?v=vahB50-jgKs</a>
+</div>
+<div id="ref-Wilkinson_Dumontier_Aalbersberg_2016" class="csl-entry" role="listitem">
+Wilkinson, M. D., Dumontier, M., &amp; Aalbersberg, Ij. J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. <em>Scientific Data</em>, <em>3</em>, 160018. <a href="https://doi.org/10.1038/sdata.2016.18">https://doi.org/10.1038/sdata.2016.18</a>
+</div>
+<div id="ref-MSU_2025" class="csl-entry" role="listitem">
+WKAR News, M. /. (2025). <em>MSU President Speaks Out: $85M Cuts, Layoffs &amp; The Future of Higher Ed</em> [Graphic]. <a href="https://www.youtube.com/watch?v=AIAWm2d6iPw">https://www.youtube.com/watch?v=AIAWm2d6iPw</a>
+</div>
+</div>
 
 
 </section>
