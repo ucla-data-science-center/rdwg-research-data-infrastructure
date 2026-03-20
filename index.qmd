@@ -28,12 +28,25 @@ This site presents the RDWG's key findings, recommendations, and supporting evid
 
 The RDWG recommended a **layered model** — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.
 
-| Proposal | Description |
-|----------|-------------|
-| **ORDR** | Office of the Research Data Rockstar — coordination unit, compliance lead, service catalog |
-| **Bruin Research Data Hub** | Hybrid storage platform with baseline faculty allocation; addresses the 90% departmental fragmentation |
-| **Expanded Research Data Services** | Building on the Library's Data Science Center |
-| **Expanded Research Infrastructure** | Hoffman2 HPC expansion, P3/P4 compliant enclave, Cloud for Research program |
+```{mermaid}
+flowchart TD
+    ORDR["<b>ORDR</b><br/>Office of the Research Data Rockstar<br/><small>Coordination · Compliance lead · Service catalog<br/>Governance: VCR</small>"]
+    Hub["<b>Bruin Research Data Hub</b><br/><small>Baseline storage for all faculty · On-prem + cloud<br/>Addresses 90% departmental fragmentation</small>"]
+    Services["<b>Expanded Research Data Services</b><br/><small>Data consulting · FAIR · DMPs<br/>Built on Library / DSC capacity</small>"]
+    Infra["<b>Expanded Research Infrastructure</b><br/><small>Hoffman2 expansion · P3/P4 secure enclave<br/>Cloud for Research program</small>"]
+
+    ORDR --> Services
+    ORDR --> Infra
+    Hub  --> Services
+    Hub  --> Infra
+
+    style ORDR     fill:#003B5C,color:#fff,stroke:#003B5C
+    style Hub      fill:#2774AE,color:#fff,stroke:#2774AE
+    style Services fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE
+    style Infra    fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE
+```
+
+ORDR and the Bruin Data Hub are the foundational layer — coordination and storage that make the rest possible. Services and infrastructure build on both.
 
 ## What's Here
 

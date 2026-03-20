@@ -5,6 +5,28 @@ author: "Tim Dennis, UCLA Library Data Science Center"
 date: "March 2026"
 ---
 
+```{mermaid}
+%%| fig-width: 9
+timeline
+    title Key Developments Since the RDWG Roadmap
+    section Before the roadmap
+        Nov 2022 : ChatGPT launches — generative AI era begins
+        Dec 2022 : RDWG Roadmap published
+                 : UC Research Data Policy takes effect
+    section Year 1
+        Jan 2023 : NIH Data Management & Sharing Policy takes effect
+                 : Every NIH proposal now requires a funded DMP
+        2023     : RDWG Phase 2 — implementation analysis and Deans Council brief
+    section Year 2
+        Jun 2024 : Google Drive 10PB migration deadline passes
+        2024     : RDWG Deans Council Brief finalized
+    section Year 3
+        Oct 2025 : UCLA Academic Senate delivers OneIT consultation responses
+        Dec 2025 : OSTP public access mandate takes full effect
+    section 2026
+        Mar 2026 : One IT Research Working Group charged by EVCP and CIO
+```
+
 The RDWG roadmap is a strong evidence base, but it was completed in December 2022 — before several major developments reshaped the research technology landscape. This document identifies:
 
 1. **What's materially changed** since the roadmap was written

@@ -168,18 +168,24 @@ The stakes have risen significantly since 2022:
 
 ## What Peer Institutions Do
 
-Institutions that have outpaced UCLA share a common model:
-
-| Central | Local / Distributed |
-|---|---|
-| Shared storage platform | Discipline-specific expertise |
-| IAM/SSO and security baseline | Proximity to researchers |
-| Compliance coordination | Domain knowledge |
-| Economies of scale | Unit-specific workflows |
-
 > *"Investing in central services enhances distributed efforts — it does not replace them."*
 
-This is the **layered model** the RDWG recommends. It is not a choice between centralization and decentralization.
+```{mermaid}
+mindmap
+  root((Layered Research IT))
+    Centralize the Backbone
+      Network and IAM/SSO
+      Shared storage baseline
+      Cybersecurity
+      Cloud procurement
+      Compliance coordination
+    Preserve Domain Expertise
+      Research computing
+      HPC systems
+      Data services consulting
+      Research software engineering
+      Discipline-specific platforms
+```
 
 ---
 
@@ -290,13 +296,24 @@ Since 2022 the environment has intensified:
 
 ## What Changed Since 2022
 
-| Development | Implication |
-|---|---|
-| **Generative AI** | GPU access now a research equity issue; institutional data governance unaddressed |
-| **Compliance intensification** | NIH DMSP live; OSTP in effect; export controls tightened |
-| **Research software engineering** | RSE now a recognized profession; FAIR4RS a funder expectation |
-| **Cloud complexity** | Hybrid model confirmed; cost management is a major support need |
-| **Federal funding uncertainty** | Infrastructure enabling larger multi-site awards is more valuable, not less |
+```{mermaid}
+quadrantChart
+    title Urgency × Anticipation (2026 view)
+    x-axis "Roadmap anticipated" --> "Not anticipated"
+    y-axis "Lower urgency" --> "Higher urgency"
+    quadrant-1 Act now
+    quadrant-2 Already planned — still waiting
+    quadrant-3 Monitor
+    quadrant-4 Emerging priorities
+    ORDR not created: [0.12, 0.92]
+    P3/P4 enclave missing: [0.18, 0.82]
+    Compliance intensification: [0.30, 0.88]
+    Federal funding uncertainty: [0.72, 0.78]
+    Generative AI: [0.88, 0.90]
+    Cloud complexity: [0.38, 0.52]
+    Research Software Engineering: [0.48, 0.58]
+    Data sovereignty: [0.62, 0.42]
+```
 
 ---
 
