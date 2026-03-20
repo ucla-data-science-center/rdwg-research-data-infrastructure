@@ -1,0 +1,51 @@
+---
+title: "UCLA Research Data Infrastructure"
+subtitle: "Evidence Base from the Research Data Working Group (2022–2024)"
+toc: false
+---
+
+::: {.hero}
+# UCLA Already Has a Research Data Roadmap
+
+*What the Research Data Working Group found — and what it means for the One IT Research Working Group (2026)*
+:::
+
+## About This Site
+
+In 2021–2024, UCLA convened the **Research Data Working Group (RDWG)** — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA's research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.
+
+This site presents the RDWG's key findings, recommendations, and supporting evidence for the **One IT Research Working Group** (charged by the EVCP and CIO, March 2026).
+
+## Key Findings in Brief
+
+- **UCLA falls behind peers in 8 of 13 research data service categories**, including the most basic: a cohesive program with a service catalog.
+- **90% of UCLA's \$7M annual enterprise storage spend occurs at the departmental level** — fragmented, redundant, and insecure.
+- **There is no central ownership of research data services.** PIs navigate compliance requirements, storage crises, and funder mandates alone.
+- **UCLA's NSF per-award average (\$307K) is 15–30% below UCSB and UCSD.** Missing infrastructure for large multi-site proposals is a contributing factor.
+- **Funder mandates have outpaced UCLA's capacity.** The NIH Data Management and Sharing Policy (January 2023) and OSTP public access mandate (December 2025) require institutional infrastructure UCLA does not yet have.
+
+## RDWG Priority Proposals
+
+The RDWG recommended a **layered model** — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.
+
+| Proposal | Description |
+|----------|-------------|
+| **ORDR** | Office of the Research Data Rockstar — coordination unit, compliance lead, service catalog |
+| **Bruin Research Data Hub** | Hybrid storage platform with baseline faculty allocation; addresses the 90% departmental fragmentation |
+| **Expanded Research Data Services** | Building on the Library's Data Science Center |
+| **Expanded Research Infrastructure** | Hoffman2 HPC expansion, P3/P4 compliant enclave, Cloud for Research program |
+
+## What's Here
+
+| Page | Contents |
+|------|----------|
+| [Presentation](rdwg-slides.qmd) | Slide deck for the One IT Research WG — March 2026 |
+| [One-Pager](rdwg-one-pager.qmd) | Concise summary of RDWG findings and recommendations |
+| [Gaps Analysis](gaps-analysis.qmd) | What's changed since the 2022 roadmap: AI, compliance, RSE, cloud context |
+| [Bibliography](bibliography.qmd) | Full reference list with annotations |
+| [Resources](resources.qmd) | RDWG source documents available for download |
+
+---
+
+*Prepared by Tim Dennis, UCLA Library Data Science Center.
+Contact: [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu)*

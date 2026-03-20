@@ -1,0 +1,43 @@
+---
+title: "Source Documents"
+subtitle: "RDWG Primary Materials Available for Download"
+---
+
+The following UCLA Research Data Working Group documents are available for download. These are the primary evidence base for the recommendations presented on this site.
+
+## RDWG Primary Documents
+
+### A Call to Action: A Roadmap for Expanding Research Infrastructure and Data Services at UCLA
+*UCLA Research Data Working Group — December 2, 2022 — 66 pages*
+
+The primary RDWG output. Includes peer benchmarking across 13 service categories, cost analysis, faculty input, and detailed implementation proposals for ORDR, Bruin Research Data Hub, expanded data services, and expanded computing infrastructure.
+
+[Download PDF](assets/pdfs/DiscussionDraft_UCLAResearchDataServices_and_InfrastructureRoadmap_Dec2_2022.pdf){.btn .btn-primary}
+
+---
+
+### Research Data Roadmap Overview
+*UCLA Research Data Working Group — May 2023 — Campus Meeting Series Deck*
+
+20-slide deck presenting the roadmap findings to campus audiences. Covers peer benchmarking results, the four core proposals, and the implementation roadmap.
+
+[Download PDF](assets/pdfs/RDWG_RoadmapMeetingDeck_May2023.pdf){.btn .btn-primary}
+
+---
+
+### Research on Data Services II: Peer Benchmarking
+*UCLA Research Data Working Group — 2022*
+
+Detailed peer benchmarking across 13 research data service categories at comparable research universities. Source data for the 8-of-13 gap finding.
+
+[Download Presentation](assets/pdfs/Peer_Benchmarking_Research_on_Data_Services_II.odp){.btn .btn-primary}
+
+---
+
+## Bibliography
+
+The full annotated bibliography and RIS import file are on the [Bibliography](bibliography.qmd) page.
+
+---
+
+*For Phase 2 materials (2023–2024), including the implementation task analysis, Deans Council brief, and Bruin Data Hub specifications, contact Tim Dennis at [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu).*

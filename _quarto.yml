@@ -1,0 +1,36 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "UCLA Research Data Infrastructure"
+  description: "Evidence base and recommendations from the UCLA Research Data Working Group (2022–2024) for the One IT Research Working Group (2026)"
+  favicon: assets/logos/logo_UCLA_blue.svg
+  navbar:
+    logo: assets/logos/logo_UCLA_blue.svg
+    logo-alt: "UCLA"
+    title: false
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Presentation"
+        href: rdwg-slides.qmd
+      - text: "One-Pager"
+        href: rdwg-one-pager.qmd
+      - text: "Gaps Analysis"
+        href: gaps-analysis.qmd
+      - text: "Bibliography"
+        href: bibliography.qmd
+      - text: "Resources"
+        href: resources.qmd
+  page-footer:
+    left: "UCLA Library Data Science Center"
+    right: "One IT Research Working Group — 2026"
+
+format:
+  html:
+    theme: [cosmo, ucla-web.scss]
+    toc: true
+    toc-depth: 3
+    link-external-icon: true
+    link-external-newwindow: true

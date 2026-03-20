@@ -1,0 +1,137 @@
+/*-- scss:defaults --*/
+
+// UCLA brand colors
+$ucla-blue:       #2774AE;
+$ucla-gold:       #FFD100;
+$ucla-dark-blue:  #003B5C;
+$ucla-light-blue: #8BB8E8;
+$body-bg:         #ffffff;
+$body-color:      #1a1a1a;
+$link-color:      $ucla-blue;
+
+// Typography
+$presentation-font-size-root: 28px;
+$presentation-h1-font-size:   1.6em;
+$presentation-h2-font-size:   1.3em;
+$presentation-h3-font-size:   1.0em;
+$font-family-sans-serif: "Helvetica Neue", Helvetica, Arial, sans-serif;
+
+// Headings
+$heading-color:       $ucla-dark-blue;
+$heading-font-weight: 600;
+
+/*-- scss:rules --*/
+
+.reveal .slides {
+  text-align: left;
+}
+
+.reveal h1, .reveal h2 {
+  color: $ucla-dark-blue;
+  border-bottom: 3px solid $ucla-gold;
+  padding-bottom: 0.2em;
+}
+
+.reveal h3 {
+  color: $ucla-blue;
+}
+
+// Footer
+.reveal .footer {
+  font-size: 0.5em;
+  color: #666;
+}
+
+// Slide numbers
+.reveal .slide-number {
+  color: $ucla-blue;
+  font-size: 0.5em;
+}
+
+// Tables
+.reveal table {
+  font-size: 0.75em;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.reveal table th {
+  background-color: $ucla-dark-blue;
+  color: white;
+  padding: 0.4em 0.6em;
+}
+
+.reveal table td {
+  padding: 0.3em 0.6em;
+  border-bottom: 1px solid #ddd;
+}
+
+.reveal table tr:nth-child(even) td {
+  background-color: #f4f8fc;
+}
+
+// Highlight UCLA rows in tables
+.reveal table tr.highlight td {
+  background-color: #fff3cd;
+  font-weight: bold;
+}
+
+// Blockquotes
+.reveal blockquote {
+  border-left: 4px solid $ucla-gold;
+  background: #f4f8fc;
+  padding: 0.5em 1em;
+  font-style: italic;
+  font-size: 0.85em;
+  color: $ucla-dark-blue;
+  width: 95%;
+}
+
+// Bold callouts
+.reveal strong {
+  color: $ucla-dark-blue;
+}
+
+// Two-column layout
+.columns {
+  display: flex;
+  gap: 2em;
+}
+
+.column {
+  flex: 1;
+}
+
+// Logo sizing — appears bottom-right on every slide
+.reveal .slide-logo {
+  height: 40px !important;
+  width: auto !important;
+  bottom: 12px !important;
+  right: 16px !important;
+}
+
+// Title slide — white text on UCLA dark blue background
+.reveal .title-slide h1,
+.reveal .title-slide h2,
+.reveal .title-slide .title,
+.reveal .title-slide .subtitle {
+  color: #ffffff !important;
+  border-bottom: 3px solid $ucla-gold;
+}
+
+.reveal .title-slide .author,
+.reveal .title-slide .date {
+  color: $ucla-light-blue !important;
+}
+
+// Title slide: larger logo
+.reveal .title-slide .slide-logo {
+  height: 56px !important;
+}
+
+// RevealJS adds .has-dark-background automatically to dark slides
+// Filter converts the blue logo to white without swapping src
+.reveal .has-dark-background .slide-logo img,
+.reveal .title-slide .slide-logo img {
+  filter: brightness(0) invert(1);
+}

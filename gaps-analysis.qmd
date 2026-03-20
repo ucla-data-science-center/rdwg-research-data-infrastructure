@@ -1,0 +1,149 @@
+---
+title: "What's Changed Since December 2022"
+subtitle: "RDWG Roadmap Gaps and New Developments for the One IT Research Working Group"
+author: "Tim Dennis, UCLA Library Data Science Center"
+date: "March 2026"
+---
+
+The RDWG roadmap is a strong evidence base, but it was completed in December 2022 — before several major developments reshaped the research technology landscape. This document identifies:
+
+1. **What's materially changed** since the roadmap was written
+2. **What the roadmap underweighted or missed** at the time
+3. **What this means** for One IT WG recommendations
+
+---
+
+## 1. Generative AI — The Biggest Gap
+
+The roadmap was finalized the same month ChatGPT launched (November 2022). Generative AI was not on the map. Since then, it has become one of the most significant forces reshaping research across every discipline.
+
+**What the roadmap missed:**
+
+- **GPU infrastructure demand has exploded.** The roadmap recommended GPU node expansion for Hoffman2, but the scale of demand for AI/ML compute — now across the humanities, social sciences, and life sciences, not just CS — vastly exceeds what was anticipated. Research institutions are now competing for GPU allocations at a level the 2022 document could not have foreseen.
+
+- **Institutional data and AI services.** Researchers are using commercial AI tools (ChatGPT, Copilot, Gemini) with institutional and research data. The compliance, IP, and data governance implications are largely unaddressed at UCLA. Who owns outputs generated using AI tools with UCLA data? What can be sent to external AI providers? These questions land directly on research IT and data governance — exactly the ORDR's mandate.
+
+- **Research integrity and reproducibility.** AI-generated text, code, and analysis in research outputs creates new reproducibility challenges. Journals, funders, and the NAS are actively developing standards. UCLA needs a position and infrastructure response.
+
+- **Compute as a research equity issue.** Access to GPU compute is now a determinant of research competitiveness across disciplines. Labs with resources buy their own; others can't compete. This is a new version of the same inequity problem the roadmap identified for storage — and it argues for the same centralized solution.
+
+- **Research data for AI training.** UCLA has significant unique datasets (archival collections, clinical data, specialized corpora) that could be used for AI research. Governance frameworks for this use case don't exist.
+
+::: {.callout-important}
+**Implication for One IT:** The WG should explicitly address AI research infrastructure — GPU compute access, institutional AI service governance, and data policies for AI use. The RDWG framework provides the right structure; the content needs updating for the AI era.
+:::
+
+---
+
+## 2. The Compliance Environment Has Intensified
+
+The roadmap anticipated increasing funder mandates but didn't have the full picture:
+
+- **NIH Data Management and Sharing Policy** took effect January 25, 2023 — six weeks after the roadmap was published. Every NIH proposal now requires a funded data management and sharing plan. UCLA still lacks the coordinated infrastructure (ORDR, service catalog, compliance lead) the roadmap said was essential to respond to this.
+
+- **OSTP "Nelson Memo" public access mandate** took full effect for agencies by December 2025. Federally-funded research must be publicly available immediately at no cost. This affects publications AND research data. UCLA's position for compliance is unclear.
+
+- **Export controls on AI and semiconductor research** have intensified significantly. Research involving controlled technologies, dual-use data, and foreign national researchers is under increasing scrutiny. P3/P4 compliant environments are no longer just a nice-to-have for health data — they're required for a growing share of federally-funded research. The roadmap identified this gap; it has grown substantially.
+
+- **UC Research Data Policy** (effective July 2022, noted in the roadmap) is still not fully operationalized campus-wide. The compliance lead the ORDR was supposed to provide still doesn't exist as a clear role.
+
+::: {.callout-important}
+**Implication for One IT:** Compliance is now more urgent and more complex than the 2022 analysis captured. The ORDR role and the P3/P4 enclave are now critical infrastructure, not aspirational goals.
+:::
+
+---
+
+## 3. The Google Drive Crisis Landed
+
+The roadmap flagged a specific, dated crisis: approximately 10PB of UCLA research data stored in Google Drive in excess of the new Google storage limits, with a June 2024 deadline to migrate or pay \$1.8M/year in overage fees.
+
+That deadline has passed. What happened is worth investigating:
+
+- Did data get migrated? Where did it go?
+- Did UCLA pay Google?
+- Did researchers lose access to data?
+- Did units solve this independently (perpetuating fragmentation)?
+
+::: {.callout-tip}
+**Implication for One IT:** Whatever happened with the Google Drive storage crisis is a concrete, recent example of the costs of not having centralized research data infrastructure. It's worth surfacing as evidence.
+:::
+
+---
+
+## 4. The ORDR Was Never Created
+
+The roadmap's first and most foundational recommendation was creating the Office of the Research Data Rockstar (ORDR) — a central coordination unit with clear ownership and accountability for research data campus-wide.
+
+As of 2026, this role does not appear to exist in its proposed form. The result, as the roadmap predicted, is exactly the "leaderless vacuum" scenario: multiple units respond inconsistently (or not at all) to campus-wide research data issues, with no clear owner.
+
+::: {.callout-important}
+**Implication for One IT:** The absence of the ORDR is a documented, self-fulfilling problem. The WG's governance recommendations should directly address this gap. The ORDR concept maps cleanly onto what One IT needs in a research data coordination function.
+:::
+
+---
+
+## 5. Research Software and Code — Underweighted in 2022
+
+The roadmap mentioned code repositories and software tools but treated research software primarily as a storage and sharing problem. Since 2022:
+
+- **Research software engineering (RSE)** has emerged as a recognized professional role. Major institutions (Michigan, Stanford, NYU) now have dedicated RSE teams. UCLA does not have a coherent RSE capacity.
+- **FAIR for software** (FAIR4RS principles) are now funder expectations alongside FAIR for data.
+- **Code reproducibility** has become a major journal and funder requirement. Researchers need support writing reproducible, shareable code — not just storing it.
+- **GitHub/GitLab institutional instances** are now common at peer institutions, providing version control, collaboration, and archiving in one place.
+
+::: {.callout-tip}
+**Implication for One IT:** Research software support belongs in the research IT portfolio, not generic IT. This argues for specialist staff (RSEs) embedded in or closely coordinated with research units — not consolidated into a campus IT help desk model.
+:::
+
+---
+
+## 6. Cloud for Research — More Complicated Than Anticipated
+
+The roadmap called for a managed Cloud for Research program (AWS, GCP, Azure). The reality at institutions that have implemented this is more complex:
+
+- **Cloud costs for research computing are unpredictable and often shocking.** GPU instances especially. Researchers frequently exceed expected costs or avoid cloud because the billing model is opaque.
+- **Skills gap is significant.** Researchers need training and support to use cloud effectively — not just access.
+- **Data transfer costs** (egress fees) create lock-in and unexpected expenses.
+- **Security and compliance in cloud** is more complex than on-premises in many ways.
+
+Several peer institutions have pulled back from aggressive "cloud-first" research computing positions and moved toward hybrid models with on-premises capacity for predictable workloads and cloud for burst/specialized needs.
+
+::: {.callout-tip}
+**Implication for One IT:** Cloud for research is essential but requires more sophisticated support than the 2022 roadmap described. Cost management, training, and a hybrid model are now clearly the right approach.
+:::
+
+---
+
+## 7. Data Sovereignty and Equity Frameworks
+
+The roadmap briefly mentioned CARE principles (Collective benefit, Authority to control, Responsibility, Ethics — addressing Indigenous data governance) but did not develop this into a full recommendation.
+
+Since 2022:
+
+- **Indigenous data sovereignty** has become an active area of policy development at UC and nationally
+- **Community-based participatory research** data governance is increasingly required by funders for health equity research
+- **Data equity** — who has access to data, who benefits from data about them — is an emerging compliance and ethics concern
+
+::: {.callout-tip}
+**Implication for One IT:** Data governance frameworks need to explicitly address these dimensions, particularly for health-related and community-engaged research.
+:::
+
+---
+
+## 8. DataX — What Happened?
+
+The roadmap positioned DataX as a key partner and driver — the \$10M initiative was expected to create demand for research data infrastructure and provide a pilot use case for the Bruin Data Hub.
+
+DataX had a three-year initial funding window. Its status and trajectory as of 2026 is worth understanding:
+
+- Did it generate the expected demand for research data infrastructure?
+- Did the infrastructure investments DataX needed ever materialize?
+- What does DataX leadership say about research data infrastructure gaps?
+
+::: {.callout-tip}
+**Implication for One IT:** DataX was supposed to be both a demand signal and an early adopter for RDWG proposals. Understanding what actually happened is important context for the WG.
+:::
+
+---
+
+*This analysis should be reviewed against any updates from RDWG Phase 2 materials (2023–2024) before finalizing.*

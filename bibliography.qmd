@@ -1,0 +1,31 @@
+---
+title: "Bibliography"
+subtitle: "One IT Research Working Group — Reference List"
+author: "Compiled by Tim Dennis, UCLA Library Data Science Center"
+date: "March 2026"
+bibliography: bibliography.ris
+nocite: '@*'
+csl: apa.csl
+---
+
+Sources organized by category. The formatted reference list appears below; the source RIS file is available for import into Zotero or other reference managers via the [Resources](resources.qmd) page.
+
+## Source Categories
+
+| # | Category |
+|---|----------|
+| 1 | UCLA Primary Documents |
+| 2 | Federal Policy and Funder Mandates |
+| 3 | Federal Funding Crisis (2025–2026) |
+| 4 | AI and Research Computing Infrastructure |
+| 5 | Library Technical Infrastructure and Research Software |
+| 6 | IT Consolidation and Higher Education IT |
+| 7 | UCLA Faculty and Senate Responses to OneIT (2025) |
+| 8 | OneIT Administration Documents |
+
+---
+
+## References
+
+::: {#refs}
+:::

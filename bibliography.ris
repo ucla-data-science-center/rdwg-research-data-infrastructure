@@ -1,0 +1,566 @@
+TY  - RPRT
+AU  - UCLA Research Data Working Group
+TI  - A Call to Action: A Roadmap for Expanding Research Infrastructure and Data Services at UCLA
+PY  - 2022
+DA  - 2022/12/02
+PB  - UCLA
+UR  - https://escholarship.org/uc/item/
+KW  - research data infrastructure
+KW  - UCLA
+KW  - HPC
+KW  - data management
+KW  - open science
+N1  - 66-page primary roadmap; basis for RDWG recommendations
+ER  -
+
+TY  - SLIDE
+AU  - UCLA Research Data Working Group
+TI  - Research Data Roadmap Overview
+PY  - 2023
+DA  - 2023/05
+PB  - UCLA
+KW  - research data infrastructure
+KW  - UCLA
+N1  - 20-slide deck for campus meeting series, May 2023
+ER  -
+
+TY  - RPRT
+AU  - UCLA Research Data Working Group
+TI  - RDWG Phase 2: Deans Council Brief
+PY  - 2024
+DA  - 2024/01
+PB  - UCLA
+KW  - research data infrastructure
+KW  - UCLA
+KW  - implementation
+N1  - Phase 2 strategy summary presented to Deans Council, January 2024
+ER  -
+
+TY  - GOVDOC
+AU  - National Institutes of Health
+TI  - NIH Policy for Data Management and Sharing
+PY  - 2023
+DA  - 2023/01/25
+PB  - U.S. Department of Health and Human Services
+UR  - https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html
+KW  - data management
+KW  - federal policy
+KW  - open science
+KW  - FAIR
+N1  - Effective January 25, 2023. NOT-OD-21-013. Requires funded data management and sharing plans for all NIH-funded research.
+ER  -
+
+TY  - GOVDOC
+AU  - Office of Science and Technology Policy
+TI  - Ensuring Free, Immediate, and Equitable Access to Federally Funded Research
+PY  - 2022
+DA  - 2022/08/25
+PB  - Executive Office of the President
+UR  - https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/
+KW  - open access
+KW  - federal policy
+KW  - public access mandate
+N1  - Known as the "Nelson Memo." Effective December 2025. Requires all federally-funded research to be publicly available immediately at no cost.
+ER  -
+
+TY  - GOVDOC
+AU  - University of California
+TI  - UC Research Data Policy
+PY  - 2022
+DA  - 2022/07/01
+PB  - University of California Office of the President
+KW  - research data policy
+KW  - University of California
+N1  - Effective July 1, 2022. UC owns research data; VCR responsible for campus compliance.
+ER  -
+
+TY  - ELEC
+AU  - r/NIH
+TI  - How NIH went from 756 funding announcements to 14
+PY  - 2026
+DA  - 2026/03/16
+UR  - https://www.reddit.com/r/NIH/comments/1rvjv8f/how_nih_went_from_756_funding_announcements_to/
+KW  - NIH
+KW  - federal funding
+KW  - research funding cuts
+N1  - Reddit thread, score 75. NIH Notices of Funding Opportunities collapsed from 756 to 14 in FY2026.
+ER  -
+
+TY  - ELEC
+AU  - r/NIH
+TI  - White House stalls release of US science budgets approved by Congress
+PY  - 2026
+DA  - 2026/02/27
+UR  - https://www.reddit.com/r/NIH/comments/1rgazcm/white_house_stalls_release_of_us_science_budgets/
+KW  - NIH
+KW  - NSF
+KW  - federal funding
+KW  - research funding
+N1  - Reddit thread, score 62. FY2026 NIH/NSF funds withheld despite Congressional appropriation.
+ER  -
+
+TY  - VIDEO
+AU  - ABC15 Arizona
+TI  - NIH research funding cuts lead to layoffs at Arizona State University
+PY  - 2025
+DA  - 2025/04/10
+UR  - https://www.youtube.com/watch?v=43rKFo5IMoU
+KW  - NIH
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - Arizona State University
+N1  - YouTube. 731 views. Documents NIH cuts → ASU research staff layoffs.
+ER  -
+
+TY  - VIDEO
+AU  - Sky News Australia
+TI  - Columbia University announce mass layoffs after the Trump Administration revokes grants
+PY  - 2025
+DA  - 2025/05/07
+UR  - https://www.youtube.com/watch?v=K8Tg2V_ytl4
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - Columbia University
+KW  - grant revocation
+N1  - YouTube. 109,116 views. Federal grant revocations leading directly to university personnel cuts.
+ER  -
+
+TY  - VIDEO
+AU  - KSDK News
+TI  - More than 300 jobs cut at WashU, around 200 openings closed after federal funding losses
+PY  - 2025
+DA  - 2025/10/01
+UR  - https://www.youtube.com/watch?v=NE9-UCvBrlI
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - Washington University in St. Louis
+N1  - YouTube. 5,735 views.
+ER  -
+
+TY  - VIDEO
+AU  - WBAL-TV Baltimore
+TI  - Funding cuts lead to layoff risk for University System of Maryland
+PY  - 2025
+DA  - 2025/09/23
+UR  - https://www.youtube.com/watch?v=E8rwejgUqpI
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - University System of Maryland
+N1  - YouTube. 1,246 views.
+ER  -
+
+TY  - VIDEO
+AU  - MSU / WKAR News
+TI  - MSU President Speaks Out: $85M Cuts, Layoffs & The Future of Higher Ed
+PY  - 2025
+DA  - 2025/09/04
+UR  - https://www.youtube.com/watch?v=AIAWm2d6iPw
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - Michigan State University
+N1  - YouTube. 169 views.
+ER  -
+
+TY  - VIDEO
+AU  - Mint
+TI  - US Universities Face Student Drop, Announce Budget Cuts & Layoffs as Crisis Deepens
+PY  - 2025
+DA  - 2025/10/04
+UR  - https://www.youtube.com/watch?v=ViMuIOV1pXs
+KW  - federal funding cuts
+KW  - university layoffs
+KW  - higher education crisis
+N1  - YouTube. 78,144 views.
+ER  -
+
+TY  - VIDEO
+AU  - Chronicle of Higher Education
+TI  - The Higher Ed Group Fighting Trump
+PY  - 2026
+DA  - 2026/02/18
+UR  - https://www.youtube.com/watch?v=jY8i2Z4nRxY
+KW  - higher education
+KW  - federal policy
+KW  - institutional autonomy
+N1  - YouTube. 155 views. Covers organized higher education response to federal funding threats.
+ER  -
+
+TY  - VIDEO
+AU  - Bloomberg Television
+TI  - Bloomberg Surveillance 3/16/2026
+PY  - 2026
+DA  - 2026/03/16
+UR  - https://www.youtube.com/watch?v=vahB50-jgKs
+KW  - federal budget
+KW  - research funding
+KW  - higher education
+N1  - YouTube. 3,890 views. Markets weighing federal budget uncertainty; research funding in context of fiscal tightening.
+ER  -
+
+TY  - VIDEO
+AU  - Stanford SIEPR
+TI  - SIEPR Economic Summit 2026: University Presidents on the Future of Higher Education
+PY  - 2026
+DA  - 2026/03/13
+UR  - https://www.youtube.com/watch?v=5PUb-CjD9J4
+KW  - higher education
+KW  - university presidents
+KW  - research funding
+N1  - YouTube. 102 views.
+ER  -
+
+TY  - VIDEO
+AU  - Texas Tech University System
+TI  - Texas Tech Joins NVIDIA to Launch Next-Generation AI Infrastructure
+PY  - 2026
+DA  - 2026/03/06
+UR  - https://www.youtube.com/watch?v=b5HlH7RcGNk
+KW  - AI infrastructure
+KW  - GPU
+KW  - university research computing
+KW  - Texas Tech
+KW  - NVIDIA
+N1  - YouTube. 630 views. Peer institution benchmark: centralized AI compute investment with NVIDIA. Directly comparable to RDWG recommendation for UCLA.
+ER  -
+
+TY  - VIDEO
+AU  - The Infographics Show
+TI  - Why AI Researchers Are Quitting and Panicking on the Way Out
+PY  - 2026
+DA  - 2026/03/17
+UR  - https://www.youtube.com/watch?v=rtT87iAm_SM
+KW  - AI researchers
+KW  - research computing
+KW  - talent retention
+N1  - YouTube. 9,486 views, 538 likes. Covers AI researchers leaving big tech; relevant to university argument for campus AI infrastructure to attract talent.
+ER  -
+
+TY  - VIDEO
+AU  - The Automated Daily
+TI  - OpenAI lands massive new funding & AI compute wars: TPUs vs GPUs
+PY  - 2026
+DA  - 2026/03/01
+UR  - https://www.youtube.com/watch?v=ditRA-QhtZg
+KW  - AI compute
+KW  - GPU
+KW  - TPU
+KW  - research infrastructure
+N1  - YouTube. Context on the broader AI compute infrastructure race.
+ER  -
+
+TY  - VIDEO
+AU  - CNBC
+TI  - The Truth About AI And The Mass Layoffs
+PY  - 2025
+DA  - 2025/11/04
+UR  - https://www.youtube.com/watch?v=8g5img1hTes
+KW  - AI
+KW  - layoffs
+KW  - labor market
+N1  - YouTube. 512,598 views. 946,000+ job cuts Jan-Sept 2025; 300,000 from government sector.
+ER  -
+
+TY  - VIDEO
+AU  - FT Working It
+TI  - The graduate 'jobpocalypse': Where have all the entry-level jobs gone?
+PY  - 2025
+DA  - 2025/09/29
+UR  - https://www.youtube.com/watch?v=IeTFpsuCor8
+KW  - labor market
+KW  - AI
+KW  - entry-level jobs
+N1  - YouTube. 1,311,199 views. Entry-level jobs vanishing; AI and political environment as factors.
+ER  -
+
+TY  - ELEC
+AU  - r/HPC
+TI  - HPC design & admin resources
+PY  - 2026
+DA  - 2026/03/14
+UR  - https://www.reddit.com/r/HPC/comments/1rtfow5/hpc_design_admin_resources/
+KW  - HPC
+KW  - research computing
+KW  - campus infrastructure
+N1  - Reddit thread, score 70. University-affiliated poster requesting resources for designing full-scale HPC cluster.
+ER  -
+
+TY  - ELEC
+AU  - r/mlops
+TI  - Wrote a guide to building an ML research cluster. Feedback appreciated.
+PY  - 2026
+DA  - 2026/02/24
+UR  - https://www.reddit.com/r/mlops/comments/1rdpbkd/wrote_a_guide_to_building_an_ml_research_cluster/
+KW  - ML cluster
+KW  - research computing
+KW  - GPU
+N1  - Reddit thread, score 60. Practical guide for university-scale research GPU clusters.
+ER  -
+
+TY  - JOUR
+AU  - Wilkinson, Mark D.
+AU  - Dumontier, Michel
+AU  - Aalbersberg, IJsbrand Jan
+TI  - The FAIR Guiding Principles for scientific data management and stewardship
+JO  - Scientific Data
+PY  - 2016
+VL  - 3
+SP  - 160018
+DO  - 10.1038/sdata.2016.18
+KW  - FAIR
+KW  - data management
+KW  - open science
+KW  - research data
+ER  -
+
+TY  - JOUR
+AU  - Chue Hong, Neil P.
+AU  - Katz, Daniel S.
+AU  - Barker, Michelle
+TI  - FAIR Principles for Research Software (FAIR4RS Principles)
+JO  - Scientific Data
+PY  - 2022
+VL  - 9
+SP  - 622
+DO  - 10.1038/s41597-022-01710-x
+KW  - FAIR
+KW  - research software
+KW  - software engineering
+KW  - open science
+ER  -
+
+TY  - BOOK
+AU  - Dennis, Tim
+TI  - Data Science in Libraries
+PY  - 2021
+KW  - data science
+KW  - libraries
+KW  - research data
+KW  - library technology
+ER  -
+
+TY  - RPRT
+AU  - Association of Research Libraries
+TI  - Research Analytics and Data Services Initiative
+PY  - 2023
+PB  - Association of Research Libraries
+KW  - research libraries
+KW  - data services
+KW  - research analytics
+ER  -
+
+TY  - RPRT
+AU  - Association of College and Research Libraries
+TI  - Top Trends in Academic Libraries
+PY  - 2024
+PB  - American Library Association
+KW  - academic libraries
+KW  - library trends
+KW  - library technology
+ER  -
+
+TY  - RPRT
+AU  - IBM Security
+TI  - Cost of a Data Breach Report
+PY  - 2022
+PB  - IBM
+KW  - cybersecurity
+KW  - data breach
+KW  - PHI
+N1  - Cited in RDWG roadmap: $146/record general; $429-499/record for protected health information.
+ER  -
+
+TY  - LETTER
+AU  - AFT Local 1990 Library Chapter
+TI  - Request for Consultation on OneIT Initiative and Library Technical Staff
+PY  - 2025
+DA  - 2025/12
+KW  - OneIT
+KW  - UCLA Library
+KW  - IT consolidation
+KW  - library technical staff
+N1  - Draft letter to Chancellor Frenk, EVCP Hunt, and AVC Avetisyan. Requests pause on library staff transfers and consultation meeting. To be co-signed by UAW 5810, UPTE, Teamsters.
+ER  -
+
+TY  - RPRT
+AU  - McEvoy, Megan
+AU  - UCLA Academic Senate Executive Board
+TI  - OneIT Request for Senate Consultation [Executive Board Letter to EVCP Hunt]
+PY  - 2025
+DA  - 2025/11/07
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - academic computing
+KW  - shared governance
+KW  - UCLA Academic Senate
+N1  - Executive Board voted unanimously to endorse CDITP's 7 points. Key points: OneIT primary purpose should serve academic mission not administrative expediency; recognize heterogeneity of computing needs; distinguish administrative vs. academic computing; proactive consultation must be a feature not a bug; examine cost efficiency including Health System centralization.
+ER  -
+
+TY  - RPRT
+AU  - Leazer, Gregory
+AU  - UCLA Committee on Data, Information Technology, and Privacy
+TI  - OneIT Request for Senate Consultation [CDITP Response]
+PY  - 2025
+DA  - 2025/10/21
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - academic computing
+KW  - shared governance
+KW  - cybersecurity
+KW  - federated governance
+N1  - 5-page memo from CDITP Chair Gregory Leazer. Defines academic computing formally (research infrastructure, instructional platforms, scholarly communication tools, lab technologies). Cites UC Regents Bylaw 40.1, APM-010 Academic Freedom, and IS-3 Electronic Information Security (Oct 25 2019) as legal basis for Senate authority over academic computing. Requests temporary freeze on changes to academic computing until joint consultation framework in place. 7 specific recommendations including academic mission impact statements, federated cybersecurity governance. References: May 2016 Data Governance Task Force report; May 2022 CDITP memo; June 2025 Assembly Resolution on Trellix.
+ER  -
+
+TY  - RPRT
+AU  - McCarty, Teresa L.
+AU  - UCLA School of Education and Information Studies Faculty Executive Committee
+TI  - OneIT Request for Senate Consultation [SE&IS FEC Response]
+PY  - 2025
+DA  - 2025/10/31
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - IT consolidation
+KW  - shared governance
+N1  - Notes UCLA track record of costly IT failures: ReImagine IT, Ascend Finance Transformation ($213M). Raises surveillance concern: "Is the intention improved efficiency or heightened surveillance?" Recommends hybrid cybersecurity model; requests pause on Discovery Phase.
+ER  -
+
+TY  - RPRT
+AU  - Debenport, Erin
+AU  - UCLA College of Letters and Science Faculty Executive Committee
+TI  - Response to the One IT Request for Senate Consultation [L&S FEC Response]
+PY  - 2025
+DA  - 2025/10/31
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - IT consolidation
+KW  - shared governance
+KW  - research computing
+N1  - 5-page memo. Documents concrete harms already underway: reporting lines shifted to DTS central supervisors before consultation; a department unable to purchase server for government-funded research (threatening grant revenue); IT staff leaving in anticipation of centralization causing immediate departmental impact. References $213M Ascend Finance Transformation failure and widely opposed Trellix rollout. Murphy Hall IT support no-show at Senate subcommittee meeting.
+ER  -
+
+TY  - RPRT
+AU  - Gebremichael, Mekonnen
+AU  - UCLA Henry Samueli School of Engineering and Applied Science Faculty Executive Committee
+TI  - OneIT Request for Senate Consultation [HSSEAS Engineering FEC Response]
+PY  - 2025
+DA  - 2025/10/30
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - research computing
+KW  - engineering IT
+N1  - Engineering IT systems deeply integrated with specialized research, instructional, and operational needs. Engineering not represented on OneIT working group; strongly recommends inclusion. Notes centralization risk: increased response times, reduced access to specialized resources.
+ER  -
+
+TY  - RPRT
+AU  - Sorenson, Olav
+AU  - UCLA Anderson School of Management Faculty Executive Committee
+TI  - OneIT Request for Senate Consultation [Anderson AGSM FEC Response]
+PY  - 2025
+DA  - 2025/10/28
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - IT consolidation
+KW  - organizational change
+N1  - Cites management research showing standardization has costs and organizational change frequently fails. Anderson requires 8am-10pm IT support for evening/weekend programs. Recommends cost-benefit analysis before commitment; notes unique financial models (SSGPDP). "No single IT solution can meet these distinct needs without compromising the quality of the educational experience."
+ER  -
+
+TY  - RPRT
+AU  - Mayeda, Elizabeth Rose
+AU  - UCLA Faculty Welfare Committee
+TI  - One IT Request for Senate Consultation [Faculty Welfare Committee Response]
+PY  - 2025
+DA  - 2025/10/27
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - research computing
+KW  - faculty welfare
+N1  - Distinguishes centralizable IT (standard software licenses) from specialized IT requiring immediate response and domain expertise (research computing, classroom support). Requests transparency on Discovery Phase data collection and cost projections.
+ER  -
+
+TY  - RPRT
+AU  - Shlyakhtenko, Dimitri
+AU  - UCLA Council on Research
+TI  - OneIT Request for Senate Consultation [Council on Research Response]
+PY  - 2025
+DA  - 2025/10/23
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - research computing
+KW  - UCLA Health
+KW  - HPC
+N1  - 3-page letter. Documents UCLA Health/DGSOM IT centralization as cautionary precedent: service disruption, protracted implementation, replacement of responsive local IT with centralized ticket-based support, "work centrally-pay locally" model with PIs losing oversight of research IT staff. Academic Senate surveys show broadly negative perception of DTS services. Recommends urgent HPC investment, cloud discount negotiation, datacenter construction consideration, 50%+ faculty representation on advisory committees. Recommends extending Discovery phase through Winter/Spring quarter.
+ER  -
+
+TY  - RPRT
+AU  - Maloy, Jeff
+AU  - UCLA Undergraduate Council
+TI  - OneIT Request for Senate Consultation [Undergraduate Council Response]
+PY  - 2025
+DA  - 2025/10/23
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - instructional computing
+KW  - equity
+N1  - Science departments require specialized lab IT; consolidation troubleshooting delays would negatively impact instruction. Notes basic disparities already exist (classrooms lacking wifi/AV); centralization could exacerbate disparities. Recommends involving Center for Accessible Education.
+ER  -
+
+TY  - RPRT
+AU  - Desjardins, Richard
+AU  - UCLA Council on Planning and Budget
+TI  - OneIT Proposal [Council on Planning and Budget Response]
+PY  - 2025
+DA  - 2025/10/21
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - budget
+KW  - shared governance
+KW  - privacy
+N1  - Formally requested detailed budget presentation from DTS. Raised AI-surveillance risk: if all data centralized under OneIT, AI agents could more easily synthesize private information. Notes past qualitative research in similar efforts was inadequate.
+ER  -
+
+TY  - RPRT
+AU  - Dabrowska, Dorota
+AU  - UCLA Graduate Council
+TI  - OneIT Request for Senate Consultation [Graduate Council Response]
+PY  - 2025
+DA  - 2025/10/13
+PB  - UCLA Academic Senate
+KW  - OneIT
+KW  - shared governance
+N1  - Noted Discovery Phase covers relevant key areas; requested opportunity to review outcomes report at conclusion of Discovery phase.
+ER  -
+
+TY  - LETTER
+AU  - UCLA Department Chairs and Center Directors
+TI  - Letter to Chancellor Frenk and EVCP Hunt re: One IT Initiative
+PY  - 2025
+DA  - 2025/09/07
+KW  - OneIT
+KW  - shared governance
+KW  - academic computing
+KW  - OARC
+N1  - Signed by 70+ department chairs and center directors (62+ named signatories spanning all divisions). Key arguments: conflict of interest in placing OARC under DTS reporting to Administrative VC; OneIT retroactively added to UCLA Strategic Plan website (cached May 29 2025 showed different text); EVCP Hunt himself previously opposed similar IT reorganization as Dean of Social Sciences; Ascend Finance Transformation failure "loss of hundreds of millions of dollars"; reporting line changes implemented before faculty informed. Two requests: (1) pause and roll back IT staff reporting line changes; (2) include IDRE, Academic Senate, Deans, unit Chairs/Directors, and FECs in planning.
+ER  -
+
+TY  - LETTER
+AU  - Hunt, Darnell M.
+TI  - Letter to Chairs and Directors re: One IT Initiative [EVCP Response]
+PY  - 2025
+DA  - 2025/10/08
+PB  - UCLA Office of the Executive Vice Chancellor and Provost
+KW  - OneIT
+KW  - UCLA Strategic Plan
+KW  - shared governance
+N1  - 4-page response. Acknowledges concerns; frames OneIT as Goal 5 of 2023-28 Strategic Plan. Cites UCLA's 40+ IT units, 70+ networks, 39 email systems as rationale. Commits to broader consultation; first Town Hall October 21, 2025. States specialized academic and research computing needs will remain supported.
+ER  -
+
+TY  - RPRT
+AU  - One IT Project Team
+TI  - Request for Senate Consultation: One IT Discovery Phase
+PY  - 2025
+DA  - 2025/10/02
+PB  - UCLA Digital and Technology Solutions
+KW  - OneIT
+KW  - Discovery Phase
+KW  - IT consolidation
+N1  - Administration's own consultation request memo. Four focus areas: Workforce, Costs, Services, Security/Compliance. Three-step consultation plan: early October presentation, November 7 written feedback, December 2025 conclusion.
+ER  -

@@ -1,0 +1,335 @@
+---
+title: "UCLA Already Has a Research Data Roadmap"
+subtitle: "What the RDWG Found — and What It Means for OneIT"
+author: "Tim Dennis, UCLA Library Data Science Center"
+date: "March 2026"
+format:
+  revealjs:
+    theme: [simple, ucla-theme.scss]
+    logo: assets/logos/logo_UCLA_blue.svg
+    slide-number: true
+    footer: "One IT Research Working Group — March 2026"
+    fig-align: center
+    echo: false
+    warning: false
+    message: false
+title-slide-attributes:
+  data-background-color: "#003B5C"
+execute:
+  echo: false
+  warning: false
+---
+
+```{r setup}
+library(ggplot2)
+library(dplyr)
+library(scales)
+
+# UCLA brand colors
+ucla_blue      <- "#2774AE"
+ucla_gold      <- "#FFD100"
+ucla_dark_blue <- "#003B5C"
+ucla_light_blue <- "#8BB8E8"
+```
+
+## Our Charge
+
+The One IT Research WG is tasked with:
+
+- Assessing critical research digital experiences
+- Identifying gaps and investment priorities
+- Evaluating campus IT roles
+- Recommending improvements
+
+**UCLA's Research Data Working Group spent 18 months doing exactly this.**
+
+Their findings are directly relevant — and already available to us.
+
+---
+
+## What Was the RDWG?
+
+**Charged in early 2021 by five executive sponsors:**
+
+- Roger Wakimoto — Vice Chancellor for Research
+- Ginny Steel — University Librarian
+- Lucy Avetisyan — AVC & CIO
+- Jim Davis — Vice Provost for IT
+- Ellen Pollack — CIO, UCLA Health Sciences
+
+**18 months of work:** campus-wide data gathering, faculty input, peer benchmarking across 13 service categories
+
+**Output:** *A Call to Action* — 66-page roadmap, December 2022
+
+---
+
+## UCLA's NSF Per-Award Gap
+
+```{r nsf-chart}
+#| fig-height: 4.2
+
+nsf <- data.frame(
+  institution = c("UC Santa Barbara", "UC San Diego", "Stanford",
+                  "UC Berkeley", "UC Irvine", "UCLA", "UC Davis"),
+  award_avg = c(427708, 411669, 393089, 376572, 311264, 307474, 302687)
+) |>
+  mutate(
+    institution = factor(institution, levels = rev(institution)),
+    is_ucla = institution == "UCLA",
+    label = paste0("$", comma(round(award_avg / 1000), accuracy = 1), "K")
+  )
+
+ggplot(nsf, aes(x = award_avg, y = institution, fill = is_ucla)) +
+  geom_col(width = 0.65) +
+  geom_text(aes(label = label), hjust = -0.15, size = 3.5, color = "#1a1a1a") +
+  scale_fill_manual(values = c("FALSE" = ucla_light_blue, "TRUE" = ucla_gold),
+                    guide = "none") +
+  scale_x_continuous(labels = dollar_format(scale = 1/1000, suffix = "K"),
+                     limits = c(0, 510000), expand = c(0, 0)) +
+  labs(
+    title = "NSF 5-Year Average Per-Award Value",
+    subtitle = "UCLA ranks 6th of 7 UC peers — a 15–30% gap below UCSB and UCSD",
+    x = NULL, y = NULL,
+    caption = "Source: NSF Budget Internet Information System (RDWG, 2022)"
+  ) +
+  theme_minimal(base_size = 13) +
+  theme(
+    plot.title    = element_text(color = ucla_dark_blue, face = "bold", size = 14),
+    plot.subtitle = element_text(color = "#444444", size = 11),
+    plot.caption  = element_text(color = "#888888", size = 8),
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor   = element_blank(),
+    axis.text.y = element_text(
+      color = ifelse(levels(nsf$institution) == "UCLA", ucla_dark_blue, "#1a1a1a"),
+      face  = ifelse(levels(nsf$institution) == "UCLA", "bold", "plain"),
+      size  = 12
+    )
+  )
+```
+
+---
+
+## The Core Problem: Coordination, Not Capability
+
+UCLA fell behind peers in **8 of 13** research data service categories:
+
+```{r benchmarking-chart}
+#| fig-height: 3.5
+
+bench <- data.frame(
+  status = c("Behind peers", "At par or ahead"),
+  count  = c(8, 5)
+) |>
+  mutate(
+    pct   = count / sum(count),
+    label = paste0(count, " of 13\ncategories"),
+    ypos  = cumsum(pct) - pct / 2
+  )
+
+ggplot(bench, aes(x = 2, y = pct, fill = status)) +
+  geom_col(width = 1, color = "white", linewidth = 1.2) +
+  geom_text(aes(label = label), position = position_stack(vjust = 0.5),
+            size = 4.5, color = "white", fontface = "bold") +
+  coord_polar(theta = "y", start = 0) +
+  xlim(0.5, 2.5) +
+  scale_fill_manual(values = c("Behind peers" = ucla_dark_blue,
+                               "At par or ahead" = ucla_light_blue)) +
+  labs(
+    title    = "Peer Benchmarking: 13 Research Data Service Categories",
+    subtitle = "Lowest score among peers: research data services program\nwith a website and service catalog",
+    fill     = NULL,
+    caption  = "Source: RDWG peer benchmarking (Research on Data Services II, 2022)"
+  ) +
+  theme_void(base_size = 12) +
+  theme(
+    plot.title    = element_text(color = ucla_dark_blue, face = "bold",
+                                 size = 13, hjust = 0.5),
+    plot.subtitle = element_text(color = "#444444", size = 10, hjust = 0.5),
+    plot.caption  = element_text(color = "#888888", size = 8, hjust = 0.5),
+    legend.position = "bottom",
+    legend.text = element_text(size = 11)
+  )
+```
+
+---
+
+## The Compliance Environment
+
+The stakes have risen significantly since 2022:
+
+- **NIH Data Management & Sharing Policy** — in effect January 2023; every proposal requires a funded data management plan
+- **OSTP public access mandate** — in effect December 2025; all federally-funded research publicly available at no cost
+- **UC Research Data Policy** — VCR responsible for campus compliance
+- **Export controls** — tightened significantly on AI and dual-use research
+
+**UCLA lacks the staff and infrastructure to support compliance at the scale of a $1.7B research enterprise.**
+
+---
+
+## What Peer Institutions Do
+
+Institutions that have outpaced UCLA share a common model:
+
+| Central | Local / Distributed |
+|---|---|
+| Shared storage platform | Discipline-specific expertise |
+| IAM/SSO and security baseline | Proximity to researchers |
+| Compliance coordination | Domain knowledge |
+| Economies of scale | Unit-specific workflows |
+
+> *"Investing in central services enhances distributed efforts — it does not replace them."*
+
+This is the **layered model** the RDWG recommends. It is not a choice between centralization and decentralization.
+
+---
+
+## What to Centralize — What to Preserve
+
+:::: {.columns}
+
+::: {.column}
+**Centralize the backbone:**
+
+- Network infrastructure, IAM/SSO, cybersecurity
+- Shared storage (baseline for all faculty)
+- Cloud procurement and cost coordination
+- Compliance guidance and service catalog
+:::
+
+::: {.column}
+**Preserve domain expertise:**
+
+- Research computing (PI-facing, domain-specific)
+- HPC and specialized research systems
+- Data services consulting (FAIR, DMPs, repositories)
+:::
+
+::::
+
+> *"Centralize the backbone — not the craft."*
+
+---
+
+## The Four RDWG Recommendations
+
+**1. Central coordination unit** *(proposed: ORDR)*
+Clear ownership of research data campus-wide — service catalog, compliance lead, accountability. *Governance: VCR.*
+
+**2. Shared research storage** *(proposed: Bruin Research Data Hub)*
+Baseline allocation for every faculty member at no cost. On-prem + cloud hybrid.
+
+**3. Expanded research data services**
+Data science consulting, digital asset management, researcher education. Built on existing Library/DSC capacity.
+
+**4. Expanded research infrastructure**
+HPC expansion, P3/P4 compliant environment for restricted data, Cloud for Research program.
+
+---
+
+## Investment Scale
+
+```{r investment-chart}
+#| fig-height: 3.8
+
+invest <- data.frame(
+  component = c("Coordination\n(ORDR)",
+                "Shared Storage\n(Bruin Hub)",
+                "Research Data\nServices",
+                "Research\nInfrastructure"),
+  full = c(9.2, 25.3, 11.1, 28.6),
+  mvp  = c(7.1, 23.0,  5.5, 14.2)
+) |>
+  tidyr::pivot_longer(c(full, mvp), names_to = "scenario", values_to = "cost") |>
+  mutate(
+    component = factor(component, levels = rev(unique(component))),
+    scenario  = factor(scenario, levels = c("full", "mvp"),
+                       labels = c("Full Implementation ($74.2M)", "MVP ($49.8M)"))
+  )
+
+ggplot(invest, aes(x = cost, y = component, fill = scenario)) +
+  geom_col(position = position_dodge(width = 0.7), width = 0.6) +
+  geom_text(aes(label = paste0("$", cost, "M")),
+            position = position_dodge(width = 0.7),
+            hjust = -0.1, size = 3.2, color = "#1a1a1a") +
+  scale_fill_manual(values = c("Full Implementation ($74.2M)" = ucla_dark_blue,
+                               "MVP ($49.8M)" = ucla_light_blue)) +
+  scale_x_continuous(labels = dollar_format(suffix = "M"),
+                     limits = c(0, 36), expand = c(0, 0)) +
+  labs(
+    title   = "6-Year Investment Range (2022 RDWG Estimates)",
+    x = "6-Year Cost", y = NULL, fill = NULL,
+    caption = "Source: RDWG Roadmap, December 2022"
+  ) +
+  theme_minimal(base_size = 12) +
+  theme(
+    plot.title = element_text(color = ucla_dark_blue, face = "bold", size = 13),
+    plot.caption = element_text(color = "#888888", size = 8),
+    legend.position = "bottom",
+    panel.grid.major.y = element_blank(),
+    panel.grid.minor   = element_blank()
+  )
+```
+
+---
+
+## Three Years Have Passed
+
+**None of the four core recommendations have been implemented.**
+
+Since 2022 the environment has intensified:
+
+- NIH DMSP in full effect (January 2023)
+- OSTP public access mandate in effect (December 2025)
+- Google Drive 10PB migration deadline passed (June 2024)
+- Generative AI created new GPU compute equity issues across every discipline
+- Federal funding more competitive and uncertain
+
+**The gaps identified in 2022 are larger now.**
+
+---
+
+## What Changed Since 2022
+
+| Development | Implication |
+|---|---|
+| **Generative AI** | GPU access now a research equity issue; institutional data governance unaddressed |
+| **Compliance intensification** | NIH DMSP live; OSTP in effect; export controls tightened |
+| **Research software engineering** | RSE now a recognized profession; FAIR4RS a funder expectation |
+| **Cloud complexity** | Hybrid model confirmed; cost management is a major support need |
+| **Federal funding uncertainty** | Infrastructure enabling larger multi-site awards is more valuable, not less |
+
+---
+
+## What This Group Can Do
+
+| WG Charge Area | RDWG Evidence Available |
+|---|---|
+| Research data management and storage | Peer benchmarking, Bruin Hub specs, use cases |
+| Compliance and regulatory needs | NIH/NSF/OSTP analysis, P3/P4 requirements |
+| Compute and infrastructure | Hoffman2 data, cloud analysis |
+| Gaps and investment priorities | 8/13 benchmarking gaps, cost analysis |
+| Central vs. local IT roles | Full layered model analysis |
+| Equity in research access | DSC expansion plan, outreach program |
+
+---
+
+## What I'm Asking
+
+1. **Build on what exists.** 18 months of peer-reviewed evidence is available. We don't need to start from scratch.
+
+2. **Adopt the layered model.** Central coordination augments local expertise — it does not absorb it. This is what works at peer institutions.
+
+3. **Establish clear governance for research data.** Research data is a research function. Coordination should be under VCR, with IT as the infrastructure partner.
+
+4. **Name the unfinished gaps.** ORDR, P3/P4 enclave, baseline storage — three years overdue. This group can give them institutional momentum.
+
+---
+
+## Source Materials
+
+All materials available from Tim Dennis (UCLA Library, Data Science Center):
+
+- **Primary roadmap** — *A Call to Action* (December 2022, 66 pages)
+- **Campus deck** — *Research Data Roadmap Overview* (May 2023)
+- **Peer benchmarking** — *Research on Data Services II* (13 categories)
+- **Phase 2 materials** — Implementation task analysis, Deans Council brief, Bruin Data Hub specs (2023–2024)

@@ -1,0 +1,66 @@
+/*-- UCLA brand web theme for Quarto --*/
+
+$ucla-blue: #2774AE;
+$ucla-dark-blue: #003B5C;
+$ucla-gold: #FFD100;
+$ucla-light-blue: #8BB8E8;
+
+/*-- Navbar --*/
+.navbar {
+  background-color: $ucla-dark-blue !important;
+  border-bottom: 3px solid $ucla-gold;
+}
+
+.navbar-brand, .navbar-nav .nav-link {
+  color: #ffffff !important;
+}
+
+.navbar-nav .nav-link:hover {
+  color: $ucla-gold !important;
+}
+
+/*-- Page header --*/
+h1, h2, h3, h4 {
+  color: $ucla-dark-blue;
+}
+
+h1 { border-bottom: 2px solid $ucla-gold; padding-bottom: 0.3em; }
+
+/*-- Links --*/
+a { color: $ucla-blue; }
+a:hover { color: $ucla-dark-blue; }
+
+/*-- TOC --*/
+#TOC a { color: $ucla-blue; }
+#TOC a:hover { color: $ucla-dark-blue; }
+
+/*-- Footer --*/
+.nav-footer {
+  background-color: $ucla-dark-blue;
+  color: #ffffff;
+  border-top: 3px solid $ucla-gold;
+}
+
+.nav-footer a { color: $ucla-light-blue; }
+
+/*-- Callout blocks --*/
+.callout-tip { border-left-color: $ucla-blue; }
+.callout-warning { border-left-color: $ucla-gold; }
+.callout-important { border-left-color: $ucla-dark-blue; }
+
+/*-- Hero section on index page --*/
+.hero {
+  background-color: $ucla-dark-blue;
+  color: #ffffff;
+  padding: 3rem 2rem;
+  margin-bottom: 2rem;
+  border-bottom: 4px solid $ucla-gold;
+}
+
+.hero h1 {
+  color: #ffffff;
+  border-bottom: none;
+  font-size: 2.2rem;
+}
+
+.hero p { color: $ucla-light-blue; font-size: 1.1rem; }
