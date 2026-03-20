@@ -46,7 +46,7 @@
     "href": "gaps-analysis.html",
     "title": "What’s Changed Since December 2022",
     "section": "",
-    "text": "The RDWG roadmap is a strong evidence base, but it was completed in December 2022 — before several major developments reshaped the research technology landscape. This document identifies:"
+    "text": "timeline\n    title Key Developments Since the RDWG Roadmap\n    section Before the roadmap\n        Nov 2022 : ChatGPT launches — generative AI era begins\n        Dec 2022 : RDWG Roadmap published\n                 : UC Research Data Policy takes effect\n    section Year 1\n        Jan 2023 : NIH Data Management & Sharing Policy takes effect\n                 : Every NIH proposal now requires a funded DMP\n        2023     : RDWG Phase 2 — implementation analysis and Deans Council brief\n    section Year 2\n        Jun 2024 : Google Drive 10PB migration deadline passes\n        2024     : RDWG Deans Council Brief finalized\n    section Year 3\n        Oct 2025 : UCLA Academic Senate delivers OneIT consultation responses\n        Dec 2025 : OSTP public access mandate takes full effect\n    section 2026\n        Mar 2026 : One IT Research Working Group charged by EVCP and CIO\nThe RDWG roadmap is a strong evidence base, but it was completed in December 2022 — before several major developments reshaped the research technology landscape. This document identifies:"
   },
   {
     "objectID": "gaps-analysis.html#generative-ai-the-biggest-gap",
@@ -130,7 +130,7 @@
     "href": "index.html#rdwg-priority-proposals",
     "title": "UCLA Research Data Infrastructure",
     "section": "RDWG Priority Proposals",
-    "text": "RDWG Priority Proposals\nThe RDWG recommended a layered model — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.\n\n\n\n\n\n\n\nProposal\nDescription\n\n\n\n\nORDR\nOffice of the Research Data Rockstar — coordination unit, compliance lead, service catalog\n\n\nBruin Research Data Hub\nHybrid storage platform with baseline faculty allocation; addresses the 90% departmental fragmentation\n\n\nExpanded Research Data Services\nBuilding on the Library’s Data Science Center\n\n\nExpanded Research Infrastructure\nHoffman2 HPC expansion, P3/P4 compliant enclave, Cloud for Research program"
+    "text": "RDWG Priority Proposals\nThe RDWG recommended a layered model — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.\n\n\n\n\n\nflowchart TD\n    ORDR[\"&lt;b&gt;ORDR&lt;/b&gt;&lt;br/&gt;Office of the Research Data Rockstar&lt;br/&gt;&lt;small&gt;Coordination · Compliance lead · Service catalog&lt;br/&gt;Governance: VCR&lt;/small&gt;\"]\n    Hub[\"&lt;b&gt;Bruin Research Data Hub&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Baseline storage for all faculty · On-prem + cloud&lt;br/&gt;Addresses 90% departmental fragmentation&lt;/small&gt;\"]\n    Services[\"&lt;b&gt;Expanded Research Data Services&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Data consulting · FAIR · DMPs&lt;br/&gt;Built on Library / DSC capacity&lt;/small&gt;\"]\n    Infra[\"&lt;b&gt;Expanded Research Infrastructure&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Hoffman2 expansion · P3/P4 secure enclave&lt;br/&gt;Cloud for Research program&lt;/small&gt;\"]\n\n    ORDR --&gt; Services\n    ORDR --&gt; Infra\n    Hub  --&gt; Services\n    Hub  --&gt; Infra\n\n    style ORDR     fill:#003B5C,color:#fff,stroke:#003B5C\n    style Hub      fill:#2774AE,color:#fff,stroke:#2774AE\n    style Services fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n    style Infra    fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n\n\n\n\n\n\nORDR and the Bruin Data Hub are the foundational layer — coordination and storage that make the rest possible. Services and infrastructure build on both."
   },
   {
     "objectID": "index.html#whats-here",
@@ -179,7 +179,7 @@
     "href": "rdwg-slides.html#what-peer-institutions-do",
     "title": "UCLA Already Has a Research Data Roadmap",
     "section": "What Peer Institutions Do",
-    "text": "What Peer Institutions Do\nInstitutions that have outpaced UCLA share a common model:\n\n\n\nCentral\nLocal / Distributed\n\n\n\n\nShared storage platform\nDiscipline-specific expertise\n\n\nIAM/SSO and security baseline\nProximity to researchers\n\n\nCompliance coordination\nDomain knowledge\n\n\nEconomies of scale\nUnit-specific workflows\n\n\n\n\n“Investing in central services enhances distributed efforts — it does not replace them.”\n\nThis is the layered model the RDWG recommends. It is not a choice between centralization and decentralization."
+    "text": "What Peer Institutions Do\n\n“Investing in central services enhances distributed efforts — it does not replace them.”\n\n\n\n\n\n\nmindmap\n  root((Layered Research IT))\n    Centralize the Backbone\n      Network and IAM/SSO\n      Shared storage baseline\n      Cybersecurity\n      Cloud procurement\n      Compliance coordination\n    Preserve Domain Expertise\n      Research computing\n      HPC systems\n      Data services consulting\n      Research software engineering\n      Discipline-specific platforms"
   },
   {
     "objectID": "rdwg-slides.html#what-to-centralize-what-to-preserve",
@@ -214,7 +214,7 @@
     "href": "rdwg-slides.html#what-changed-since-2022",
     "title": "UCLA Already Has a Research Data Roadmap",
     "section": "What Changed Since 2022",
-    "text": "What Changed Since 2022\n\n\n\n\n\n\n\nDevelopment\nImplication\n\n\n\n\nGenerative AI\nGPU access now a research equity issue; institutional data governance unaddressed\n\n\nCompliance intensification\nNIH DMSP live; OSTP in effect; export controls tightened\n\n\nResearch software engineering\nRSE now a recognized profession; FAIR4RS a funder expectation\n\n\nCloud complexity\nHybrid model confirmed; cost management is a major support need\n\n\nFederal funding uncertainty\nInfrastructure enabling larger multi-site awards is more valuable, not less"
+    "text": "What Changed Since 2022\n\n\n\n\n\nquadrantChart\n    title Urgency × Anticipation (2026 view)\n    x-axis \"Roadmap anticipated\" --&gt; \"Not anticipated\"\n    y-axis \"Lower urgency\" --&gt; \"Higher urgency\"\n    quadrant-1 Act now\n    quadrant-2 Already planned — still waiting\n    quadrant-3 Monitor\n    quadrant-4 Emerging priorities\n    ORDR not created: [0.12, 0.92]\n    P3/P4 enclave missing: [0.18, 0.82]\n    Compliance intensification: [0.30, 0.88]\n    Federal funding uncertainty: [0.72, 0.78]\n    Generative AI: [0.88, 0.90]\n    Cloud complexity: [0.38, 0.52]\n    Research Software Engineering: [0.48, 0.58]\n    Data sovereignty: [0.62, 0.42]"
   },
   {
     "objectID": "rdwg-slides.html#what-this-group-can-do",

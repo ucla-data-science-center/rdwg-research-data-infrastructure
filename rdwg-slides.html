@@ -126,6 +126,9 @@
       margin-right: 0; 
     }
   </style>
+  <script src="site_libs/quarto-diagram/mermaid.min.js"></script>
+  <script src="site_libs/quarto-diagram/mermaid-init.js"></script>
+  <link href="site_libs/quarto-diagram/mermaid.css" rel="stylesheet">
 </head>
 <body class="quarto-light">
   <div class="reveal">
@@ -192,37 +195,34 @@ Tim Dennis, UCLA Library Data Science Center
 </section>
 <section id="what-peer-institutions-do" class="slide level2">
 <h2>What Peer Institutions Do</h2>
-<p>Institutions that have outpaced UCLA share a common model:</p>
-<table class="caption-top">
-<thead>
-<tr class="header">
-<th>Central</th>
-<th>Local / Distributed</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td>Shared storage platform</td>
-<td>Discipline-specific expertise</td>
-</tr>
-<tr class="even">
-<td>IAM/SSO and security baseline</td>
-<td>Proximity to researchers</td>
-</tr>
-<tr class="odd">
-<td>Compliance coordination</td>
-<td>Domain knowledge</td>
-</tr>
-<tr class="even">
-<td>Economies of scale</td>
-<td>Unit-specific workflows</td>
-</tr>
-</tbody>
-</table>
 <blockquote>
 <p><em>“Investing in central services enhances distributed efforts — it does not replace them.”</em></p>
 </blockquote>
-<p>This is the <strong>layered model</strong> the RDWG recommends. It is not a choice between centralization and decentralization.</p>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">mindmap
+  root((Layered Research IT))
+    Centralize the Backbone
+      Network and IAM/SSO
+      Shared storage baseline
+      Cybersecurity
+      Cloud procurement
+      Compliance coordination
+    Preserve Domain Expertise
+      Research computing
+      HPC systems
+      Data services consulting
+      Research software engineering
+      Discipline-specific platforms
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 </section>
 <section id="what-to-centralize-what-to-preserve" class="slide level2">
 <h2>What to Centralize — What to Preserve</h2>
@@ -273,40 +273,33 @@ Tim Dennis, UCLA Library Data Science Center
 </section>
 <section id="what-changed-since-2022" class="slide level2">
 <h2>What Changed Since 2022</h2>
-<table class="caption-top">
-<colgroup>
-<col style="width: 50%">
-<col style="width: 50%">
-</colgroup>
-<thead>
-<tr class="header">
-<th>Development</th>
-<th>Implication</th>
-</tr>
-</thead>
-<tbody>
-<tr class="odd">
-<td><strong>Generative AI</strong></td>
-<td>GPU access now a research equity issue; institutional data governance unaddressed</td>
-</tr>
-<tr class="even">
-<td><strong>Compliance intensification</strong></td>
-<td>NIH DMSP live; OSTP in effect; export controls tightened</td>
-</tr>
-<tr class="odd">
-<td><strong>Research software engineering</strong></td>
-<td>RSE now a recognized profession; FAIR4RS a funder expectation</td>
-</tr>
-<tr class="even">
-<td><strong>Cloud complexity</strong></td>
-<td>Hybrid model confirmed; cost management is a major support need</td>
-</tr>
-<tr class="odd">
-<td><strong>Federal funding uncertainty</strong></td>
-<td>Infrastructure enabling larger multi-site awards is more valuable, not less</td>
-</tr>
-</tbody>
-</table>
+<div class="cell" data-reveal="true" data-layout-align="center">
+<div class="cell-output-display">
+<div>
+<p></p><figure class=""><p></p>
+<div>
+<pre class="mermaid mermaid-js">quadrantChart
+    title Urgency × Anticipation (2026 view)
+    x-axis "Roadmap anticipated" --&gt; "Not anticipated"
+    y-axis "Lower urgency" --&gt; "Higher urgency"
+    quadrant-1 Act now
+    quadrant-2 Already planned — still waiting
+    quadrant-3 Monitor
+    quadrant-4 Emerging priorities
+    ORDR not created: [0.12, 0.92]
+    P3/P4 enclave missing: [0.18, 0.82]
+    Compliance intensification: [0.30, 0.88]
+    Federal funding uncertainty: [0.72, 0.78]
+    Generative AI: [0.88, 0.90]
+    Cloud complexity: [0.38, 0.52]
+    Research Software Engineering: [0.48, 0.58]
+    Data sovereignty: [0.62, 0.42]
+</pre>
+</div>
+<p></p></figure><p></p>
+</div>
+</div>
+</div>
 </section>
 <section id="what-this-group-can-do" class="slide level2">
 <h2>What This Group Can Do</h2>
