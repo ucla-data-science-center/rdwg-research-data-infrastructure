@@ -76,8 +76,10 @@ The roadmap anticipated increasing funder mandates but didn't have the full pict
 
 - **UC Research Data Policy** (effective July 2022, noted in the roadmap) is still not fully operationalized campus-wide. The compliance lead the ORDR was supposed to provide still doesn't exist as a clear role.
 
+**A P3/P4 answer already exists — and is already institutional:** UCLA Library operates **UCLA Redivis**, a production-ready sensitive data platform in active institutional use. It supports granular permissions, Data Use Agreement (DUA) management, SSO, DOI minting for datasets, and Python/R APIs for researcher workflows. Its multi-organization architecture means the institutional framework is already established — the Library is an active organization within it, and the buy-in model is in place. Any WG recommendation on sensitive data should build on this existing infrastructure, not duplicate it.
+
 ::: {.callout-important}
-**Implication for One IT:** Compliance is now more urgent and more complex than the 2022 analysis captured. The ORDR role and the P3/P4 enclave are now critical infrastructure, not aspirational goals.
+**Implication for One IT:** Compliance is now more urgent and more complex than the 2022 analysis captured. The ORDR role and the P3/P4 enclave are now critical infrastructure, not aspirational goals. For the P3/P4 enclave specifically, UCLA Redivis already provides the core platform — the missing piece is institutional coordination and VCR-level governance, not a new build.
 :::
 
 ---
