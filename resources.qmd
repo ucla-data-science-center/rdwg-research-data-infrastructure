@@ -34,6 +34,15 @@ Detailed peer benchmarking across 13 research data service categories at compara
 
 ---
 
+### Research Data Roadmap Overview — Winter Quarter 2023
+*UCLA Research Data Working Group — February 2023 — 20 slides*
+
+Visual presentation of the RDWG roadmap used for the Winter/Spring 2023 campus meeting series. Covers the steering committee structure, the four roadmap recommendations, the Bruin Research Data Hub hub-and-spoke diagram, the expanded research data services model, and the layered infrastructure stack. Useful as a concise visual companion to the full roadmap document.
+
+[Download PDF](assets/pdfs/RDWG_RoadmapPresentation_Feb1_2023.pdf){.btn .btn-primary}
+
+---
+
 ### RDWG Roadmap Update and Moving Forward
 *UCLA Research Data Working Group — August 7, 2023 — 20 pages*
 

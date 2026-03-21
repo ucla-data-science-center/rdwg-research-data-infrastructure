@@ -92,15 +92,22 @@ The roadmap anticipated increasing funder mandates but didn't have the full pict
 
 The roadmap flagged a specific, dated crisis: approximately 10PB of UCLA research data stored in Google Drive in excess of the new Google storage limits, with a June 2024 deadline to migrate or pay \$1.8M/year in overage fees.
 
-That deadline has passed. What happened is worth investigating:
+That deadline has passed. The pattern at peer institutions is documented and instructive.
 
-- Did data get migrated? Where did it go?
-- Did UCLA pay Google?
-- Did researchers lose access to data?
-- Did units solve this independently (perpetuating fragmentation)?
+**What happened elsewhere when Google ended unlimited storage:**
+
+At the University of Texas at Austin, the scale of the problem was stark: as of November 2021, UTmail was utilizing over **6.4 PB** of pooled storage. Google imposed a **545 TB** pooled quota — a reduction of approximately 90% — affecting 70,000 students, faculty, and staff and 200,000 alumni and retirees. The forced migration was one of the largest data reduction efforts in the university's history. ([UT Austin IT, UTmail Storage Reduction project](https://it.utexas.edu/projects/utmail_storage_reduction/overview))
+
+The UT Austin case illustrates a pattern documented across higher education: when institutions lack centralized research storage infrastructure, researchers fill whatever vessel is available. Underfunded labs store datasets in Google Drive not because it is the right tool but because it is the only centrally-provided option. When that option disappears, the data crisis it reveals was already there — just invisible. ([EdTech Magazine, "How Higher Ed Institutions Are Responding to Google Storage Limits," January 2023](https://edtechmagazine.com/higher/article/2023/01/how-higher-ed-institutions-are-responding-google-storage-limits-perfcon))
+
+**What good centralized infrastructure looks like:**
+
+Stanford's [Sherlock HPC cluster](https://www.sherlock.stanford.edu/) — operated by the Stanford Research Computing Center and available at no cost to all Stanford PIs — provides 75,000 CPU cores, 1,200+ GPUs, and 77 PB of long-term research data storage. Faculty do not store research data in Google Drive because they have a proper home for it. UCLA's Hoffman2 cluster is valuable but significantly smaller in scope, and the Bruin Research Data Hub was proposed precisely to fill this gap.
+
+**The UCLA question:** Whether the June 2024 deadline was met by migration, payment, or unit-by-unit improvisation is worth confirming. Any of those outcomes is evidence: migration means the crisis was real and costly; payment means ongoing expense without infrastructure; improvisation means fragmentation deepened.
 
 ::: {.callout-tip}
-**Implication for One IT:** Whatever happened with the Google Drive storage crisis is a concrete, recent example of the costs of not having centralized research data infrastructure. It's worth surfacing as evidence.
+**Implication for One IT:** The Google Drive crisis is not a one-time event — it is the predictable result of having no centralized research storage baseline. The Bruin Research Data Hub was designed to prevent exactly this. Peer institutions with centralized research storage infrastructure did not face the same crisis.
 :::
 
 ---
