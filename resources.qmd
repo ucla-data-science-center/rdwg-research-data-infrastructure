@@ -34,10 +34,15 @@ Detailed peer benchmarking across 13 research data service categories at compara
 
 ---
 
-## Bibliography
+### RDWG Roadmap Update and Moving Forward
+*UCLA Research Data Working Group — August 7, 2023 — 20 pages*
 
-The full annotated bibliography and RIS import file are on the [Bibliography](bibliography.qmd) page.
+Phase 2 report documenting campus response to the 2022 roadmap. Summarizes findings from 33 meetings with campus leadership (deans, associate deans for research, chairs, IT directors from nearly every school), four public faculty forums, and Academic Senate committee sessions. Includes an implementation task analysis with priority ratings for all roadmap elements.
+
+[Download PDF](assets/pdfs/RDWG_RoadmapUpdate_and_MovingForward_FinalDraft_August7_2023.pdf){.btn .btn-primary}
 
 ---
 
-*For Phase 2 materials (2023–2024), including the implementation task analysis, Deans Council brief, and Bruin Data Hub specifications, contact Tim Dennis at [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu).*
+## Bibliography
+
+The full annotated bibliography and RIS import file are on the [Bibliography](bibliography.qmd) page.

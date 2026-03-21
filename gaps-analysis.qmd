@@ -16,7 +16,8 @@ timeline
     section Year 1
         Jan 2023 : NIH Data Management & Sharing Policy takes effect
                  : Every NIH proposal now requires a funded DMP
-        2023     : RDWG Phase 2 — implementation analysis and Deans Council brief
+        2023     : RDWG Phase 2 — 33 campus leadership meetings confirm gaps
+                 : Implementation task analysis and priority matrix completed
     section Year 2
         Jun 2024 : Google Drive 10PB migration deadline passes
         2024     : RDWG Deans Council Brief finalized
@@ -168,4 +169,42 @@ DataX had a three-year initial funding window. Its status and trajectory as of 2
 
 ---
 
-*This analysis should be reviewed against any updates from RDWG Phase 2 materials (2023–2024) before finalizing.*
+## 9. The 2023 Campus Validation: Gaps Confirmed, Action Stalled
+
+Following the roadmap's publication, the RDWG conducted an extensive review campaign: 33 meetings with campus leadership — deans, associate deans for research, chairs, and IT directors from nearly every school — plus four public faculty forums and sessions with Academic Senate committees (CDITP, COR, COLASC), and individual meetings with EVCP Darnell Hunt and Deans Council. Notes were independently coded by four reviewers.
+
+The findings were unambiguous. Participants were *"strongly supportive and appreciative of the work involved, which they rightly interpreted as being on their behalf."* The gaps the roadmap described were not abstract to them.
+
+### Six Concerning Trends
+
+**1. Faculty are already routing work to other institutions.** Faculty are actively considering pushing grants through collaborating institutions. One faculty executive committee chair reflected on a follow-up grant: *"We're thinking about the follow up to this grant, and we're saying let's do the next one at Notre Dame."* Researchers are also relying on services from UC Davis Health Cloud Innovation Center, Wharton Research Data Services, San Diego Supercomputing Center, and the University of Chicago's OCHRE.
+
+**2. Incoming faculty perceive UCLA as falling behind peers.** Recruitment and retention came up repeatedly. A lack of research infrastructure was cited as the reason a star recruitment failed. New hires find the environment lacking: *"We've got faculty coming from other institutions and they say, 'Hey, I'm coming from X and it was so easy there.' It feels like they've slid backwards in terms of their storage needs."*
+
+**3. Researchers are losing money and missing funder requirements.** *"We're putting out fires every day. There's a lot of money being lost as well. Delays. NIH gets upset. Other institutions pull back funding. [It] becomes very real both for the PI and the School."* One PI had to shift staff from research to data management to meet funder requirements for publicly available datasets.
+
+**4. Researchers are subverting UCLA systems.** Because campus systems are perceived as too onerous or inadequate, researchers buy software independently, host equipment on a researcher-by-researcher basis, and expose the campus to security vulnerabilities. *"The whole purchasing and invoicing [situation] is a big issue. A lot of the large vendors aren't filling our orders because we're not paying our bills on time."*
+
+**5. Duplicative effort is wasting resources at every level.** As one dean noted: *"I am always stunned at the 17 places where the same things are happening and encourage you to make sure that those overlaps are foregrounded and addressed."* Faculty spend time and grant money assembling basic infrastructure — storage, compute, data sharing — that should be centrally provided.
+
+**6. The bureaucracy is blocking research.** Faculty described a campus working against them — policies in place but too inflexible to apply case by case. *"It feels like there are policies in place, but there's an inflexibility to take something case-by-case and it requires eight people to find a solution. It should be easier than that."*
+
+### What the Campus Prioritized
+
+When mapped to the roadmap, campus feedback pointed to specific HIGH-priority items — all of which required significant funding and dedicated staff that was never allocated:
+
+- **Hire the Research Data Rockstar (ORDR)** — executive decision required, national search needed
+- **Cohesive research service catalog with web presence** — identified as ideally owned by ORDR; if none exists, where does it go?
+- **Expand DSC data-related training** — capacity exists but is insufficient
+- **Hire specialized data scientists** — some capacity exists, simply not enough
+- **P3/P4 compliant HPC/storage environment** — an IT director confirmed: *"We can't currently provide HIPAA-compliant storage. We're hoping for help for folks with a foot in the med center that work with human subjects. If we can't help them, they'll roll their own and it's not secure and not scalable."*
+- **Research data backup solutions** — requires a decision, funding, and agreement across units
+- **Storage baseline (Bruin Research Data Hub)** — *"Storage is a huge issue. Chairs would email me about storage — backup storage, collaboration space. ... Establishing that baseline is low-hanging fruit."*
+
+The roadmap update concluded that moving forward required a new charge letter from the VCRCA and EVCP, implementation teams, and Budget & Finance commitments. None of these steps were completed before the effort stalled.
+
+::: {.callout-important}
+**Implication for One IT:** The 2023 validation campaign is not background reading — it is direct evidence. UCLA's academic leadership explicitly confirmed the gaps, named the priorities, and expected action. What the One IT WG is now analyzing is not a new discovery: it is a two-year-old mandate that was never funded. The WG's recommendations should carry that weight.
+:::
+
+*Source: [RDWG Roadmap Update and Moving Forward, August 7, 2023](assets/pdfs/RDWG_RoadmapUpdate_and_MovingForward_FinalDraft_August7_2023.pdf)*
