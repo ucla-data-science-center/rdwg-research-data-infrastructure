@@ -62,6 +62,12 @@ The roadmap was finalized the same month ChatGPT launched (November 2022). Gener
 
 The roadmap anticipated increasing funder mandates but didn't have the full picture:
 
+::: {.pullquote}
+"NIH must know that we don't have the capacity to do this. We've been in conversations with our program officers. They ask us what campus resources we have, and we tell them we're responsible to do it for the grant. Our program officers are surprised that we don't have any support in this."
+
+[— UCLA faculty member, RDWG campus sessions (2023)]{.attribution}
+:::
+
 - **NIH Data Management and Sharing Policy** took effect January 25, 2023 — six weeks after the roadmap was published. Every NIH proposal now requires a funded data management and sharing plan. UCLA still lacks the coordinated infrastructure (ORDR, service catalog, compliance lead) the roadmap said was essential to respond to this.
 
 - **OSTP "Nelson Memo" public access mandate** took full effect for agencies by December 2025. Federally-funded research must be publicly available immediately at no cost. This affects publications AND research data. UCLA's position for compliance is unclear.
@@ -77,6 +83,12 @@ The roadmap anticipated increasing funder mandates but didn't have the full pict
 ---
 
 ## 3. The Google Drive Crisis Landed
+
+::: {.pullquote}
+"Storage is a huge issue. Chairs would email me about storage — backup storage, collaboration space. They're putting data all over the place. The lack of a clear set of choices means everyone is finding their own way, so keeping this secure is impossible."
+
+[— UCLA associate dean for research, RDWG campus sessions (2023)]{.attribution}
+:::
 
 The roadmap flagged a specific, dated crisis: approximately 10PB of UCLA research data stored in Google Drive in excess of the new Google storage limits, with a June 2024 deadline to migrate or pay \$1.8M/year in overage fees.
 
@@ -94,6 +106,12 @@ That deadline has passed. What happened is worth investigating:
 ---
 
 ## 4. The ORDR Was Never Created
+
+::: {.pullquote}
+"I am always stunned at the 17 places where the same things are happening and encourage you to make sure that those overlaps are foregrounded and addressed."
+
+[— UCLA dean, RDWG campus sessions (2023)]{.attribution}
+:::
 
 The roadmap's first and most foundational recommendation was creating the Office of the Research Data Rockstar (ORDR) — a central coordination unit with clear ownership and accountability for research data campus-wide.
 
@@ -179,9 +197,11 @@ The findings were unambiguous. Participants were strongly supportive and describ
 
 #### Grants and research leaving UCLA
 
-> "We're thinking about the follow up to this grant, and we're saying let's do the next one at Notre Dame."
->
-> — Faculty executive committee chair
+::: {.pullquote}
+"We're thinking about the follow up to this grant, and we're saying let's do the next one at Notre Dame."
+
+[— UCLA faculty executive committee chair]{.attribution}
+:::
 
 Faculty are actively considering routing grants through collaborating institutions. Researchers are already relying on services from UC Davis Health Cloud Innovation Center, Wharton Research Data Services, San Diego Supercomputing Center, and the University of Chicago's OCHRE environment.
 
@@ -218,6 +238,12 @@ Faculty and units are independently assembling storage, computing environments, 
 ---
 
 #### Secure storage — a gap with real consequences
+
+::: {.pullquote}
+"We can't currently provide HIPAA-compliant storage. If we can't help them, they'll roll their own and it's not secure and not scalable."
+
+[— UCLA IT director]{.attribution}
+:::
 
 > "We can't currently provide HIPAA-compliant storage. We're hoping for help for folks with a foot in the med center that work with human subjects. If we can't help them, they'll roll their own and it's not secure and not scalable."
 >

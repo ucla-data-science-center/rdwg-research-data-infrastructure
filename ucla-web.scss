@@ -66,3 +66,42 @@ a:hover { color: $ucla-dark-blue; }
 }
 
 .hero p { color: $ucla-light-blue; font-size: 1.1rem; }
+
+/*-- Pull quotes --*/
+.pullquote {
+  border-left: 5px solid $ucla-gold;
+  background-color: #f0f4f8;
+  padding: 1.25rem 1.75rem;
+  margin: 2rem 0 2rem 2rem;
+  font-size: 1.15rem;
+  font-style: italic;
+  color: $ucla-dark-blue;
+  line-height: 1.65;
+  max-width: 75%;
+  float: right;
+  clear: right;
+  shape-outside: margin-box;
+}
+
+.pullquote p {
+  margin-bottom: 0.4rem;
+}
+
+.pullquote .attribution {
+  display: block;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-weight: 600;
+  color: $ucla-blue;
+  margin-top: 0.5rem;
+  letter-spacing: 0.01em;
+}
+
+/* Stack on mobile */
+@media (max-width: 768px) {
+  .pullquote {
+    float: none;
+    max-width: 100%;
+    margin: 1.5rem 0;
+  }
+}
