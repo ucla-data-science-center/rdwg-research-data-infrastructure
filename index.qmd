@@ -10,6 +10,12 @@ toc: false
 *What the Research Data Working Group found — and what it means for the One IT Research Working Group (2026)*
 :::
 
+::: {.callout-note appearance="minimal"}
+> "We're thinking about the follow up to this grant, and we're saying let's do the next one at Notre Dame."
+>
+> *— UCLA faculty executive committee chair, RDWG campus sessions (2023)*
+:::
+
 ## About This Site
 
 In 2021–2024, UCLA convened the **Research Data Working Group (RDWG)** — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA's research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.
