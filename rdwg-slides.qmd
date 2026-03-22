@@ -208,11 +208,14 @@ mindmap
 - Research computing (PI-facing, domain-specific)
 - HPC and specialized research systems
 - Data services consulting (FAIR, DMPs, repositories)
+- **UCLA Redivis** — sensitive data, already built
 :::
 
 ::::
 
 > *"Centralize the backbone — not the craft."*
+
+This model is called **Academic Divisional Computing (ADC)** — documented across UC institutions and peer research universities as the approach that preserves domain expertise while achieving back-end efficiencies.
 
 ---
 
@@ -286,11 +289,15 @@ Since 2022 the environment has intensified:
 
 - NIH DMSP in full effect (January 2023)
 - OSTP public access mandate in effect (December 2025)
-- Google Drive 10PB migration deadline passed (June 2024)
+- Google Drive crisis: **14PB of UCLA research data deleted or migrated** over two years — campus now moving to paid commercial storage (April 2026 deadline active)
 - Generative AI created new GPU compute equity issues across every discipline
 - Federal funding more competitive and uncertain
 
 **The gaps identified in 2022 are larger now.**
+
+::: {.callout-note appearance="minimal"}
+Yale and Cornell document a "dual-change trap": reorganizing staff and building new infrastructure simultaneously produces turmoil. This WG should sequence carefully — governance and coordination first, then staffing decisions.
+:::
 
 ---
 
@@ -344,9 +351,11 @@ quadrantChart
 
 ## Source Materials
 
-All materials available from Tim Dennis (UCLA Library, Data Science Center):
+All documents available for download at **[ucla-data-science-center.github.io/rdwg-research-data-infrastructure](https://ucla-data-science-center.github.io/rdwg-research-data-infrastructure/resources.html)**
 
 - **Primary roadmap** — *A Call to Action* (December 2022, 66 pages)
-- **Campus deck** — *Research Data Roadmap Overview* (May 2023)
+- **Campus engagement report** — *Roadmap Update and Moving Forward* (August 2023, 33 meetings)
 - **Peer benchmarking** — *Research on Data Services II* (13 categories)
-- **Phase 2 materials** — Implementation task analysis, Deans Council brief, Bruin Data Hub specs (2023–2024)
+- **Phase 2 materials** — Implementation task analysis, Deans Council brief, Bruin Data Hub specs
+
+*Tim Dennis, UCLA Library Data Science Center — [tdennis@library.ucla.edu](mailto:tdennis@library.ucla.edu)*

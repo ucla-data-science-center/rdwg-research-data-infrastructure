@@ -54,6 +54,10 @@ flowchart TD
 
 ORDR and the Bruin Data Hub are the foundational layer — coordination and storage that make the rest possible. Services and infrastructure build on both.
 
+::: {.callout-note appearance="minimal"}
+**UCLA already has a production-ready sensitive data platform.** UCLA Library operates **[UCLA Redivis](https://redivis.com/UCLA)** — a multi-organization sensitive data repository with SSO, Data Use Agreement management, DOI minting, and Python/R APIs. It is already institutionalized and adopted by peer research universities. Any WG recommendation on P3/P4 sensitive data should build on Redivis rather than duplicate it.
+:::
+
 ## What's Here
 
 | Page | Contents |
@@ -61,6 +65,7 @@ ORDR and the Bruin Data Hub are the foundational layer — coordination and stor
 | [Presentation](rdwg-slides.qmd) | Slide deck for the One IT Research WG — March 2026 |
 | [One-Pager](rdwg-one-pager.qmd) | Concise summary of RDWG findings and recommendations |
 | [Gaps Analysis](gaps-analysis.qmd) | What's changed since the 2022 roadmap: AI, compliance, RSE, cloud context |
+| [Faculty Voices](faculty-voices.qmd) | Direct quotes from 33 campus leadership meetings — in their own words |
 | [Bibliography](bibliography.qmd) | Full reference list with annotations |
 | [Resources](resources.qmd) | RDWG source documents available for download |
 

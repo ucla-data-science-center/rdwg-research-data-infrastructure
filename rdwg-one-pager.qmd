@@ -53,4 +53,4 @@ Export controls on AI and semiconductor research, clinical data requirements, an
 - **Cost of inaction:** The Google Drive 10PB migration crisis (June 2024 deadline), estimated \$1.8M/year in potential overage fees, is a concrete recent example of what distributed, uncoordinated storage costs.
 - **Phase 2 materials (2023–2024):** Implementation task analysis, Deans Council brief, and Bruin Data Hub specifications provide additional detail on feasibility and sequencing.
 
-*All source documents available from Tim Dennis, UCLA Library Data Science Center.*
+*All source documents available for download on the [Resources](resources.qmd) page.*
