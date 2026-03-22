@@ -129,9 +129,9 @@ $heading-font-weight: 600;
   height: 56px !important;
 }
 
-// RevealJS adds .has-dark-background automatically to dark slides
-// Filter converts the blue logo to white without swapping src
-.reveal .has-dark-background .slide-logo img,
-.reveal .title-slide .slide-logo img {
+// RevealJS adds .has-dark-background to the .reveal element itself when
+// the active slide has a dark background. No space — compound selector.
+// .slide-logo is a direct child of .reveal, not inside any slide section.
+.reveal.has-dark-background .slide-logo img {
   filter: brightness(0) invert(1);
 }
