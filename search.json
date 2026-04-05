@@ -1,103 +1,5 @@
 [
   {
-    "objectID": "bibliography.html",
-    "href": "bibliography.html",
-    "title": "Bibliography",
-    "section": "",
-    "text": "Sources organized by category. The formatted reference list appears below; the source RIS file is available for import into Zotero or other reference managers via the Resources page."
-  },
-  {
-    "objectID": "bibliography.html#source-categories",
-    "href": "bibliography.html#source-categories",
-    "title": "Bibliography",
-    "section": "Source Categories",
-    "text": "Source Categories\n\n\n\n#\nCategory\n\n\n\n\n1\nUCLA Primary Documents\n\n\n2\nFederal Policy and Funder Mandates\n\n\n3\nFederal Funding Crisis (2025–2026)\n\n\n4\nAI and Research Computing Infrastructure\n\n\n5\nLibrary Technical Infrastructure and Research Software\n\n\n6\nIT Consolidation and Higher Education IT\n\n\n7\nUCLA Faculty and Senate Responses to OneIT (2025)\n\n\n8\nOneIT Administration Documents"
-  },
-  {
-    "objectID": "bibliography.html#references",
-    "href": "bibliography.html#references",
-    "title": "Bibliography",
-    "section": "References",
-    "text": "References\n\n\nArizona, A. (2025). NIH research funding cuts lead to layoffs at Arizona State University [Graphic]. https://www.youtube.com/watch?v=43rKFo5IMoU\n\n\nAustralia, S. N. (2025). Columbia University announce mass layoffs after the Trump Administration revokes grants [Graphic]. https://www.youtube.com/watch?v=K8Tg2V_ytl4\n\n\nBaltimore, W.-T. (2025). Funding cuts lead to layoff risk for University System of Maryland [Graphic]. https://www.youtube.com/watch?v=E8rwejgUqpI\n\n\nCalifornia, U. of. (2022). UC Research Data Policy. University of California Office of the President.\n\n\nCenter Directors, U. D. C. and. (2025). Letter to Chancellor Frenk and EVCP Hunt re: One IT Initiative.\n\n\nChapter, A. L. 1990. L. (2025). Request for Consultation on OneIT Initiative and Library Technical Staff.\n\n\nChue Hong, N. P., Katz, D. S., & Barker, M. (2022). FAIR Principles for Research Software (FAIR4RS Principles). Scientific Data, 9, 622. https://doi.org/10.1038/s41597-022-01710-x\n\n\nCNBC. (2025). The Truth About AI And The Mass Layoffs [Graphic]. https://www.youtube.com/watch?v=8g5img1hTes\n\n\nCollege and Research Libraries, A. of. (2024). Top Trends in Academic Libraries. American Library Association.\n\n\nDabrowska, D., & Council, U. G. (2025). OneIT Request for Senate Consultation [Graduate Council Response]. UCLA Academic Senate.\n\n\nDaily, T. A. (2026). OpenAI lands massive new funding & AI compute wars: TPUs vs GPUs [Graphic]. https://www.youtube.com/watch?v=ditRA-QhtZg\n\n\nDebenport, E., & Letters and Science Faculty Executive Committee, U. C. of. (2025). Response to the One IT Request for Senate Consultation [L&S FEC Response]. UCLA Academic Senate.\n\n\nDennis, T. (2021). Data Science in Libraries.\n\n\nDesjardins, R., & Planning and Budget, U. C. on. (2025). OneIT Proposal [Council on Planning and Budget Response]. UCLA Academic Senate.\n\n\nGebremichael, M., & Engineering and Applied Science Faculty Executive Committee, U. H. S. S. of. (2025). OneIT Request for Senate Consultation [HSSEAS Engineering FEC Response]. UCLA Academic Senate.\n\n\nGroup, U. R. D. W. (2022). A Call to Action: A Roadmap for Expanding Research Infrastructure and Data Services at UCLA. UCLA. https://escholarship.org/uc/item/\n\n\nGroup, U. R. D. W. (2023). Research Data Roadmap Overview [Graphic]. UCLA.\n\n\nGroup, U. R. D. W. (2024). RDWG Phase 2: Deans Council Brief. UCLA.\n\n\nHealth, N. I. of. (2023). NIH Policy for Data Management and Sharing. U.S. Department of Health and Human Services. https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html\n\n\nHigher Education, C. of. (2026). The Higher Ed Group Fighting Trump [Graphic]. https://www.youtube.com/watch?v=jY8i2Z4nRxY\n\n\nHunt, D. M. (2025). Letter to Chairs and Directors re: One IT Initiative [EVCP Response]. UCLA Office of the Executive Vice Chancellor and Provost.\n\n\nIt, F. W. (2025). The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [Graphic]. https://www.youtube.com/watch?v=IeTFpsuCor8\n\n\nLeazer, G., & UCLA Committee on Data, and P., Information Technology. (2025). OneIT Request for Senate Consultation [CDITP Response]. UCLA Academic Senate.\n\n\nMaloy, J., & Council, U. U. (2025). OneIT Request for Senate Consultation [Undergraduate Council Response]. UCLA Academic Senate.\n\n\nMayeda, E. R., & Committee, U. F. W. (2025). One IT Request for Senate Consultation [Faculty Welfare Committee Response]. UCLA Academic Senate.\n\n\nMcCarty, T. L., & Education and Information Studies Faculty Executive Committee, U. S. of. (2025). OneIT Request for Senate Consultation [SE&IS FEC Response]. UCLA Academic Senate.\n\n\nMcEvoy, M., & Board, U. A. S. E. (2025). OneIT Request for Senate Consultation [Executive Board Letter to EVCP Hunt]. UCLA Academic Senate.\n\n\nMint. (2025). US Universities Face Student Drop, Announce Budget Cuts & Layoffs as Crisis Deepens [Graphic]. https://www.youtube.com/watch?v=ViMuIOV1pXs\n\n\nNews, K. (2025). More than 300 jobs cut at WashU, around 200 openings closed after federal funding losses [Graphic]. https://www.youtube.com/watch?v=NE9-UCvBrlI\n\n\nResearch Libraries, A. of. (2023). Research Analytics and Data Services Initiative. Association of Research Libraries.\n\n\nr/HPC. (2026). HPC design & admin resources. https://www.reddit.com/r/HPC/comments/1rtfow5/hpc_design_admin_resources/\n\n\nr/mlops. (2026). Wrote a guide to building an ML research cluster. Feedback appreciated. https://www.reddit.com/r/mlops/comments/1rdpbkd/wrote_a_guide_to_building_an_ml_research_cluster/\n\n\nr/NIH. (2026a). How NIH went from 756 funding announcements to 14. https://www.reddit.com/r/NIH/comments/1rvjv8f/how_nih_went_from_756_funding_announcements_to/\n\n\nr/NIH. (2026b). White House stalls release of US science budgets approved by Congress. https://www.reddit.com/r/NIH/comments/1rgazcm/white_house_stalls_release_of_us_science_budgets/\n\n\nScience and Technology Policy, O. of. (2022). Ensuring Free, Immediate, and Equitable Access to Federally Funded Research. Executive Office of the President. https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/\n\n\nSecurity, I. (2022). Cost of a Data Breach Report. IBM.\n\n\nShlyakhtenko, D., & Research, U. C. on. (2025). OneIT Request for Senate Consultation [Council on Research Response]. UCLA Academic Senate.\n\n\nShow, T. I. (2026). Why AI Researchers Are Quitting and Panicking on the Way Out [Graphic]. https://www.youtube.com/watch?v=rtT87iAm_SM\n\n\nSIEPR, S. (2026). SIEPR Economic Summit 2026: University Presidents on the Future of Higher Education [Graphic]. https://www.youtube.com/watch?v=5PUb-CjD9J4\n\n\nSorenson, O., & Management Faculty Executive Committee, U. A. S. of. (2025). OneIT Request for Senate Consultation [Anderson AGSM FEC Response]. UCLA Academic Senate.\n\n\nSystem, T. T. U. (2026). Texas Tech Joins NVIDIA to Launch Next-Generation AI Infrastructure [Graphic]. https://www.youtube.com/watch?v=b5HlH7RcGNk\n\n\nTeam, O. I. P. (2025). Request for Senate Consultation: One IT Discovery Phase. UCLA Digital and Technology Solutions.\n\n\nTelevision, B. (2026). Bloomberg Surveillance 3/16/2026 [Graphic]. https://www.youtube.com/watch?v=vahB50-jgKs\n\n\nWilkinson, M. D., Dumontier, M., & Aalbersberg, Ij. J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18\n\n\nWKAR News, M. /. (2025). MSU President Speaks Out: $85M Cuts, Layoffs & The Future of Higher Ed [Graphic]. https://www.youtube.com/watch?v=AIAWm2d6iPw"
-  },
-  {
-    "objectID": "faculty-voices.html",
-    "href": "faculty-voices.html",
-    "title": "Faculty Voices",
-    "section": "",
-    "text": "In 2023, the RDWG steering committee conducted 33 meetings with UCLA academic leadership — deans, associate deans for research, chairs, and IT directors from nearly every school — plus four public faculty forums and sessions with the Academic Senate. Notes from every session were independently coded by four reviewers.\nThe quotes below are drawn directly from those sessions. They are organized by the problem they describe.\nSource: RDWG Roadmap Update and Moving Forward, August 7, 2023"
-  },
-  {
-    "objectID": "faculty-voices.html#research-leaving-ucla",
-    "href": "faculty-voices.html#research-leaving-ucla",
-    "title": "Faculty Voices",
-    "section": "Research Leaving UCLA",
-    "text": "Research Leaving UCLA\n\n“We’re thinking about the follow up to this grant, and we’re saying let’s do the next one at Notre Dame.”\n— Faculty executive committee chair\n\n\n“We’ve got faculty coming from other institutions and they say, ‘Hey, I’m coming from X and it was so easy there.’ It feels like they’ve slid backwards in terms of their storage needs.”\n— Associate dean for research\n\nFaculty are actively considering routing grants through collaborating institutions and relying on services at UC Davis Health Cloud Innovation Center, Wharton Research Data Services, San Diego Supercomputing Center, and the University of Chicago’s OCHRE environment. Recruitment and retention were raised repeatedly across schools. A lack of research infrastructure was cited as the reason a star recruitment failed."
-  },
-  {
-    "objectID": "faculty-voices.html#grants-and-funding-at-risk",
-    "href": "faculty-voices.html#grants-and-funding-at-risk",
-    "title": "Faculty Voices",
-    "section": "Grants and Funding at Risk",
-    "text": "Grants and Funding at Risk\n\n“We’re putting out fires every day. There’s a lot of money being lost as well. Delays. NIH gets upset. Other institutions pull back funding. [It] becomes very real both for the PI and the School.”\n— Principal investigator\n\n\n“NIH must know that we don’t have the capacity to do this. We’ve been in conversations with our program officers. They ask us what campus resources we have, [and] we tell them we’re responsible to do it for the grant. … Our program officers are surprised that we don’t have any support in this.”\n— Faculty member\n\nOne PI described shifting staff from research to data management solely to meet funder requirements for publicly available datasets. Another unit reported struggling to provide adequate grant support staff for multi-institutional proposals."
-  },
-  {
-    "objectID": "faculty-voices.html#storage-no-clear-solution",
-    "href": "faculty-voices.html#storage-no-clear-solution",
-    "title": "Faculty Voices",
-    "section": "Storage — No Clear Solution",
-    "text": "Storage — No Clear Solution\n\n“Storage is a huge issue. Chairs would email me about storage — backup storage, collaboration space. … In the division they offer a generous baseline; establishing that baseline is low-hanging fruit. Everyone needs storage space: Box, Google Drive, Synology, research data backup, co-storage, allocations [with] permissions.”\n— Associate dean for research\n\n\n“They’re putting [data] all over the place. The lack of a clear set of choices to go to [means] that everyone is finding their own way, so keeping this secure is impossible.”\n— Associate dean for research\n\n\n“At this stage, they don’t care where [their data] goes. They need to go to a place that’s OK, they can describe that in the proposal, and they can easily get it there. Convenience and simplicity.”\n— Faculty member on secure storage"
-  },
-  {
-    "objectID": "faculty-voices.html#secure-data-a-gap-with-real-consequences",
-    "href": "faculty-voices.html#secure-data-a-gap-with-real-consequences",
-    "title": "Faculty Voices",
-    "section": "Secure Data — A Gap with Real Consequences",
-    "text": "Secure Data — A Gap with Real Consequences\n\n“We can’t currently provide HIPAA-compliant storage. We’re hoping for help for folks with a foot in the med center that work with human subjects. If we can’t help them, they’ll roll their own and it’s not secure and not scalable.”\n— IT director\n\n\n“[One of my researchers] needed a FISMA solution and had to go to Irvine or Riverside for that. SDSC may have been the solution. We don’t have a place that meets all levels of security.”\n— Faculty member\n\n\n“They’re hungry for a central place that will check all the boxes, that’s quick and easy. Something that is easy.”\n— Faculty member on P3/P4 compliant storage"
-  },
-  {
-    "objectID": "faculty-voices.html#collaboration-across-campus-and-institutions",
-    "href": "faculty-voices.html#collaboration-across-campus-and-institutions",
-    "title": "Faculty Voices",
-    "section": "Collaboration Across Campus and Institutions",
-    "text": "Collaboration Across Campus and Institutions\n\n“[As a result,] I can’t access and use the PI Portal. I can’t even use Box on South Campus. So when we talk about inter-institutional collaboration, it’s as if we’re two different institutions.”\n— Lead PI on a large NIH grant\n\n\n“Research groups come to us and they’re looking for storage locations and collaboration, specifically collaborations [involving] data.”\n— Faculty member\n\n\n“[We need] ways to share large files. [Something] safe yet accessible to people outside UCLA. [Our files are] too large to share and people are not able to access our Box [folders].”\n— Faculty member"
-  },
-  {
-    "objectID": "faculty-voices.html#duplicative-effort-and-wasted-resources",
-    "href": "faculty-voices.html#duplicative-effort-and-wasted-resources",
-    "title": "Faculty Voices",
-    "section": "Duplicative Effort and Wasted Resources",
-    "text": "Duplicative Effort and Wasted Resources\n\n“I am always stunned at the 17 places where the same things are happening and encourage you to make sure that those overlaps are foregrounded and addressed.”\n— Dean\n\n\n“If we don’t have the infrastructure in place, that will put a lot of obstacles and barriers to allowing [our] work to take place. It’s preventing people from engaging with the research. People have to reinvent the wheel because there isn’t infrastructure in place.”\n— Faculty member\n\n\n“When we recruit in data sciences, it’s costing us a lot of money in start-up costs. It’s breaking the bank.”\n— Faculty member"
-  },
-  {
-    "objectID": "faculty-voices.html#security-software-and-workarounds",
-    "href": "faculty-voices.html#security-software-and-workarounds",
-    "title": "Faculty Voices",
-    "section": "Security, Software, and Workarounds",
-    "text": "Security, Software, and Workarounds\n\n“The short-term solution is that people buy the software with their own money or get free versions online, which is a huge security risk. The policy as it is being implemented is a detriment to researchers and the campus. It makes things worse rather than better. Bad for security and researchers.”\n— Faculty member on campus software licensing\n\n\n“The whole purchasing and invoicing [situation] is a big issue. A lot of the large vendors aren’t filling our orders because we’re not paying our bills on time.”\n— Faculty member"
-  },
-  {
-    "objectID": "faculty-voices.html#data-services-expertise-that-doesnt-exist",
-    "href": "faculty-voices.html#data-services-expertise-that-doesnt-exist",
-    "title": "Faculty Voices",
-    "section": "Data Services — Expertise That Doesn’t Exist",
-    "text": "Data Services — Expertise That Doesn’t Exist\n\n“Our investigators will need more statistical management of these datasets. That’s going to be frustrating for investigators down the line.”\n— Faculty member\n\n\n“I’m thinking about data security. When this [roadmap] is all laid out, [we’ll need] a dedicated security team and dedicated admin team that understands the data that’s flowing in and out, to work with this new service to support it. That would make researchers believe their data are safe here.”\n— Faculty member"
-  },
-  {
-    "objectID": "faculty-voices.html#the-bureaucracy-is-blocking-research",
-    "href": "faculty-voices.html#the-bureaucracy-is-blocking-research",
-    "title": "Faculty Voices",
-    "section": "The Bureaucracy Is Blocking Research",
-    "text": "The Bureaucracy Is Blocking Research\n\n“It feels like there are policies in place, but there’s an inflexibility to take something case-by-case and it requires eight people to find a solution. It should be easier than that.”\n— Faculty member\n\n\n“NIH awards are made to UCLA and not UC Health, but UC Health requires nonsensical oversight that, more often than not, is not applicable to non-human data collection or non-patient behavioral science data.”\n— Faculty member\n\n\n“Any time we can make it less frustrating, smoother — any time the faculty do well, the whole university does well.”\n— Faculty member"
-  },
-  {
-    "objectID": "faculty-voices.html#what-the-campus-wants",
-    "href": "faculty-voices.html#what-the-campus-wants",
-    "title": "Faculty Voices",
-    "section": "What the Campus Wants",
-    "text": "What the Campus Wants\n\n“We’re pretty decentralized and everyone is off doing their own thing. If you can get us thinking about one campus… make it more cohesive so everyone understands we’re in a shared environment.”\n— Faculty member\n\n\n“Most [challenging] is trying to find resources on campus. Provide a document on resources on campus. UCSF updated an annual list of resources that one could use to cut and paste into proposals. Having one source for campus with that information would be really great.”\n— Faculty member\n\n\n“Explaining to everybody what resources are out there and how to access them is critical.”\n— Faculty member\n\n\n\n\n\n\n\n\nNote\n\n\n\nThese quotes were collected during the RDWG’s 2023 campus engagement campaign — 33 meetings with deans, associate deans for research, chairs, IT directors, and faculty from nearly every UCLA school, plus four public faculty forums. Notes were independently coded by four reviewers. The full report is available on the Resources page."
-  },
-  {
     "objectID": "rdwg-slides.html#our-charge",
     "href": "rdwg-slides.html#our-charge",
     "title": "UCLA Already Has a Research Data Roadmap",
@@ -196,41 +98,6 @@
     "text": "Source Materials\nAll documents available for download at ucla-data-science-center.github.io/rdwg-research-data-infrastructure\n\nPrimary roadmap — A Call to Action (December 2022, 66 pages)\nCampus engagement report — Roadmap Update and Moving Forward (August 2023, 33 meetings)\nPeer benchmarking — Research on Data Services II (13 categories)\nPhase 2 materials — Implementation task analysis, Deans Council brief, Bruin Data Hub specs\n\nTim Dennis, UCLA Library Data Science Center — tdennis@library.ucla.edu"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "UCLA Research Data Infrastructure",
-    "section": "",
-    "text": "What the Research Data Working Group found — and what it means for the One IT Research Working Group (2026)"
-  },
-  {
-    "objectID": "index.html#about-this-site",
-    "href": "index.html#about-this-site",
-    "title": "UCLA Research Data Infrastructure",
-    "section": "About This Site",
-    "text": "About This Site\nIn 2021–2024, UCLA convened the Research Data Working Group (RDWG) — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA’s research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.\nThis site presents the RDWG’s key findings, recommendations, and supporting evidence for the One IT Research Working Group (charged by the EVCP and CIO, March 2026)."
-  },
-  {
-    "objectID": "index.html#key-findings-in-brief",
-    "href": "index.html#key-findings-in-brief",
-    "title": "UCLA Research Data Infrastructure",
-    "section": "Key Findings in Brief",
-    "text": "Key Findings in Brief\n\nUCLA falls behind peers in 8 of 13 research data service categories, including the most basic: a cohesive program with a service catalog.\n90% of UCLA’s $7M annual enterprise storage spend occurs at the departmental level — fragmented, redundant, and insecure.\nThere is no central ownership of research data services. PIs navigate compliance requirements, storage crises, and funder mandates alone.\nUCLA’s NSF per-award average ($307K) is 15–30% below UCSB and UCSD. Missing infrastructure for large multi-site proposals is a contributing factor.\nFunder mandates have outpaced UCLA’s capacity. The NIH Data Management and Sharing Policy (January 2023) and OSTP public access mandate (December 2025) require institutional infrastructure UCLA does not yet have."
-  },
-  {
-    "objectID": "index.html#rdwg-priority-proposals",
-    "href": "index.html#rdwg-priority-proposals",
-    "title": "UCLA Research Data Infrastructure",
-    "section": "RDWG Priority Proposals",
-    "text": "RDWG Priority Proposals\nThe RDWG recommended a layered model — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.\n\n\n\n\n\nflowchart TD\n    ORDR[\"&lt;b&gt;ORDR&lt;/b&gt;&lt;br/&gt;Office of the Research Data Rockstar&lt;br/&gt;&lt;small&gt;Coordination · Compliance lead · Service catalog&lt;br/&gt;Governance: VCR&lt;/small&gt;\"]\n    Hub[\"&lt;b&gt;Bruin Research Data Hub&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Baseline storage for all faculty · On-prem + cloud&lt;br/&gt;Addresses 90% departmental fragmentation&lt;/small&gt;\"]\n    Services[\"&lt;b&gt;Expanded Research Data Services&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Data consulting · FAIR · DMPs&lt;br/&gt;Built on Library / DSC capacity&lt;/small&gt;\"]\n    Infra[\"&lt;b&gt;Expanded Research Infrastructure&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Hoffman2 expansion · P3/P4 secure enclave&lt;br/&gt;Cloud for Research program&lt;/small&gt;\"]\n\n    ORDR --&gt; Services\n    ORDR --&gt; Infra\n    Hub  --&gt; Services\n    Hub  --&gt; Infra\n\n    style ORDR     fill:#003B5C,color:#fff,stroke:#003B5C\n    style Hub      fill:#2774AE,color:#fff,stroke:#2774AE\n    style Services fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n    style Infra    fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n\n\n\n\n\n\nORDR and the Bruin Data Hub are the foundational layer — coordination and storage that make the rest possible. Services and infrastructure build on both.\n\n\n\n\n\n\nUCLA already has a production-ready sensitive data platform. UCLA Library operates UCLA Redivis — a multi-organization sensitive data repository with SSO, Data Use Agreement management, DOI minting, and Python/R APIs. It is already institutionalized and adopted by peer research universities. Any WG recommendation on P3/P4 sensitive data should build on Redivis rather than duplicate it."
-  },
-  {
-    "objectID": "index.html#whats-here",
-    "href": "index.html#whats-here",
-    "title": "UCLA Research Data Infrastructure",
-    "section": "What’s Here",
-    "text": "What’s Here\n\n\n\nPage\nContents\n\n\n\n\nPresentation\nSlide deck for the One IT Research WG — March 2026\n\n\nOne-Pager\nConcise summary of RDWG findings and recommendations\n\n\nGaps Analysis\nWhat’s changed since the 2022 roadmap: AI, compliance, RSE, cloud context\n\n\nFaculty Voices\nDirect quotes from 33 campus leadership meetings — in their own words\n\n\nBibliography\nFull reference list with annotations\n\n\nResources\nRDWG source documents available for download\n\n\n\n\nPrepared by Tim Dennis, UCLA Library Data Science Center. Contact: tdennis@library.ucla.edu"
-  },
-  {
     "objectID": "gaps-analysis.html",
     "href": "gaps-analysis.html",
     "title": "What’s Changed Since December 2022",
@@ -301,6 +168,41 @@
     "text": "9. The 2023 Campus Validation: Gaps Confirmed, Action Stalled\nFollowing the roadmap’s publication, the RDWG conducted an extensive review campaign: 33 meetings with campus leadership — deans, associate deans for research, chairs, and IT directors from nearly every school — plus four public faculty forums and sessions with Academic Senate committees (CDITP, COR, COLASC), and individual meetings with EVCP Darnell Hunt and Deans Council. Notes were independently coded by four reviewers.\nThe findings were unambiguous. Participants were strongly supportive and described the challenges articulated in the roadmap in their own terms. The quotes below are drawn directly from those sessions.\n\nFaculty and Leadership — In Their Own Words\n\nGrants and research leaving UCLA\n\n“We’re thinking about the follow up to this grant, and we’re saying let’s do the next one at Notre Dame.”\n— UCLA faculty executive committee chair\n\nFaculty are actively considering routing grants through collaborating institutions. Researchers are already relying on services from UC Davis Health Cloud Innovation Center, Wharton Research Data Services, San Diego Supercomputing Center, and the University of Chicago’s OCHRE environment.\n\n\n\nRecruitment and retention\n\n“We’ve got faculty coming from other institutions and they say, ‘Hey, I’m coming from X and it was so easy there.’ It feels like they’ve slid backwards in terms of their storage needs.”\n— Associate dean for research\n\nRecruitment and retention came up repeatedly across schools. A lack of research infrastructure was cited as the reason a star recruitment failed.\n\n\n\nMoney lost, funders frustrated\n\n“We’re putting out fires every day. There’s a lot of money being lost as well. Delays. NIH gets upset. Other institutions pull back funding. [It] becomes very real both for the PI and the School.”\n— Principal investigator\n\nOne PI had to shift staff from research to data management solely to meet funder requirements for publicly available datasets.\n\n\n\nDuplicative effort across the campus\n\n“I am always stunned at the 17 places where the same things are happening and encourage you to make sure that those overlaps are foregrounded and addressed.”\n— Dean\n\nFaculty and units are independently assembling storage, computing environments, and data sharing infrastructure — spending grant money and time on work that should be centrally provided.\n\n\n\nSecure storage — a gap with real consequences\n\n“We can’t currently provide HIPAA-compliant storage. If we can’t help them, they’ll roll their own and it’s not secure and not scalable.”\n— UCLA IT director\n\n\n“We can’t currently provide HIPAA-compliant storage. We’re hoping for help for folks with a foot in the med center that work with human subjects. If we can’t help them, they’ll roll their own and it’s not secure and not scalable.”\n— IT director\n\n\n“Storage is a huge issue. Chairs would email me about storage — backup storage, collaboration space. … Establishing that baseline is low-hanging fruit. Everyone needs storage space: Box, Google Drive, Synology, research data backup, co-storage, allocations [with] permissions.”\n— Associate dean for research\n\n\n\n\nThe bureaucracy is blocking research\n\n“It feels like there are policies in place, but there’s an inflexibility to take something case-by-case and it requires eight people to find a solution. It should be easier than that.”\n— Faculty member\n\n\n“NIH awards are made to UCLA and not UC Health, but UC Health requires nonsensical oversight that, more often than not, is not applicable to non-human data collection or non-patient behavioral science data.”\n— Faculty member\n\n\n\n\nData services — capacity simply doesn’t exist\n\n“NIH must know that we don’t have the capacity to do this. We’ve been in conversations with our program officers. They ask us what campus resources we have, [and] we tell them we’re responsible to do it for the grant. … Our program officers are surprised that we don’t have any support in this.”\n— Faculty member\n\n\n\n\nWhat the Campus Prioritized\nWhen mapped to the roadmap, campus feedback identified specific HIGH-priority items — all requiring significant funding and dedicated staff that was never allocated:\n\nHire the Research Data Rockstar (ORDR) — executive decision required, national search needed\nCohesive research service catalog with web presence — identified as ideally owned by ORDR; if none exists, where does it go?\nExpand DSC data-related training — capacity exists but is insufficient\nHire specialized data scientists — some capacity exists, simply not enough\nP3/P4 compliant HPC/storage environment — IT directors confirmed they cannot currently meet this need\nResearch data backup solutions — requires a decision, funding, and cross-unit agreement\nStorage baseline (Bruin Research Data Hub) — described by deans as “low-hanging fruit” that would immediately reduce fragmentation\n\nThe roadmap update concluded that moving forward required a new charge letter from the VCRCA and EVCP, implementation teams, and Budget & Finance commitments. None of these steps were completed before the effort stalled.\n\n\n\n\n\n\nImportant\n\n\n\nImplication for One IT: The 2023 validation campaign is not background reading — it is direct evidence. UCLA’s academic leadership explicitly confirmed the gaps, named the priorities, and expected action. What the One IT WG is now analyzing is not a new discovery: it is a two-year-old mandate that was never funded. The WG’s recommendations should carry that weight.\n\n\nSource: RDWG Roadmap Update and Moving Forward, August 7, 2023"
   },
   {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "UCLA Research Data Infrastructure",
+    "section": "",
+    "text": "What the Research Data Working Group found — and what it means for the One IT Research Working Group (2026)"
+  },
+  {
+    "objectID": "index.html#about-this-site",
+    "href": "index.html#about-this-site",
+    "title": "UCLA Research Data Infrastructure",
+    "section": "About This Site",
+    "text": "About This Site\nIn 2021–2024, UCLA convened the Research Data Working Group (RDWG) — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA’s research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.\nThis site presents the RDWG’s key findings, recommendations, and supporting evidence for the One IT Research Working Group (charged by the EVCP and CIO, March 2026)."
+  },
+  {
+    "objectID": "index.html#key-findings-in-brief",
+    "href": "index.html#key-findings-in-brief",
+    "title": "UCLA Research Data Infrastructure",
+    "section": "Key Findings in Brief",
+    "text": "Key Findings in Brief\n\nUCLA falls behind peers in 8 of 13 research data service categories, including the most basic: a cohesive program with a service catalog.\n90% of UCLA’s $7M annual enterprise storage spend occurs at the departmental level — fragmented, redundant, and insecure.\nThere is no central ownership of research data services. PIs navigate compliance requirements, storage crises, and funder mandates alone.\nUCLA’s NSF per-award average ($307K) is 15–30% below UCSB and UCSD. Missing infrastructure for large multi-site proposals is a contributing factor.\nFunder mandates have outpaced UCLA’s capacity. The NIH Data Management and Sharing Policy (January 2023) and OSTP public access mandate (December 2025) require institutional infrastructure UCLA does not yet have."
+  },
+  {
+    "objectID": "index.html#rdwg-priority-proposals",
+    "href": "index.html#rdwg-priority-proposals",
+    "title": "UCLA Research Data Infrastructure",
+    "section": "RDWG Priority Proposals",
+    "text": "RDWG Priority Proposals\nThe RDWG recommended a layered model — not consolidation, but coordination. Central services raise the floor; local expertise is preserved where research happens.\n\n\n\n\n\nflowchart TD\n    ORDR[\"&lt;b&gt;ORDR&lt;/b&gt;&lt;br/&gt;Office of the Research Data Rockstar&lt;br/&gt;&lt;small&gt;Coordination · Compliance lead · Service catalog&lt;br/&gt;Governance: VCR&lt;/small&gt;\"]\n    Hub[\"&lt;b&gt;Bruin Research Data Hub&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Baseline storage for all faculty · On-prem + cloud&lt;br/&gt;Addresses 90% departmental fragmentation&lt;/small&gt;\"]\n    Services[\"&lt;b&gt;Expanded Research Data Services&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Data consulting · FAIR · DMPs&lt;br/&gt;Built on Library / DSC capacity&lt;/small&gt;\"]\n    Infra[\"&lt;b&gt;Expanded Research Infrastructure&lt;/b&gt;&lt;br/&gt;&lt;small&gt;Hoffman2 expansion · P3/P4 secure enclave&lt;br/&gt;Cloud for Research program&lt;/small&gt;\"]\n\n    ORDR --&gt; Services\n    ORDR --&gt; Infra\n    Hub  --&gt; Services\n    Hub  --&gt; Infra\n\n    style ORDR     fill:#003B5C,color:#fff,stroke:#003B5C\n    style Hub      fill:#2774AE,color:#fff,stroke:#2774AE\n    style Services fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n    style Infra    fill:#8BB8E8,color:#1a1a1a,stroke:#2774AE\n\n\n\n\n\n\nORDR and the Bruin Data Hub are the foundational layer — coordination and storage that make the rest possible. Services and infrastructure build on both.\n\n\n\n\n\n\nUCLA already has a production-ready sensitive data platform. UCLA Library operates UCLA Redivis — a multi-organization sensitive data repository with SSO, Data Use Agreement management, DOI minting, and Python/R APIs. It is already institutionalized and adopted by peer research universities. Any WG recommendation on P3/P4 sensitive data should build on Redivis rather than duplicate it."
+  },
+  {
+    "objectID": "index.html#whats-here",
+    "href": "index.html#whats-here",
+    "title": "UCLA Research Data Infrastructure",
+    "section": "What’s Here",
+    "text": "What’s Here\n\n\n\nPage\nContents\n\n\n\n\nPresentation\nSlide deck for the One IT Research WG — March 2026\n\n\nOne-Pager\nConcise summary of RDWG findings and recommendations\n\n\nGaps Analysis\nWhat’s changed since the 2022 roadmap: AI, compliance, RSE, cloud context\n\n\nFaculty Voices\nDirect quotes from 33 campus leadership meetings — in their own words\n\n\nBibliography\nFull reference list with annotations\n\n\nResources\nRDWG source documents available for download\n\n\n\n\nPrepared by Tim Dennis, UCLA Library Data Science Center. Contact: tdennis@library.ucla.edu"
+  },
+  {
     "objectID": "resources.html",
     "href": "resources.html",
     "title": "Source Documents",
@@ -320,6 +222,104 @@
     "title": "Source Documents",
     "section": "Bibliography",
     "text": "Bibliography\nThe full annotated bibliography and RIS import file are on the Bibliography page."
+  },
+  {
+    "objectID": "bibliography.html",
+    "href": "bibliography.html",
+    "title": "Bibliography",
+    "section": "",
+    "text": "Sources organized by category. The formatted reference list appears below; the source RIS file is available for import into Zotero or other reference managers via the Resources page."
+  },
+  {
+    "objectID": "bibliography.html#source-categories",
+    "href": "bibliography.html#source-categories",
+    "title": "Bibliography",
+    "section": "Source Categories",
+    "text": "Source Categories\n\n\n\n#\nCategory\n\n\n\n\n1\nUCLA Primary Documents\n\n\n2\nFederal Policy and Funder Mandates\n\n\n3\nFederal Funding Crisis (2025–2026)\n\n\n4\nAI and Research Computing Infrastructure\n\n\n5\nLibrary Technical Infrastructure and Research Software\n\n\n6\nIT Consolidation and Higher Education IT\n\n\n7\nUCLA Faculty and Senate Responses to OneIT (2025)\n\n\n8\nOneIT Administration Documents"
+  },
+  {
+    "objectID": "bibliography.html#references",
+    "href": "bibliography.html#references",
+    "title": "Bibliography",
+    "section": "References",
+    "text": "References\n\n\nArizona, A. (2025). NIH research funding cuts lead to layoffs at Arizona State University [Graphic]. https://www.youtube.com/watch?v=43rKFo5IMoU\n\n\nAustralia, S. N. (2025). Columbia University announce mass layoffs after the Trump Administration revokes grants [Graphic]. https://www.youtube.com/watch?v=K8Tg2V_ytl4\n\n\nBaltimore, W.-T. (2025). Funding cuts lead to layoff risk for University System of Maryland [Graphic]. https://www.youtube.com/watch?v=E8rwejgUqpI\n\n\nCalifornia, U. of. (2022). UC Research Data Policy. University of California Office of the President.\n\n\nCenter Directors, U. D. C. and. (2025). Letter to Chancellor Frenk and EVCP Hunt re: One IT Initiative.\n\n\nChapter, A. L. 1990. L. (2025). Request for Consultation on OneIT Initiative and Library Technical Staff.\n\n\nChue Hong, N. P., Katz, D. S., & Barker, M. (2022). FAIR Principles for Research Software (FAIR4RS Principles). Scientific Data, 9, 622. https://doi.org/10.1038/s41597-022-01710-x\n\n\nCNBC. (2025). The Truth About AI And The Mass Layoffs [Graphic]. https://www.youtube.com/watch?v=8g5img1hTes\n\n\nCollege and Research Libraries, A. of. (2024). Top Trends in Academic Libraries. American Library Association.\n\n\nDabrowska, D., & Council, U. G. (2025). OneIT Request for Senate Consultation [Graduate Council Response]. UCLA Academic Senate.\n\n\nDaily, T. A. (2026). OpenAI lands massive new funding & AI compute wars: TPUs vs GPUs [Graphic]. https://www.youtube.com/watch?v=ditRA-QhtZg\n\n\nDebenport, E., & Letters and Science Faculty Executive Committee, U. C. of. (2025). Response to the One IT Request for Senate Consultation [L&S FEC Response]. UCLA Academic Senate.\n\n\nDennis, T. (2021). Data Science in Libraries.\n\n\nDesjardins, R., & Planning and Budget, U. C. on. (2025). OneIT Proposal [Council on Planning and Budget Response]. UCLA Academic Senate.\n\n\nGebremichael, M., & Engineering and Applied Science Faculty Executive Committee, U. H. S. S. of. (2025). OneIT Request for Senate Consultation [HSSEAS Engineering FEC Response]. UCLA Academic Senate.\n\n\nGroup, U. R. D. W. (2022). A Call to Action: A Roadmap for Expanding Research Infrastructure and Data Services at UCLA. UCLA. https://escholarship.org/uc/item/\n\n\nGroup, U. R. D. W. (2023). Research Data Roadmap Overview [Graphic]. UCLA.\n\n\nGroup, U. R. D. W. (2024). RDWG Phase 2: Deans Council Brief. UCLA.\n\n\nHealth, N. I. of. (2023). NIH Policy for Data Management and Sharing. U.S. Department of Health and Human Services. https://grants.nih.gov/grants/guide/notice-files/NOT-OD-21-013.html\n\n\nHigher Education, C. of. (2026). The Higher Ed Group Fighting Trump [Graphic]. https://www.youtube.com/watch?v=jY8i2Z4nRxY\n\n\nHunt, D. M. (2025). Letter to Chairs and Directors re: One IT Initiative [EVCP Response]. UCLA Office of the Executive Vice Chancellor and Provost.\n\n\nIt, F. W. (2025). The graduate 'jobpocalypse': Where have all the entry-level jobs gone? [Graphic]. https://www.youtube.com/watch?v=IeTFpsuCor8\n\n\nLeazer, G., & UCLA Committee on Data, and P., Information Technology. (2025). OneIT Request for Senate Consultation [CDITP Response]. UCLA Academic Senate.\n\n\nMaloy, J., & Council, U. U. (2025). OneIT Request for Senate Consultation [Undergraduate Council Response]. UCLA Academic Senate.\n\n\nMayeda, E. R., & Committee, U. F. W. (2025). One IT Request for Senate Consultation [Faculty Welfare Committee Response]. UCLA Academic Senate.\n\n\nMcCarty, T. L., & Education and Information Studies Faculty Executive Committee, U. S. of. (2025). OneIT Request for Senate Consultation [SE&IS FEC Response]. UCLA Academic Senate.\n\n\nMcEvoy, M., & Board, U. A. S. E. (2025). OneIT Request for Senate Consultation [Executive Board Letter to EVCP Hunt]. UCLA Academic Senate.\n\n\nMint. (2025). US Universities Face Student Drop, Announce Budget Cuts & Layoffs as Crisis Deepens [Graphic]. https://www.youtube.com/watch?v=ViMuIOV1pXs\n\n\nNews, K. (2025). More than 300 jobs cut at WashU, around 200 openings closed after federal funding losses [Graphic]. https://www.youtube.com/watch?v=NE9-UCvBrlI\n\n\nResearch Libraries, A. of. (2023). Research Analytics and Data Services Initiative. Association of Research Libraries.\n\n\nr/HPC. (2026). HPC design & admin resources. https://www.reddit.com/r/HPC/comments/1rtfow5/hpc_design_admin_resources/\n\n\nr/mlops. (2026). Wrote a guide to building an ML research cluster. Feedback appreciated. https://www.reddit.com/r/mlops/comments/1rdpbkd/wrote_a_guide_to_building_an_ml_research_cluster/\n\n\nr/NIH. (2026a). How NIH went from 756 funding announcements to 14. https://www.reddit.com/r/NIH/comments/1rvjv8f/how_nih_went_from_756_funding_announcements_to/\n\n\nr/NIH. (2026b). White House stalls release of US science budgets approved by Congress. https://www.reddit.com/r/NIH/comments/1rgazcm/white_house_stalls_release_of_us_science_budgets/\n\n\nScience and Technology Policy, O. of. (2022). Ensuring Free, Immediate, and Equitable Access to Federally Funded Research. Executive Office of the President. https://www.whitehouse.gov/ostp/news-updates/2022/08/25/ostp-issues-guidance-to-make-federally-funded-research-freely-available-without-delay/\n\n\nSecurity, I. (2022). Cost of a Data Breach Report. IBM.\n\n\nShlyakhtenko, D., & Research, U. C. on. (2025). OneIT Request for Senate Consultation [Council on Research Response]. UCLA Academic Senate.\n\n\nShow, T. I. (2026). Why AI Researchers Are Quitting and Panicking on the Way Out [Graphic]. https://www.youtube.com/watch?v=rtT87iAm_SM\n\n\nSIEPR, S. (2026). SIEPR Economic Summit 2026: University Presidents on the Future of Higher Education [Graphic]. https://www.youtube.com/watch?v=5PUb-CjD9J4\n\n\nSorenson, O., & Management Faculty Executive Committee, U. A. S. of. (2025). OneIT Request for Senate Consultation [Anderson AGSM FEC Response]. UCLA Academic Senate.\n\n\nSystem, T. T. U. (2026). Texas Tech Joins NVIDIA to Launch Next-Generation AI Infrastructure [Graphic]. https://www.youtube.com/watch?v=b5HlH7RcGNk\n\n\nTeam, O. I. P. (2025). Request for Senate Consultation: One IT Discovery Phase. UCLA Digital and Technology Solutions.\n\n\nTelevision, B. (2026). Bloomberg Surveillance 3/16/2026 [Graphic]. https://www.youtube.com/watch?v=vahB50-jgKs\n\n\nWilkinson, M. D., Dumontier, M., & Aalbersberg, Ij. J. (2016). The FAIR Guiding Principles for scientific data management and stewardship. Scientific Data, 3, 160018. https://doi.org/10.1038/sdata.2016.18\n\n\nWKAR News, M. /. (2025). MSU President Speaks Out: $85M Cuts, Layoffs & The Future of Higher Ed [Graphic]. https://www.youtube.com/watch?v=AIAWm2d6iPw"
+  },
+  {
+    "objectID": "faculty-voices.html",
+    "href": "faculty-voices.html",
+    "title": "Faculty Voices",
+    "section": "",
+    "text": "In 2023, the RDWG steering committee conducted 33 meetings with UCLA academic leadership — deans, associate deans for research, chairs, and IT directors from nearly every school — plus four public faculty forums and sessions with the Academic Senate. Notes from every session were independently coded by four reviewers.\nThe quotes below are drawn directly from those sessions. They are organized by the problem they describe.\nSource: RDWG Roadmap Update and Moving Forward, August 7, 2023"
+  },
+  {
+    "objectID": "faculty-voices.html#research-leaving-ucla",
+    "href": "faculty-voices.html#research-leaving-ucla",
+    "title": "Faculty Voices",
+    "section": "Research Leaving UCLA",
+    "text": "Research Leaving UCLA\n\n“We’re thinking about the follow up to this grant, and we’re saying let’s do the next one at Notre Dame.”\n— Faculty executive committee chair\n\n\n“We’ve got faculty coming from other institutions and they say, ‘Hey, I’m coming from X and it was so easy there.’ It feels like they’ve slid backwards in terms of their storage needs.”\n— Associate dean for research\n\nFaculty are actively considering routing grants through collaborating institutions and relying on services at UC Davis Health Cloud Innovation Center, Wharton Research Data Services, San Diego Supercomputing Center, and the University of Chicago’s OCHRE environment. Recruitment and retention were raised repeatedly across schools. A lack of research infrastructure was cited as the reason a star recruitment failed."
+  },
+  {
+    "objectID": "faculty-voices.html#grants-and-funding-at-risk",
+    "href": "faculty-voices.html#grants-and-funding-at-risk",
+    "title": "Faculty Voices",
+    "section": "Grants and Funding at Risk",
+    "text": "Grants and Funding at Risk\n\n“We’re putting out fires every day. There’s a lot of money being lost as well. Delays. NIH gets upset. Other institutions pull back funding. [It] becomes very real both for the PI and the School.”\n— Principal investigator\n\n\n“NIH must know that we don’t have the capacity to do this. We’ve been in conversations with our program officers. They ask us what campus resources we have, [and] we tell them we’re responsible to do it for the grant. … Our program officers are surprised that we don’t have any support in this.”\n— Faculty member\n\nOne PI described shifting staff from research to data management solely to meet funder requirements for publicly available datasets. Another unit reported struggling to provide adequate grant support staff for multi-institutional proposals."
+  },
+  {
+    "objectID": "faculty-voices.html#storage-no-clear-solution",
+    "href": "faculty-voices.html#storage-no-clear-solution",
+    "title": "Faculty Voices",
+    "section": "Storage — No Clear Solution",
+    "text": "Storage — No Clear Solution\n\n“Storage is a huge issue. Chairs would email me about storage — backup storage, collaboration space. … In the division they offer a generous baseline; establishing that baseline is low-hanging fruit. Everyone needs storage space: Box, Google Drive, Synology, research data backup, co-storage, allocations [with] permissions.”\n— Associate dean for research\n\n\n“They’re putting [data] all over the place. The lack of a clear set of choices to go to [means] that everyone is finding their own way, so keeping this secure is impossible.”\n— Associate dean for research\n\n\n“At this stage, they don’t care where [their data] goes. They need to go to a place that’s OK, they can describe that in the proposal, and they can easily get it there. Convenience and simplicity.”\n— Faculty member on secure storage"
+  },
+  {
+    "objectID": "faculty-voices.html#secure-data-a-gap-with-real-consequences",
+    "href": "faculty-voices.html#secure-data-a-gap-with-real-consequences",
+    "title": "Faculty Voices",
+    "section": "Secure Data — A Gap with Real Consequences",
+    "text": "Secure Data — A Gap with Real Consequences\n\n“We can’t currently provide HIPAA-compliant storage. We’re hoping for help for folks with a foot in the med center that work with human subjects. If we can’t help them, they’ll roll their own and it’s not secure and not scalable.”\n— IT director\n\n\n“[One of my researchers] needed a FISMA solution and had to go to Irvine or Riverside for that. SDSC may have been the solution. We don’t have a place that meets all levels of security.”\n— Faculty member\n\n\n“They’re hungry for a central place that will check all the boxes, that’s quick and easy. Something that is easy.”\n— Faculty member on P3/P4 compliant storage"
+  },
+  {
+    "objectID": "faculty-voices.html#collaboration-across-campus-and-institutions",
+    "href": "faculty-voices.html#collaboration-across-campus-and-institutions",
+    "title": "Faculty Voices",
+    "section": "Collaboration Across Campus and Institutions",
+    "text": "Collaboration Across Campus and Institutions\n\n“[As a result,] I can’t access and use the PI Portal. I can’t even use Box on South Campus. So when we talk about inter-institutional collaboration, it’s as if we’re two different institutions.”\n— Lead PI on a large NIH grant\n\n\n“Research groups come to us and they’re looking for storage locations and collaboration, specifically collaborations [involving] data.”\n— Faculty member\n\n\n“[We need] ways to share large files. [Something] safe yet accessible to people outside UCLA. [Our files are] too large to share and people are not able to access our Box [folders].”\n— Faculty member"
+  },
+  {
+    "objectID": "faculty-voices.html#duplicative-effort-and-wasted-resources",
+    "href": "faculty-voices.html#duplicative-effort-and-wasted-resources",
+    "title": "Faculty Voices",
+    "section": "Duplicative Effort and Wasted Resources",
+    "text": "Duplicative Effort and Wasted Resources\n\n“I am always stunned at the 17 places where the same things are happening and encourage you to make sure that those overlaps are foregrounded and addressed.”\n— Dean\n\n\n“If we don’t have the infrastructure in place, that will put a lot of obstacles and barriers to allowing [our] work to take place. It’s preventing people from engaging with the research. People have to reinvent the wheel because there isn’t infrastructure in place.”\n— Faculty member\n\n\n“When we recruit in data sciences, it’s costing us a lot of money in start-up costs. It’s breaking the bank.”\n— Faculty member"
+  },
+  {
+    "objectID": "faculty-voices.html#security-software-and-workarounds",
+    "href": "faculty-voices.html#security-software-and-workarounds",
+    "title": "Faculty Voices",
+    "section": "Security, Software, and Workarounds",
+    "text": "Security, Software, and Workarounds\n\n“The short-term solution is that people buy the software with their own money or get free versions online, which is a huge security risk. The policy as it is being implemented is a detriment to researchers and the campus. It makes things worse rather than better. Bad for security and researchers.”\n— Faculty member on campus software licensing\n\n\n“The whole purchasing and invoicing [situation] is a big issue. A lot of the large vendors aren’t filling our orders because we’re not paying our bills on time.”\n— Faculty member"
+  },
+  {
+    "objectID": "faculty-voices.html#data-services-expertise-that-doesnt-exist",
+    "href": "faculty-voices.html#data-services-expertise-that-doesnt-exist",
+    "title": "Faculty Voices",
+    "section": "Data Services — Expertise That Doesn’t Exist",
+    "text": "Data Services — Expertise That Doesn’t Exist\n\n“Our investigators will need more statistical management of these datasets. That’s going to be frustrating for investigators down the line.”\n— Faculty member\n\n\n“I’m thinking about data security. When this [roadmap] is all laid out, [we’ll need] a dedicated security team and dedicated admin team that understands the data that’s flowing in and out, to work with this new service to support it. That would make researchers believe their data are safe here.”\n— Faculty member"
+  },
+  {
+    "objectID": "faculty-voices.html#the-bureaucracy-is-blocking-research",
+    "href": "faculty-voices.html#the-bureaucracy-is-blocking-research",
+    "title": "Faculty Voices",
+    "section": "The Bureaucracy Is Blocking Research",
+    "text": "The Bureaucracy Is Blocking Research\n\n“It feels like there are policies in place, but there’s an inflexibility to take something case-by-case and it requires eight people to find a solution. It should be easier than that.”\n— Faculty member\n\n\n“NIH awards are made to UCLA and not UC Health, but UC Health requires nonsensical oversight that, more often than not, is not applicable to non-human data collection or non-patient behavioral science data.”\n— Faculty member\n\n\n“Any time we can make it less frustrating, smoother — any time the faculty do well, the whole university does well.”\n— Faculty member"
+  },
+  {
+    "objectID": "faculty-voices.html#what-the-campus-wants",
+    "href": "faculty-voices.html#what-the-campus-wants",
+    "title": "Faculty Voices",
+    "section": "What the Campus Wants",
+    "text": "What the Campus Wants\n\n“We’re pretty decentralized and everyone is off doing their own thing. If you can get us thinking about one campus… make it more cohesive so everyone understands we’re in a shared environment.”\n— Faculty member\n\n\n“Most [challenging] is trying to find resources on campus. Provide a document on resources on campus. UCSF updated an annual list of resources that one could use to cut and paste into proposals. Having one source for campus with that information would be really great.”\n— Faculty member\n\n\n“Explaining to everybody what resources are out there and how to access them is critical.”\n— Faculty member\n\n\n\n\n\n\n\n\nNote\n\n\n\nThese quotes were collected during the RDWG’s 2023 campus engagement campaign — 33 meetings with deans, associate deans for research, chairs, IT directors, and faculty from nearly every UCLA school, plus four public faculty forums. Notes were independently coded by four reviewers. The full report is available on the Resources page."
   },
   {
     "objectID": "rdwg-one-pager.html",
@@ -348,5 +348,12 @@
     "title": "Research Data Working Group (2022): Findings and Recommendations for OneIT",
     "section": "Evidence Supporting Research Enablement Needs",
     "text": "Evidence Supporting Research Enablement Needs\n\nPeer benchmarking (13 categories): Available in the RDWG report and Research on Data Services II. Identifies specific gaps relative to Michigan, Stanford, UCSD, and others — most of which have invested in coordinated research data infrastructure since 2022.\nNSF and NIH award data: UCLA’s per-award gap and the scale of its NIH portfolio ($505M annually) document both the opportunity and the compliance risk.\nResearcher use cases: Appendix 3 of the roadmap includes discipline-specific scenarios documenting where infrastructure gaps directly impede research.\nCost of inaction: The Google Drive 10PB migration crisis (June 2024 deadline), estimated $1.8M/year in potential overage fees, is a concrete recent example of what distributed, uncoordinated storage costs.\nPhase 2 materials (2023–2024): Implementation task analysis, Deans Council brief, and Bruin Data Hub specifications provide additional detail on feasibility and sequencing.\n\nAll source documents available for download on the Resources page."
+  },
+  {
+    "objectID": "rdwg-one-pager.html#what-has-changed-since-2022-and-what-persists",
+    "href": "rdwg-one-pager.html#what-has-changed-since-2022-and-what-persists",
+    "title": "Research Data Working Group (2022): Findings and Recommendations for OneIT",
+    "section": "What Has Changed Since 2022 — and What Persists",
+    "text": "What Has Changed Since 2022 — and What Persists\nWhat has changed:\n\nNIH DMSP took effect January 2023 — six weeks after the roadmap published. Compliance is now required, not anticipated.\nOSTP public access mandate took effect December 2025 — all federally-funded research must be publicly available at no cost. This is present reality, not a future risk.\nGenerative AI has created cross-disciplinary GPU compute demand the roadmap did not anticipate. Access to AI infrastructure is now a research equity issue on par with storage in 2022.\nFederal funding uncertainty has intensified (March 2026): UCLA’s ability to compete for large, multi-site awards is more consequential than ever.\nOne IT launched, raising new organizational questions about research IT roles that the RDWG did not address.\n\nWhat no longer applies as written:\n\nCost figures ($74.2M / $49.8M) reflect 2022 market conditions; updated estimates would be needed.\n“Future” mandates (NIH DMSP, OSTP) are now in force — the urgency framing has shifted from anticipatory to reactive.\n\nWhat persists:\n\nUCLA’s benchmarking gaps remain: none of the four core recommendations have been implemented.\nThe coordination vacuum (no ORDR equivalent) is still unaddressed.\nFaculty reliance on informal workarounds — servers under desks, fragmented storage, ad hoc cloud spend — continues to be documented in recent campus discussions. It matches exactly what the RDWG found in 2022.\nThe layered model remains the right architecture: central coordination raises the floor; embedded expertise stays where research happens."
   }
 ]
