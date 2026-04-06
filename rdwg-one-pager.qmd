@@ -79,3 +79,31 @@ Export controls on AI and semiconductor research, clinical data requirements, an
 - Faculty reliance on informal workarounds — servers under desks, fragmented storage, ad hoc cloud spend — continues to be documented in recent campus discussions. It matches exactly what the <abbr title="Research Data Working Group">RDWG</abbr> found in 2022.
 - **The <abbr title="Geographic Information Systems">GIS</abbr> librarian vacancy is a concrete local example of the mechanism in action.** A December 2025 <abbr title="Office of Advanced Research Computing">OARC</abbr>/Library report on ArcGIS Online governance identified the vacant <abbr title="Geographic Information Systems">GIS</abbr> Librarian position as root cause #5 of a platform governance failure now operating at 230-240% of licensed storage capacity — with no designated administrator, no retention policy, and risk of service disruption. (Horne & Woltag, <abbr title="Office of Advanced Research Computing">OARC</abbr>, December 2025)
 - The layered model remains the right architecture: **central coordination raises the floor; embedded expertise stays where research happens.**
+
+```{=html}
+<script>
+(function() {
+  var tip;
+  document.querySelectorAll('abbr[title]').forEach(function(el) {
+    el.addEventListener('mouseenter', function(e) {
+      tip = document.createElement('div');
+      tip.textContent = el.getAttribute('title');
+      tip.style.cssText = 'position:fixed;background:#2d2d2d;color:#fff;padding:4px 10px;border-radius:4px;font-size:0.8em;line-height:1.4;z-index:9999;pointer-events:none;white-space:nowrap;box-shadow:0 2px 6px rgba(0,0,0,0.3);';
+      document.body.appendChild(tip);
+      moveTip(e);
+    });
+    el.addEventListener('mousemove', moveTip);
+    el.addEventListener('mouseleave', function() {
+      if (tip) { tip.remove(); tip = null; }
+    });
+  });
+  function moveTip(e) {
+    if (!tip) return;
+    var x = e.clientX + 12, y = e.clientY - 36;
+    if (x + tip.offsetWidth > window.innerWidth - 8) x = e.clientX - tip.offsetWidth - 12;
+    tip.style.left = x + 'px';
+    tip.style.top = y + 'px';
+  }
+})();
+</script>
+```
