@@ -97,6 +97,13 @@ a:hover { color: $ucla-dark-blue; }
   letter-spacing: 0.01em;
 }
 
+/*-- Abbreviations --*/
+abbr[title] {
+  text-decoration: underline dotted $ucla-blue;
+  cursor: help;
+  text-underline-offset: 3px;
+}
+
 /* Stack on mobile */
 @media (max-width: 768px) {
   .pullquote {
