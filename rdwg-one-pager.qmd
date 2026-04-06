@@ -1,7 +1,7 @@
 ---
 title: "Research Data Working Group (2022): Findings and Recommendations for OneIT"
 author: "Reviewed by Tim Dennis, UCLA Library Data Science Center"
-date: "March 2026"
+date: "March 30, 2026"
 format:
   html:
     toc: true
