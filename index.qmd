@@ -62,7 +62,6 @@ ORDR and the Bruin Data Hub are the foundational layer — coordination and stor
 
 | Page | Contents |
 |------|----------|
-| [Presentation](rdwg-slides.qmd) | Slide deck for the One IT Research WG — March 2026 |
 | [One-Pager](rdwg-one-pager.qmd) | Concise summary of RDWG findings and recommendations |
 | [Gaps Analysis](gaps-analysis.qmd) | What's changed since the 2022 roadmap: AI, compliance, RSE, cloud context |
 | [Faculty Voices](faculty-voices.qmd) | Direct quotes from 33 campus leadership meetings — in their own words |
