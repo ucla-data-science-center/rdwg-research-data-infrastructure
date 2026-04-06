@@ -17,6 +17,8 @@ website:
         href: rdwg-one-pager.qmd
       - text: "Gaps Analysis"
         href: gaps-analysis.qmd
+      - text: "Peer Evidence"
+        href: peer-evidence.qmd
       - text: "Faculty Voices"
         href: faculty-voices.qmd
       - text: "Bibliography"

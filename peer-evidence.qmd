@@ -1,0 +1,206 @@
+---
+title: "What Peer Institutions Learned"
+subtitle: "Evidence on IT Consolidation Risks and Models in Research-Intensive Universities"
+date: "April 2026"
+---
+
+IT consolidation is not new in higher education. Over the past fifteen years, universities including UC Berkeley, UT Austin, University of Michigan, Yale, Cornell, and the University of Washington have undertaken large-scale initiatives similar to One IT. Their experiences — documented in academic senate reports, independent audits, and peer-reviewed research — reveal consistent patterns: both the conditions under which consolidation succeeds and the specific failure modes that recur across institutions.
+
+This page draws on a systematic review of those initiatives to support the One IT Research Working Group's risk identification work. It names and defines the documented failure modes, identifies the architectural models involved, and summarizes what the evidence says about reducing risk.
+
+::: {.callout-note}
+**Source**: *Critical Analysis of IT Consolidation Initiatives in Higher Education and Research-Intensive Organizations* (2026), synthesizing case studies from Berkeley, UT Austin, Michigan, Yale, Cornell, University of Washington, University of Georgia, and UCLA Academic Senate records.
+:::
+
+---
+
+## Architectural Models
+
+Before examining risk, it helps to name the three structural options that universities have chosen — because the risks are not evenly distributed across them.
+
+| Model | Structure | Research IT Impact | Efficiency Profile |
+|---|---|---|---|
+| **Full Centralization** | All IT staff and resources absorbed into a single central organization reporting to a CIO | High risk: "one-size-fits-all" service levels fail specialized laboratory and data needs | Maximum potential for licensing and hardware savings; rarely fully realized |
+| **Federated / Layered** | Commodity services centralized; specialized staff remain embedded in academic units, often with dual reporting | Better retention of discipline-specific expertise; researchers retain local relationships | Moderate savings through common back-ends; not predicated on staff reductions |
+| **Ad-Hoc / Decentralized** | Department-level autonomy; no coordination layer | High responsiveness; significant fragmentation, redundancy, and security gaps | Low; the starting condition most consolidations are trying to move away from |
+
+The federated/layered model — sometimes called the **Academic Divisional Computing (ADC) model** in the UC system — is the approach most consistently associated with successful outcomes in peer institution cases. The RDWG's layered model recommendation aligns with this approach.
+
+---
+
+## Documented Risk Patterns
+
+The following risk patterns appear repeatedly across peer institution case studies. They are named here to give the Working Group shared vocabulary for identifying conditions that predict poor outcomes.
+
+---
+
+### 1. The Dual-Change Trap
+
+**What it is:** Attempting to reorganize the workforce and implement major new technology or processes simultaneously. The cognitive and operational load of two concurrent large-scale changes consistently produces institutional turmoil, erodes trust, and degrades both the people-side and the process-side outcomes.
+
+**Peer evidence:** Yale and Cornell both explicitly named this pattern after their own difficult experiences and warned against it. Cornell's post-implementation review stated that even with a careful transition, "some institutional knowledge and customization were still lost" — and that was with *sequential* change. Berkeley attempted restructuring and process automation simultaneously; the Stony Brook Senate report characterized the result as a "mood of total chaos."
+
+**The signal:** Organizational rationalization (role reclassification, unit restructuring, reporting-line changes) proceeding concurrently with — or ahead of — service design, governance design, or working group recommendations. The risk is highest when structural decisions close before the design questions are answered.
+
+---
+
+### 2. The Governance Bypass
+
+**What it is:** Launching or advancing consolidation without meaningful faculty and staff involvement in governance. "Meaningful" is the operative word: advisory councils with no real authority do not satisfy the governance requirement. When affected constituencies perceive that decisions are being made without them, resistance becomes durable and often escalates.
+
+**Peer evidence:** The Stony Brook Senate report on Berkeley's Operational Excellence found "a significant lack of faculty involvement," with governance limited to "Functional Advisory Councils" that had little real authority. Faculty surveys documented the initiative as a "time waster." Yale administrators later identified "doing a better job to engage faculty" as their most important lesson learned — in retrospect.
+
+At UCLA, the Academic Senate's formal consultation request on OneIT documented a "perceived deliberate circumvention of the structures and mechanisms of shared governance." The Senate argued that IT staff are "valued, known members of departmental communities" whose removal would replace established relationships with a "frustrating and opaque customer-service experience."
+
+**The signal:** Structural or staffing decisions that precede or bypass formal shared governance processes; advisory bodies without authority over outcomes; timelines that compress the deliberation window.
+
+---
+
+### 3. The Commodity Fallacy
+
+**What it is:** Treating research IT as functionally equivalent to enterprise IT — email, networking, desktop support — and applying the same standardization logic to specialized research computing, data management, and laboratory support. The fallacy is that because all of it is "IT," it can be governed and supported the same way.
+
+**Peer evidence:** Berkeley's clustering of administrative and IT services failed most visibly in research contexts, where faculty found that the loss of local staff made it impossible to support specialized activities — organizing discipline-specific conferences, managing complex data workflows, supporting unique research equipment. The Stony Brook Senate report documented this as one of the most consistent findings across seven peer institutions: "knowledge loss was consistent and underaddressed."
+
+Research HPC provides a measurable dimension of this problem: university-operated HPC clusters are growing at approximately 18% CAGR while industrial AI infrastructure grows at 78%. Fragmented governance is identified as a primary driver of this gap — not insufficient investment alone, but structural inability to make coordinated decisions.
+
+**The signal:** Service design that uses the same frameworks for research computing, library data infrastructure, and enterprise functions like payroll or email; ticket-based support replacing relationship-based support for research workflows; service level agreements that do not account for the time-sensitivity of research.
+
+---
+
+### 4. The Brain Drain
+
+**What it is:** The loss of tacit institutional knowledge that occurs when consolidation disrupts the people who carry it. This is distinct from simple attrition — it is accelerated and concentrated by consolidation pressure. It occurs through three documented mechanisms: retirement of senior staff who leave with experiential knowledge; mid-career exits when staff feel their expertise is devalued or their autonomy removed; and "process unlearning," where localized workflows that encode departmental knowledge are replaced by standardized enterprise processes.
+
+**Peer evidence:** The University of Georgia system consolidated ten institutions between 2013 and 2023. Empirical findings from participant interviews consistently identified "a lack of transfer of knowledge and experience" — not just within institutions, but *between* mergers. Lessons learned in early consolidations were not codified for later efforts, meaning the same knowledge was lost repeatedly. Five years post-consolidation, "fiscal prudency" remained "a work in progress." Cornell acknowledged that even with a careful transition model, institutional knowledge loss occurred.
+
+Researchers note that "technology alone is not a solution for knowledge retention, it is only instrumental in aiding the process" — meaning knowledge management systems do not substitute for retaining the people who hold domain-specific expertise.
+
+**The signal:** Role reclassification that changes title without considering domain identity; career ladders that do not recognize discipline-embedded expertise; attrition among long-tenured staff during the transition period; standardization that removes the informal workflows through which research knowledge is actually shared.
+
+---
+
+### 5. The Savings Mirage
+
+**What it is:** Projected savings that fail to materialize at the scale promised, often because the cost of change management, service degradation, and staff attrition is not included in the original projection — and because technology costs and complexity evolve over a multi-year implementation in ways that erode efficiency gains.
+
+**Peer evidence:** Berkeley's Operational Excellence initiative projected $75 million in annual savings. A 2014 assessment characterized realized savings as "difficult to quantify" and "still a work in progress." UT Austin projected $30–40 million in annual savings with 500 positions eliminated; after intense faculty and staff resistance, the university severed ties with Accenture and reduced scope to a small pilot in two departments, with setup costs dropping from $54 million to under $7 million — a near-complete reversal.
+
+University of Michigan took a more measured approach, projecting $17–20 million in annual savings while explicitly acknowledging that "cost is a hard goal to meet" because technology needs change over the course of a multi-year project. Michigan's outcome was more stable — but still predicated on focusing on commodity services, not research computing.
+
+The Stony Brook Senate's review of seven institutions found that savings were "generally assumed but rarely documented" — the most reliable predictor of failure identified in that study.
+
+**The signal:** Projected savings presented without a forensic assessment of internal cost structures; savings estimates that do not account for transition costs, change management, and service quality degradation; timelines that assume steady-state efficiency from year one.
+
+---
+
+### 6. The Top-Down Mandate
+
+**What it is:** Implementing consolidation as a directive rather than a co-designed transition, with decisions made at the executive level and communicated downward. This pattern does not just produce resistance — it eliminates the feedback loops that would allow the institution to course-correct before significant harm is done.
+
+**Peer evidence:** Berkeley's Operational Excellence was characterized by top-down implementation that "initially bypassed traditional shared governance structures." The result was not just resistance but a loss of institutional intelligence: because faculty and staff were not in the design process, problems that could have been anticipated were not. UT Austin's reversal was driven by a coalition that specifically targeted the legitimacy of the top-down process — not just the substance of the proposal.
+
+**The signal:** Consolidation design that proceeds without co-design with affected units; communication that presents decisions as finalized before consultation; advisory processes initiated after key structural commitments are already made.
+
+---
+
+### 7. The Consultant Playbook
+
+**What it is:** The application of corporate restructuring frameworks to university contexts by external consultants who have limited familiarity with the academic mission. The pattern is consistent: recommendations emphasize increasing "span of control," reducing management layers, and identifying "redundancy" using corporate metrics that do not capture the value of specialized academic units.
+
+**Peer evidence:** Bain & Company, Accenture, and Deloitte have each been involved in major university consolidation initiatives. Their track record is documented in academic senate reports and independent reviews. The AAUP's analysis of Bain's university work found that recommendations were frequently "boilerplate" — failing to account for mission and culture. At Cornell and Berkeley, faculty were openly critical that projected savings "frequently fail to materialize in full," and that "promised reinvestments in the academic mission do not occur."
+
+UT Austin is the clearest case: the consolidation plan was chaired by an Accenture executive, and critics successfully surfaced Accenture's history of cost overruns in Texas state contracts — including a $64 million overrun on a state child support system — as evidence that the analysis could not be trusted. The university subsequently severed the relationship.
+
+**The signal:** Savings projections that cannot be traced to institution-specific data; recommendations that treat different academic units as equivalent based on headcount or job title rather than function; external frameworks applied without a "forensic assessment" of local culture and cost structure.
+
+---
+
+## What Reduces Risk
+
+Across the same institutions, a set of practices is consistently associated with better outcomes. These are not aspirational — they are documented from cases where consolidation proceeded without the failure modes above.
+
+**Inclusive governance from the start.** University of Michigan's Administrative Services Transformation began with a three-year assessment period co-designed with faculty and staff. Every process brought into the shared services center was reengineered with direct feedback from subject matter experts in colleges and schools. Michigan's outcome was more durable and more trusted than Berkeley's.
+
+**The layered support model.** The Academic Divisional Computing (ADC) model — technically centralized, operationally embedded — is the approach most consistently cited in successful cases. Stanford's "IT relationship managers" and NYU's locally embedded teams are the institutional forms this takes. Centralization of commodity services; preservation of domain expertise at the edge where research happens.
+
+**Value-over-cost framing.** Michigan explicitly argued that "cost is a hard goal to meet" and instead focused on capabilities gained — improved security posture, elevated desktop services, better data access. Institutions that led with cost savings (Maine, Michigan's earlier attempts) consistently generated resistance and morale decline.
+
+**Incremental and opt-out structures.** Yale introduced consolidation through "nudge" strategies — automated tools that led departments toward standardization over time — rather than mandated overnight transitions. Michigan allowed departments to "opt out" of specific shared services if they could demonstrate local necessity, though they paid a baseline contribution to central infrastructure. This preserved local agency while still funding the common layer.
+
+**Sequencing: governance before rationalization.** The consistent lesson from Yale, Cornell, and Michigan is that service design and governance design must precede organizational restructuring — not run concurrently with it. Institutions that inverted this sequence encountered turmoil they could not recover from within the initiative's timeline.
+
+---
+
+## RDWG Alignment
+
+The RDWG's four recommendations — ORDR, Bruin Research Data Hub, Expanded Research Data Services, and Expanded Research Infrastructure — map directly onto the success patterns the peer evidence identifies.
+
+| RDWG Proposal | Peer Evidence Alignment |
+|---|---|
+| **ORDR** (coordination unit, service catalog, compliance lead) | Addresses the "ad hoc and siloed" RDS governance problem documented across R1s; provides the coordination layer that Michigan and NC State built |
+| **Bruin Research Data Hub** (baseline storage, central + cloud) | Addresses the commodity infrastructure gap — the layer that *should* be centralized — without touching embedded expertise |
+| **Expanded Research Data Services** (built on Library/DSC) | Aligns with the layered model: specialized, researcher-facing services remain embedded where domain expertise lives |
+| **Expanded Research Infrastructure** (Hoffman2, P3/P4 enclave, Cloud for Research) | Addresses the HPC governance fragmentation problem identified as a driver of UCLA's research computing gap |
+
+The RDWG did not argue for preserving fragmentation. It argued for replacing fragmentation with coordinated, research-led governance and shared infrastructure — while preserving the embedded expertise that research work depends on. That is the pattern the peer evidence supports.
+
+---
+
+## Glossary
+
+Key terms used in IT consolidation discourse. Shared vocabulary helps a working group with diverse backgrounds converge on common analysis.
+
+**Academic Divisional Computing (ADC)**
+A model originating in the UC system in which IT staff are centrally managed but physically and operationally embedded in academic divisions. Staff maintain deep knowledge of their unit's research and teaching mission while providing central IT with security compliance and procurement leverage. Cited in DTS's own peer institution analysis as the approach taken by Stanford ("IT relationship managers") and NYU ("locally embedded teams").
+
+**Administrative Services Transformation (AST)**
+A common branding for large-scale shared services initiatives at research universities. Used at University of Michigan and elsewhere. Often scoped to include both IT and non-IT administrative functions (HR, finance).
+
+**Baseline tax**
+A model used at University of Michigan in which departments that opt out of specific shared services functions still pay a baseline contribution to support the common infrastructure. Preserves local agency while ensuring the central layer is funded.
+
+**Brain drain**
+In the consolidation context, the concentrated loss of institutional knowledge that occurs when senior or specialized staff leave during a transition — through retirement, voluntary attrition, or reclassification into roles that do not match their expertise. Distinct from normal turnover because it is accelerated and concentrated.
+
+**Burning platform**
+Consultants' framing for the financial crisis that justifies consolidation — the argument that inaction is not an option. Used to accelerate timelines and suppress deliberation. Associated with cases where governance was bypassed.
+
+**Commodity services**
+IT functions that are broadly standardized across institutions and users: email, networking, identity management, basic desktop support. The consensus across peer institution cases is that these are appropriate candidates for full centralization. Contrasted with specialized research and domain-embedded services.
+
+**Dual-Change Trap**
+Named by Yale and Cornell: the failure mode that occurs when institutions attempt to reorganize the workforce *and* implement major new technology or processes simultaneously. Produces institutional turmoil because neither change can stabilize while the other is in flux.
+
+**Federated model**
+An IT governance structure in which some functions are centralized (infrastructure, security, commodity services) while others remain distributed in academic units. The spectrum runs from "loosely federated" (high unit autonomy) to "tightly federated" (ADC-style, with central management and local embedding). Contrasted with full centralization.
+
+**IT Rationalization**
+The process of systematically reducing duplication, standardizing platforms, and consolidating vendor contracts across an institution. Can be implemented narrowly (technology and licensing only) or broadly (including staffing). Michigan used the term to describe a technology-focused process that explicitly did not predicate savings on headcount reduction.
+
+**Institutional knowledge**
+The accumulated expertise, relationships, and informal know-how that staff develop over time — including knowledge of how to navigate unit-specific workflows, researcher preferences, and compliance requirements. Not captured in documentation systems. Primary casualty of rapid or top-down consolidation.
+
+**Operational Excellence (OE)**
+Berkeley's 2009–2014 consolidation initiative, heavily influenced by a Bain & Company report. The term has become shorthand in academic senate discourse for consolidation initiatives that prioritize administrative efficiency over faculty and research mission alignment.
+
+**Rationalization**
+In the One IT context, the process of assessing which IT roles and functions across UCLA units should be consolidated into DTS. Distinct from "shared services" (new structures) and "ADC" (embedded models). UCLA's One IT is organized around cohort-based rationalization of campus IT units.
+
+**Recharge model**
+A funding arrangement in which a central unit provides services to academic units on a cost-recovery basis, billing for use. In a consolidation context, a recharge model for research IT converts a service relationship into a vendor relationship — removing embedded staff from the unit while making the unit pay per service. Distinct from a baseline-funded model.
+
+**Research Data Services (RDS)**
+Researcher-facing services that support the full data lifecycle: data management planning, curation, archiving, format conversion, compliance support, and discovery. Distinguished from IT infrastructure (storage, compute) by their domain-embedded, consultative character. The Ithaka S+R landscape study characterizes RDS governance at most R1s as "decentralized and ad hoc."
+
+**Shadow IT**
+Technology and systems managed by individual departments or researchers outside of central IT's oversight. A symptom of the commodity fallacy — when central IT cannot serve specialized research needs, units build their own capacity. Consolidation initiatives often cite shadow IT as a risk to be eliminated; the risk analysis literature suggests it also serves as evidence that central IT is not meeting research needs.
+
+**Shared Governance**
+The formal structures through which faculty and academic units participate in institutional decision-making. In the university context, shared governance is not a courtesy — it is the mechanism by which research mission alignment is maintained in administrative decisions. Bypassing it is consistently associated with resistance and reversal.
+
+**Shared Services Center (SSC)**
+A centralized unit that provides administrative or IT services to multiple departments on a standardized basis. Common in corporate restructuring; adaptation to universities has produced mixed results, particularly for research-specific functions.
+
+**Span of control**
+A corporate management metric measuring the number of direct reports per supervisor. Used by management consultants as a proxy for organizational efficiency. Peer institution reviews document that applying span-of-control targets to university units fails to account for the value of small specialized teams serving high-complexity functions.
