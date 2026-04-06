@@ -102,6 +102,24 @@ abbr[title] {
   text-decoration: underline dotted $ucla-blue;
   cursor: help;
   text-underline-offset: 3px;
+  position: relative;
+}
+
+abbr[title]:hover::after {
+  content: attr(title);
+  position: absolute;
+  bottom: calc(100% + 4px);
+  left: 50%;
+  transform: translateX(-50%);
+  background: #2d2d2d;
+  color: #fff;
+  padding: 4px 10px;
+  border-radius: 4px;
+  font-size: 0.78em;
+  font-weight: normal;
+  white-space: nowrap;
+  z-index: 1000;
+  pointer-events: none;
 }
 
 /* Stack on mobile */
