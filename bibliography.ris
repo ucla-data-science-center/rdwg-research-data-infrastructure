@@ -4,36 +4,58 @@ TI  - A Call to Action: A Roadmap for Expanding Research Infrastructure and Data
 PY  - 2022
 DA  - 2022/12/02
 PB  - UCLA
-UR  - https://escholarship.org/uc/item/
 KW  - research data infrastructure
 KW  - UCLA
 KW  - HPC
 KW  - data management
 KW  - open science
-N1  - 66-page primary roadmap; basis for RDWG recommendations
+N1  - 66-page primary roadmap. Includes peer benchmarking across 13 service categories, cost analysis, faculty input, and detailed implementation proposals for ORDR, Bruin Research Data Hub, expanded data services, and expanded computing infrastructure.
 ER  -
 
-TY  - SLIDE
+TY  - RPRT
+AU  - UCLA Research Data Working Group
+TI  - Research on Data Services II: Peer Benchmarking
+PY  - 2022
+PB  - UCLA
+KW  - research data infrastructure
+KW  - UCLA
+KW  - peer benchmarking
+KW  - research data services
+N1  - Detailed peer benchmarking across 13 research data service categories at comparable research universities. Source data for the 9-of-13 gap finding. Based on the Research on Data Services II (RDS II) instrument.
+ER  -
+
+TY  - RPRT
 AU  - UCLA Research Data Working Group
 TI  - Research Data Roadmap Overview
+PY  - 2023
+DA  - 2023/02/01
+PB  - UCLA
+KW  - research data infrastructure
+KW  - UCLA
+N1  - 20-slide deck presenting the roadmap findings to campus audiences, February 2023. Covers the steering committee structure, the four roadmap recommendations, the Bruin Research Data Hub hub-and-spoke diagram, the expanded research data services model, and the layered infrastructure stack.
+ER  -
+
+TY  - RPRT
+AU  - UCLA Research Data Working Group
+TI  - Research Data Roadmap: Campus Meeting Series
 PY  - 2023
 DA  - 2023/05
 PB  - UCLA
 KW  - research data infrastructure
 KW  - UCLA
-N1  - 20-slide deck for campus meeting series, May 2023
+N1  - 20-slide deck for the May 2023 campus meeting series. Covers peer benchmarking results, the four core proposals, and the implementation roadmap.
 ER  -
 
 TY  - RPRT
 AU  - UCLA Research Data Working Group
-TI  - RDWG Phase 2: Deans Council Brief
-PY  - 2024
-DA  - 2024/01
+TI  - RDWG Roadmap Update and Moving Forward
+PY  - 2023
+DA  - 2023/08/07
 PB  - UCLA
 KW  - research data infrastructure
 KW  - UCLA
 KW  - implementation
-N1  - Phase 2 strategy summary presented to Deans Council, January 2024
+N1  - Phase 2 report, August 7, 2023. Summarizes findings from 33 meetings with campus leadership (deans, associate deans for research, chairs, IT directors from nearly every school), four public faculty forums, and Academic Senate committee sessions. Includes implementation task analysis with priority ratings for all roadmap elements.
 ER  -
 
 TY  - GOVDOC
@@ -106,45 +128,36 @@ KW  - software engineering
 KW  - open science
 ER  -
 
-TY  - BOOK
-AU  - Dennis, Tim
-TI  - Data Science in Libraries
-PY  - 2021
-KW  - data science
-KW  - libraries
-KW  - research data
-KW  - library technology
-ER  -
-
-TY  - RPRT
-AU  - Association of Research Libraries
-TI  - Research Analytics and Data Services Initiative
-PY  - 2023
-PB  - Association of Research Libraries
-KW  - research libraries
-KW  - data services
-KW  - research analytics
-ER  -
-
-TY  - RPRT
-AU  - Association of College and Research Libraries
-TI  - Top Trends in Academic Libraries
-PY  - 2024
-PB  - American Library Association
-KW  - academic libraries
-KW  - library trends
-KW  - library technology
-ER  -
-
 TY  - RPRT
 AU  - IBM Security
-TI  - Cost of a Data Breach Report
+TI  - Cost of a Data Breach Report 2022
 PY  - 2022
 PB  - IBM
+UR  - https://www.ibm.com/reports/data-breach
 KW  - cybersecurity
 KW  - data breach
 KW  - PHI
-N1  - Cited in RDWG roadmap: $146/record general; $429-499/record for protected health information.
+N1  - Annual IBM Security report. Cited in RDWG roadmap: $146/record average breach cost; $429-499/record for protected health information. URL links to current edition; 2022 edition available via IBM Security archive.
+ER  -
+
+TY  - JOUR
+AU  - Oliver, Jeffrey
+AU  - Rios, Fernando
+AU  - Carini, Kiriann
+AU  - Ly, Chun
+TI  - Data services at the academic library: a natural history of horses and unicorns
+JO  - Journal of eScience Librarianship
+PY  - 2024
+VL  - 13
+IS  - 2
+SP  - e780
+DO  - 10.7191/jeslib.780
+KW  - research data services
+KW  - academic libraries
+KW  - library resourcing
+KW  - R1 institutions
+KW  - data management
+N1  - Survey of 25 R1 libraries. Key finding: library resourcing (wages) statistically significant predictor of research data service breadth (p=0.046). Advanced services restricted to well-resourced libraries. Intra- and inter-campus partnerships recommended where local capacity limited.
 ER  -
 
 TY  - RPRT
@@ -173,7 +186,7 @@ KW  - academic computing
 KW  - shared governance
 KW  - cybersecurity
 KW  - federated governance
-N1  - 5-page memo from CDITP Chair Gregory Leazer. Defines academic computing formally (research infrastructure, instructional platforms, scholarly communication tools, lab technologies). Cites UC Regents Bylaw 40.1, APM-010 Academic Freedom, and IS-3 Electronic Information Security (Oct 25 2019) as legal basis for Senate authority over academic computing. Requests temporary freeze on changes to academic computing until joint consultation framework in place. 7 specific recommendations including academic mission impact statements, federated cybersecurity governance.
+N1  - 5-page memo from CDITP Chair Gregory Leazer. Defines academic computing formally (research infrastructure, instructional platforms, scholarly communication tools, lab technologies). Cites UC Regents Bylaw 40.1, APM-010 Academic Freedom, and IS-3 Electronic Information Security as legal basis for Senate authority over academic computing. Requests temporary freeze on changes to academic computing until joint consultation framework in place. 7 specific recommendations including academic mission impact statements and federated cybersecurity governance.
 ER  -
 
 TY  - RPRT
@@ -331,26 +344,6 @@ KW  - IT consolidation
 N1  - Administration's own consultation request memo. Four focus areas: Workforce, Costs, Services, Security/Compliance. Three-step consultation plan: early October presentation, November 7 written feedback, December 2025 conclusion.
 ER  -
 
-TY  - JOUR
-AU  - Oliver, Jeffrey
-AU  - Rios, Fernando
-AU  - Carini, Kiriann
-AU  - Ly, Chun
-TI  - Data services at the academic library: a natural history of horses and unicorns
-JO  - Journal of eScience Librarianship
-PY  - 2024
-VL  - 13
-IS  - 2
-SP  - e780
-DO  - 10.7191/jeslib.780
-KW  - research data services
-KW  - academic libraries
-KW  - library resourcing
-KW  - R1 institutions
-KW  - data management
-N1  - Survey of 25 R1 libraries. Key finding: library resourcing (wages) statistically significant predictor of research data service breadth (p=0.046). Advanced services restricted to well-resourced libraries. Intra- and inter-campus partnerships recommended where local capacity limited.
-ER  -
-
 TY  - RPRT
 AU  - Stony Brook University Senate
 TI  - Report on Shared Services
@@ -374,7 +367,7 @@ KW  - IT consolidation
 KW  - operational excellence
 KW  - UC Berkeley
 KW  - faculty governance
-N1  - BFA critique of UC Berkeley's Operational Excellence initiative. Documents faculty concerns about commodity treatment of specialized services, top-down implementation without faculty governance, and impact on research support functions.
+N1  - BFA critique of UC Berkeley's Operational Excellence initiative. Documents faculty concerns about commodity treatment of specialized services, top-down implementation without faculty governance, and impact on research support functions. Advocacy source; UC system directly comparable to UCLA context.
 ER  -
 
 TY  - JOUR
@@ -438,11 +431,11 @@ N1  - Documents University of Texas at Austin's reversal of Accenture outsourcin
 ER  -
 
 TY  - JOUR
+AU  - EDUCAUSE
 TI  - Enhancing IT's Institutional Value through IT Rationalization
 JO  - EDUCAUSE Review
 PY  - 2018
 UR  - https://er.educause.edu/blogs/2018/4/enhancing-its-institutional-value-through-it-rationalization
-PB  - EDUCAUSE
 KW  - IT rationalization
 KW  - IT governance
 KW  - higher education IT
@@ -451,6 +444,7 @@ N1  - EDUCAUSE framework for IT rationalization in higher education. Documents M
 ER  -
 
 TY  - ELEC
+AU  - University of Michigan
 TI  - Shared Services Center to be part of Administrative Services Transformation
 JO  - Michigan Record
 PY  - 2013
@@ -486,24 +480,11 @@ KW  - higher education consolidation
 KW  - institutional merger
 KW  - Georgia
 KW  - business programs
-N1  - Case study of Georgia higher education consolidation. Documents transition costs, mission alignment challenges, and timeline realities. Used in peer evidence to illustrate that consolidation savings are often slower to materialize than projected.
-ER  -
-
-TY  - THES
-TI  - Strategic Restructuring in Higher Education: A Case Study of a Consolidation of Two Institutions
-PY  - 2019
-PB  - Columbus State University ePress
-UR  - https://csuepress.columbusstate.edu/cgi/viewcontent.cgi?article=1410&context=theses_dissertations
-KW  - higher education consolidation
-KW  - institutional merger
-KW  - Georgia
-KW  - strategic restructuring
-N1  - Thesis-length study of Georgia institutional consolidation. Provides longitudinal analysis of consolidation outcomes; documents divergence between projected and realized savings.
+N1  - Case study of Georgia higher education consolidation. Documents transition costs, mission alignment challenges, and timeline realities. Used in peer evidence to illustrate that consolidation savings are often slower to materialize than projected. Note: volume/issue/pages not confirmed — citation should be verified before formal submission.
 ER  -
 
 TY  - RPRT
 AU  - Shu, Peng
-AU  - others
 TI  - Survey of HPC in US Research Institutions
 PY  - 2025
 PB  - University of Georgia
@@ -513,7 +494,7 @@ KW  - research computing
 KW  - high-performance computing
 KW  - cloud computing
 KW  - R1 universities
-N1  - arXiv:2506.19019v1. Survey of HPC infrastructure at US research institutions. Key figures: university cluster CAGR = 17.8%; industrial hyperscale CAGR approx. 78%; DOE national labs CAGR approx. 43%.
+N1  - arXiv:2506.19019v1 (Shu et al.). Survey of HPC infrastructure at US research institutions. Key figures: university cluster CAGR = 17.8%; industrial hyperscale CAGR approx. 78%; DOE national labs CAGR approx. 43%. Preprint; full author list at URL.
 ER  -
 
 TY  - RPRT
