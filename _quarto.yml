@@ -8,15 +8,16 @@ website:
   site-url: "https://ucla-data-science-center.github.io/rdwg-research-data-infrastructure"
   favicon: assets/logos/logo_UCLA_blue.svg
   search: true
-  back-to-top-btn: true
   open-graph:
     title: "UCLA Research Data Infrastructure"
     description: "Evidence base and recommendations from the UCLA Research Data Working Group (2022–2024) for the One IT Research Working Group (2026)"
     site-name: "UCLA Library Data Science Center"
+    image: "assets/og-image.png"
   twitter-card:
     title: "UCLA Research Data Infrastructure"
     description: "Evidence base and recommendations from the UCLA Research Data Working Group (2022–2024) for the One IT Research Working Group (2026)"
-    card-style: summary
+    card-style: summary_large_image
+    image: "assets/og-image.png"
   navbar:
     logo: assets/logos/logo_UCLA_blue.svg
     logo-alt: "UCLA"
@@ -47,3 +48,4 @@ format:
     toc-depth: 3
     link-external-icon: true
     link-external-newwindow: true
+    back-to-top-btn: true
