@@ -22,11 +22,11 @@ Before examining risk, it helps to name the three structural options that univer
 
 The federated/layered model — sometimes called the **Academic Divisional Computing (ADC) model** in the UC system — is the approach most consistently associated with successful outcomes in peer institution cases.[^adc] The RDWG's layered model recommendation aligns with this approach.
 
-[^adc]: Susan Grajek, "The Many Faces of Shared Services at the University of California," *EDUCAUSE Review*, 2014. <https://er.educause.edu/articles/2014/8/the-many-faces-of-shared-services-at-the-university-of-california>
-
 ---
 
-## Documented Risk Patterns
+::: {.panel-tabset}
+
+## Risk Patterns
 
 The following risk patterns appear repeatedly across peer institution case studies. They are named here to give the Working Group shared vocabulary for identifying conditions that predict poor outcomes.
 
@@ -40,10 +40,6 @@ The following risk patterns appear repeatedly across peer institution case studi
 
 **The signal:** Organizational rationalization (role reclassification, unit restructuring, reporting-line changes) proceeding concurrently with — or ahead of — service design, governance design, or working group recommendations. The risk is highest when structural decisions close before the design questions are answered.
 
-[^stonybrook-dual]: Stony Brook University Senate, *Report on Shared Services* (2014), pp. 12–14. <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^stonybrook-cornell]: Ibid.
-[^stonybrook-chaos]: Ibid.
-
 ---
 
 ### 2. The Governance Bypass
@@ -55,11 +51,6 @@ The following risk patterns appear repeatedly across peer institution case studi
 At UCLA, the Academic Senate's formal consultation request on OneIT documented a "perceived deliberate circumvention of the structures and mechanisms of shared governance," noting that IT staff are "valued, known members of departmental communities" whose removal would replace established relationships with a "frustrating and opaque customer-service experience."[^uclasenate]
 
 **The signal:** Structural or staffing decisions that precede or bypass formal shared governance processes; advisory bodies without authority over outcomes; timelines that compress the deliberation window.
-
-[^stonybrook-gov]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^bfa]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
-[^stonybrook-yale]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^uclasenate]: UCLA Academic Senate, "OneIT Request for Senate Consultation," DMS Issue 10123, accessed 2026. <https://dms.senate.ucla.edu/issues/issue/?10123.OneIT.Request.for.Senate.Consultation>
 
 ---
 
@@ -73,10 +64,6 @@ The HPC dimension provides a measurable instance of this problem: university-ope
 
 **The signal:** Service design that uses the same frameworks for research computing, library data infrastructure, and enterprise functions like payroll or email; ticket-based support replacing relationship-based support for research workflows; service level agreements that do not account for the time-sensitivity and domain-specificity of research.
 
-[^bfa-commodity]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
-[^stonybrook-knowledge]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^hpc]: Peng Shu et al., "Survey of HPC in US Research Institutions," arXiv:2506.19019v1 (University of Georgia, 2025). University clusters CAGR = 17.8%; industrial hyperscale CAGR ≈ 78%; DOE national labs CAGR ≈ 43%. <https://arxiv.org/html/2506.19019v1>
-
 ---
 
 ### 4. The Brain Drain
@@ -86,11 +73,6 @@ The HPC dimension provides a measurable instance of this problem: university-ope
 **Peer evidence:** The University of Georgia system consolidated ten institutions between 2013 and 2023. Empirical findings from participant interviews consistently identified "a lack of transfer of knowledge and experience" — not just within institutions, but *between* mergers.[^georgia1] Even when mergers succeeded on paper, lessons were not codified for later efforts, meaning the same knowledge was lost repeatedly. Five years post-consolidation, recurring themes included "uncertainty and unexpected workload," "communication gaps," and "managing culture gaps."[^georgia2] Cornell acknowledged that even with a careful model, "some institutional knowledge and customization were still lost."[^stonybrook-cornell2]
 
 **The signal:** Role reclassification that changes title without considering domain identity; career ladders that do not recognize discipline-embedded expertise; attrition among long-tenured staff during the transition period; standardization that removes the informal workflows through which research knowledge is actually shared.
-
-[^delong]: David W. DeLong, *Lost Knowledge: Confronting the Threat of an Aging Workforce* (Oxford University Press, 2004). See also: <https://www.researchgate.net/publication/281663514_Lost_Knowledge_Confronting_the_Threat_of_an_Aging_Workforce>
-[^georgia1]: Chandra Torrence and Cassandra Caldwell, "Consolidations in Higher Education: A Business Program Case Study," *Journal of Higher Education Theory and Practice*, 2018. <https://www.researchgate.net/publication/328543715_Consolidations_in_higher_education_a_business_program_case_study>
-[^georgia2]: *Strategic Restructuring in Higher Education: A Case Study of a Consolidation of Two Institutions*, Columbus State University ePress, 2019. <https://csuepress.columbusstate.edu/cgi/viewcontent.cgi?article=1410&context=theses_dissertations>
-[^stonybrook-cornell2]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
 
 ---
 
@@ -104,11 +86,6 @@ University of Michigan took a more measured approach, explicitly acknowledging t
 
 **The signal:** Projected savings presented without a forensic assessment of internal cost structures; savings estimates that do not account for transition costs, change management, and service quality degradation; no mechanism for reporting realized versus projected outcomes after the fact.
 
-[^berkeley-savings]: Andrew Szeri et al., "Doing Much More with Less: Implementing Operational Excellence at UC Berkeley," *CSHE Research and Occasional Papers* 10.13 (2013). <https://cshe.berkeley.edu/sites/default/files/publications/rops.cshe_.10.13.szeri_el_al.operationalexcellence.6.24.2013_0.pdf>
-[^utaustin]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU (Communications Workers of America — Texas State Employees Union), 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/> *(Primary source; union-affiliated news site.)*
-[^michigan-cost]: "Enhancing IT's Institutional Value through IT Rationalization," *EDUCAUSE Review*, 2018. <https://er.educause.edu/blogs/2018/4/enhancing-its-institutional-value-through-it-rationalization>
-[^stonybrook-savings]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-
 ---
 
 ### 6. The Top-Down Mandate
@@ -118,10 +95,6 @@ University of Michigan took a more measured approach, explicitly acknowledging t
 **Peer evidence:** Berkeley's Operational Excellence was characterized by top-down implementation that "initially bypassed traditional shared governance structures."[^stonybrook-topdown] Because faculty and staff were excluded from the design process, problems that could have been anticipated were not — and resistance outlasted the initiative itself.[^bfa-topdown] UT Austin's faculty-staff coalition successfully targeted the legitimacy of the top-down process — not just the substance of the proposal — forcing a near-complete reversal.[^utaustin-topdown]
 
 **The signal:** Consolidation design that proceeds without co-design with affected units; communication that presents decisions as finalized before consultation; advisory processes initiated after key structural commitments are already made.
-
-[^stonybrook-topdown]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^bfa-topdown]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
-[^utaustin-topdown]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU, 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/>
 
 ---
 
@@ -134,11 +107,6 @@ University of Michigan took a more measured approach, explicitly acknowledging t
 UT Austin is the clearest reversal case: the consolidation committee was chaired by an Accenture executive, and critics successfully surfaced Accenture's history of cost overruns in Texas state contracts — including a $64 million overrun on a state child support system — as evidence that the analytical framework could not be trusted.[^utaustin-accenture] The university subsequently severed the relationship and scaled back to a minimal pilot.
 
 **The signal:** Savings projections that cannot be traced to institution-specific data; recommendations that treat different academic units as equivalent based on headcount or job title rather than function; external frameworks applied without a baseline assessment of local culture and cost structure.
-
-[^aaup-bain]: Andrew Feffer, "Bain and the University," AAUP Union College Chapter, Winter 2021. <https://minnow-hexaflexagon-rghl.squarespace.com/s/Andrew-Feffer-Bain-Report-2021-plus-exec-summ-1.pdf> *(Critical analysis; AAUP local chapter publication.)*
-[^utaustin-accenture]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU, 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/>
-
----
 
 ## What Reduces Risk
 
@@ -154,15 +122,6 @@ Across the same institutions, a set of practices is consistently associated with
 
 **Sequencing: governance before rationalization.** Yale, Cornell, and Michigan each concluded that service design and governance design must precede organizational restructuring — not run concurrently with it.[^stonybrook-sequence] Institutions that inverted this sequence encountered turmoil they could not recover from within the initiative's timeline.
 
-[^michigan-gov]: "Shared Services Center to be part of Administrative Services Transformation," *Michigan Record*, University of Michigan, 2013. <https://record.umich.edu/articles/a4210-shared-services-center/>
-[^adc-success]: Susan Grajek, "The Many Faces of Shared Services at the University of California," *EDUCAUSE Review*, 2014. <https://er.educause.edu/articles/2014/8/the-many-faces-of-shared-services-at-the-university-of-california>
-[^michigan-value]: "Enhancing IT's Institutional Value through IT Rationalization," *EDUCAUSE Review*, 2018. <https://er.educause.edu/blogs/2018/4/enhancing-its-institutional-value-through-it-rationalization>
-[^yale-nudge]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
-[^michigan-optout]: Ibid.
-[^stonybrook-sequence]: Ibid.
-
----
-
 ## RDWG Alignment
 
 The RDWG's four recommendations — ORDR, Bruin Research Data Hub, Expanded Research Data Services, and Expanded Research Infrastructure — map directly onto the success patterns the peer evidence identifies.
@@ -175,10 +134,6 @@ The RDWG's four recommendations — ORDR, Bruin Research Data Hub, Expanded Rese
 | **Expanded Research Infrastructure** (Hoffman2, P3/P4 enclave, Cloud for Research) | Addresses the HPC governance fragmentation identified as a driver of the gap between university and peer research computing capacity |
 
 The RDWG did not argue for preserving fragmentation. It argued for replacing fragmentation with coordinated, research-led governance and shared infrastructure — while preserving the embedded expertise that research work depends on. That is the pattern the peer evidence supports.
-
-[^ithaka-rds]: Rebecca D. Frank and Judith C. Dorabiala, "The Research Data Services Landscape at US and Canadian Higher Education Institutions," Ithaka S+R, 2021. <https://sr.ithaka.org/publications/the-research-data-services-landscape-at-us-and-canadian-higher-education-institutions/>
-
----
 
 ## Glossary
 
@@ -238,6 +193,39 @@ A centralized unit that provides administrative or IT services to multiple depar
 **Span of control**
 A corporate management metric measuring the number of direct reports per supervisor. Used by management consultants as a proxy for organizational efficiency. Peer institution reviews document that applying span-of-control targets to university units fails to account for the value of small specialized teams serving high-complexity functions.[^gloss-span]
 
+:::
+
+[^adc]: Susan Grajek, "The Many Faces of Shared Services at the University of California," *EDUCAUSE Review*, 2014. <https://er.educause.edu/articles/2014/8/the-many-faces-of-shared-services-at-the-university-of-california>
+[^stonybrook-dual]: Stony Brook University Senate, *Report on Shared Services* (2014), pp. 12–14. <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^stonybrook-cornell]: Ibid.
+[^stonybrook-chaos]: Ibid.
+[^stonybrook-gov]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^bfa]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
+[^stonybrook-yale]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^uclasenate]: UCLA Academic Senate, "OneIT Request for Senate Consultation," DMS Issue 10123, accessed 2026. <https://dms.senate.ucla.edu/issues/issue/?10123.OneIT.Request.for.Senate.Consultation>
+[^bfa-commodity]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
+[^stonybrook-knowledge]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^hpc]: Peng Shu et al., "Survey of HPC in US Research Institutions," arXiv:2506.19019v1 (University of Georgia, 2025). University clusters CAGR = 17.8%; industrial hyperscale CAGR ≈ 78%; DOE national labs CAGR ≈ 43%. <https://arxiv.org/html/2506.19019v1>
+[^delong]: David W. DeLong, *Lost Knowledge: Confronting the Threat of an Aging Workforce* (Oxford University Press, 2004). See also: <https://www.researchgate.net/publication/281663514_Lost_Knowledge_Confronting_the_Threat_of_an_Aging_Workforce>
+[^georgia1]: Chandra Torrence and Cassandra Caldwell, "Consolidations in Higher Education: A Business Program Case Study," *Journal of Higher Education Theory and Practice*, 2018. <https://www.researchgate.net/publication/328543715_Consolidations_in_higher_education_a_business_program_case_study>
+[^georgia2]: *Strategic Restructuring in Higher Education: A Case Study of a Consolidation of Two Institutions*, Columbus State University ePress, 2019. <https://csuepress.columbusstate.edu/cgi/viewcontent.cgi?article=1410&context=theses_dissertations>
+[^stonybrook-cornell2]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^berkeley-savings]: Andrew Szeri et al., "Doing Much More with Less: Implementing Operational Excellence at UC Berkeley," *CSHE Research and Occasional Papers* 10.13 (2013). <https://cshe.berkeley.edu/sites/default/files/publications/rops.cshe_.10.13.szeri_el_al.operationalexcellence.6.24.2013_0.pdf>
+[^utaustin]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU (Communications Workers of America — Texas State Employees Union), 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/> *(Primary source; union-affiliated news site.)*
+[^michigan-cost]: "Enhancing IT's Institutional Value through IT Rationalization," *EDUCAUSE Review*, 2018. <https://er.educause.edu/blogs/2018/4/enhancing-its-institutional-value-through-it-rationalization>
+[^stonybrook-savings]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^stonybrook-topdown]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^bfa-topdown]: Berkeley Faculty Association, "Operational Excellence," accessed 2026. <https://ucbfa.org/reforming-the-university/operational-excellence/>
+[^utaustin-topdown]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU, 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/>
+[^aaup-bain]: Andrew Feffer, "Bain and the University," AAUP Union College Chapter, Winter 2021. <https://minnow-hexaflexagon-rghl.squarespace.com/s/Andrew-Feffer-Bain-Report-2021-plus-exec-summ-1.pdf> *(Critical analysis; AAUP local chapter publication.)*
+[^utaustin-accenture]: "In a reversal, UT to cut ties with Accenture (for now), modifies job-cutting plan," CWA-TSEU, 2014. <https://cwa-tseu.org/in-a-reversal-ut-to-cut-ties-with-accenture-for-now-modifies-job-cutting-plan/>
+[^michigan-gov]: "Shared Services Center to be part of Administrative Services Transformation," *Michigan Record*, University of Michigan, 2013. <https://record.umich.edu/articles/a4210-shared-services-center/>
+[^adc-success]: Susan Grajek, "The Many Faces of Shared Services at the University of California," *EDUCAUSE Review*, 2014. <https://er.educause.edu/articles/2014/8/the-many-faces-of-shared-services-at-the-university-of-california>
+[^michigan-value]: "Enhancing IT's Institutional Value through IT Rationalization," *EDUCAUSE Review*, 2018. <https://er.educause.edu/blogs/2018/4/enhancing-its-institutional-value-through-it-rationalization>
+[^yale-nudge]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
+[^michigan-optout]: Ibid.
+[^stonybrook-sequence]: Ibid.
+[^ithaka-rds]: Rebecca D. Frank and Judith C. Dorabiala, "The Research Data Services Landscape at US and Canadian Higher Education Institutions," Ithaka S+R, 2021. <https://sr.ithaka.org/publications/the-research-data-services-landscape-at-us-and-canadian-higher-education-institutions/>
 [^gloss-adc]: Susan Grajek, "The Many Faces of Shared Services at the University of California," *EDUCAUSE Review*, 2014. <https://er.educause.edu/articles/2014/8/the-many-faces-of-shared-services-at-the-university-of-california>
 [^gloss-baseline]: Stony Brook University Senate, *Report on Shared Services* (2014). <https://www.stonybrook.edu/commcms/senatecas/_pdf/SharedServices-Report-Final.pdf>
 [^gloss-braindrain]: David W. DeLong, *Lost Knowledge: Confronting the Threat of an Aging Workforce* (Oxford University Press, 2004). <https://www.researchgate.net/publication/281663514_Lost_Knowledge_Confronting_the_Threat_of_an_Aging_Workforce>
