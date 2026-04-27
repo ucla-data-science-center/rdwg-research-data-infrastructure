@@ -18,7 +18,7 @@ toc: false
 
 ## About This Site
 
-In 2021–2024, UCLA convened the **Research Data Working Group (RDWG)** — a campus-wide effort commissioned by five executive sponsors (VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences) to assess UCLA's research data infrastructure and recommend a path forward. The 18-month effort included campus engagement, peer benchmarking across 13 service categories at comparable institutions, and a detailed implementation analysis.
+In 2021–2024, UCLA convened the **Research Data Working Group (RDWG)** to assess research data infrastructure and chart a path forward. The effort was commissioned by five executive sponsors: VCR, University Librarian, AVC & CIO, Vice Provost for IT, and CIO of Health Sciences. Over 18 months, the group conducted campus engagement, peer benchmarking across 13 service categories, and a detailed implementation analysis.
 
 This site presents the RDWG's key findings, recommendations, and supporting evidence for the **One IT Research Working Group** (charged by the EVCP and CIO, March 2026).
 
