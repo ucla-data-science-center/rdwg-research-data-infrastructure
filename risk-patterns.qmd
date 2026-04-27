@@ -1,0 +1,174 @@
+---
+title: "Research IT Consolidation: Risk Patterns and Policy Context"
+subtitle: "A synthesis for the UCLA One IT Research Working Group"
+date: "April 2026"
+---
+
+Two things are worth putting in front of the Working Group before the synthesis phase: what peer institutions actually documented from their IT consolidation experiences, and what the UC Research Data Policy (2022) requires of whatever governance model we recommend.
+
+Part I names the failure modes. They are meant to give the group shared vocabulary for identifying conditions that predict poor outcomes, not to argue a position. Part II covers what reduces risk. Part III covers the policy and identifies governance questions our recommendations should be able to answer.
+
+Full evidence base and citations: [Peer Evidence page](peer-evidence.qmd)
+
+---
+
+## Part I: What peer institutions documented
+
+Over the past fifteen years, universities including Berkeley, UT Austin, Michigan, Yale, Cornell, and Washington have run large-scale IT consolidation initiatives. Their experiences are documented in senate reports, independent audits, and peer-reviewed research. Seven failure modes appear consistently across them.
+
+### 1. The Dual-Change Trap
+
+Restructuring the workforce at the same time as implementing major new technology or processes. The two changes don't just add together — they compound. Feedback loops that would allow course-correction on either track get overwhelmed.
+
+Yale and Cornell both named this pattern explicitly after their transitions. Cornell's post-implementation review found that even with careful sequencing, "some institutional knowledge and customization were still lost" — and that was with sequential change. Berkeley attempted restructuring and process automation simultaneously; a cross-institutional Senate review characterized the result as "a mood of total chaos."
+
+**The signal:**
+
+- Organizational rationalization (role reclassification, unit restructuring, reporting-line changes) proceeding concurrently with or ahead of service design, governance design, or working group recommendations
+- Structural decisions closing before the design questions are answered
+
+---
+
+### 2. The Governance Bypass
+
+Advancing consolidation without meaningful faculty and staff involvement. Advisory councils with no real authority don't count.
+
+The Stony Brook Senate's cross-institutional review of Berkeley's initiative found "a significant lack of faculty involvement," with governance limited to bodies that had "little real authority." Yale administrators later identified "doing a better job to engage faculty" as their most important lesson — in retrospect. At UCLA, the Academic Senate's formal consultation request documented a "perceived deliberate circumvention of the structures and mechanisms of shared governance."
+
+**The signal:**
+
+- Structural or staffing decisions that precede or bypass formal shared governance processes
+- Advisory bodies without authority over outcomes
+- Timelines that compress the deliberation window
+
+---
+
+### 3. The Commodity Fallacy
+
+Treating research IT as equivalent to enterprise IT and applying the same standardization logic to specialized research computing, data management, and lab support. The assumption is that because it's all "IT," it can be governed the same way. The evidence says otherwise.
+
+Berkeley's clustering of administrative and IT services failed most visibly in research contexts — faculty found that losing local staff made it impossible to support specialized activities. A review of seven peer institutions found "knowledge loss was consistent and underaddressed," not as an exception but as a pattern across all cases.
+
+**The signal:**
+
+- Service frameworks that treat research computing the same as email or payroll
+- Ticket-based support replacing relationship-based support for research workflows
+- SLAs that don't account for the time-sensitivity of research needs
+
+---
+
+### 4. The Brain Drain
+
+The concentrated loss of institutional knowledge when consolidation disrupts the people who carry it. Consolidation pressure accelerates it through retirement of senior staff, mid-career exits when expertise feels devalued, and "process unlearning" — where localized workflows get replaced by standardized processes and the informal knowledge that made them work disappears.
+
+A study of University of Georgia system consolidations found "a lack of transfer of knowledge and experience" repeated across multiple mergers, with lessons never codified between transitions. Five years post-consolidation, recurring themes were "uncertainty and unexpected workload" and "managing culture gaps."
+
+**The signal:**
+
+- Role reclassification that changes title without considering domain identity
+- Career ladders that do not recognize discipline-embedded expertise
+- Attrition among long-tenured staff during the transition period
+- Standardization that removes the informal workflows through which research knowledge is actually shared
+
+---
+
+### 5. The Savings Mirage
+
+Projected savings that don't materialize because the costs of change management, service degradation, and attrition weren't in the original projection.
+
+Berkeley projected $75M in annual savings. A 2013 assessment called realized savings "difficult to quantify" and "still a work in progress." UT Austin projected $30–40M with 500 positions eliminated, then severed ties with Accenture and scaled back to a small pilot. The Stony Brook Senate review of seven institutions found savings were "generally assumed but rarely documented" — which it identified as the most reliable predictor of failure across all cases studied.
+
+**The signal:**
+
+- Savings projections not traceable to institution-specific cost data
+- Estimates that exclude transition costs and service degradation
+- No mechanism for reporting realized vs. projected outcomes
+
+---
+
+### 6. The Top-Down Mandate
+
+Implementing consolidation as a directive rather than a co-designed transition. This doesn't just produce resistance — it removes the feedback loops that allow course-correction before damage is done.
+
+Berkeley's initiative bypassed shared governance structures early. Problems that could have been caught weren't, and resistance outlasted the initiative itself. UT Austin's faculty-staff coalition focused its challenge on the legitimacy of the top-down process, not just the substance of the proposal, and forced a near-complete reversal.
+
+**The signal:**
+
+- Consolidation design that proceeds without co-design with affected units
+- Communication that presents decisions as finalized before consultation
+- Advisory processes initiated after structural commitments are already made
+
+---
+
+### 7. The Consultant Playbook
+
+Corporate restructuring frameworks applied by consultants unfamiliar with academic mission. Recommendations consistently emphasize "span of control," reducing management layers, and flagging "redundancy" using metrics that don't capture the value of specialized academic units.
+
+AAUP analysis of Bain & Company's university engagements (Berkeley, Cornell, North Carolina) found recommendations were frequently "boilerplate," failing to account for mission and culture, with projected savings that "frequently fail to materialize in full." UT Austin is the clearest reversal: the consolidation committee was chaired by an Accenture executive, critics surfaced Accenture's history of cost overruns in Texas state contracts, and the university cut the relationship.
+
+**The signal:**
+
+- Savings projections not traceable to institution-specific data
+- Recommendations that treat academic units as equivalent based on headcount or title rather than function
+- External frameworks applied without a baseline assessment of local cost structure
+
+---
+
+## Part II: What reduces risk
+
+The same cases document what works. These practices appear in institutions where consolidation proceeded without the failure modes above.
+
+#### Inclusive governance from the start
+
+Michigan's Administrative Services Transformation started with three years of assessment before centralizing anything. Every process brought into the shared services center was redesigned with direct input from subject matter experts in colleges and schools — not designed centrally and handed down.
+
+#### The federated model
+
+The federated/layered model is the approach most consistently associated with successful outcomes: centralize commodity services, keep specialized expertise embedded where research happens. The Academic Divisional Computing (ADC) model in the UC system is one institutional form of this. Stanford's IT relationship managers and NYU's locally embedded teams are others.
+
+#### Value framing over cost cutting
+
+Michigan explicitly reframed its goals away from cost savings, arguing that "cost is a hard goal to meet" over a multi-year implementation as technology needs shift. Instead it focused on value gained: improved security posture, better data access, elevated desktop services. Institutions that led with headcount reduction generated resistance and morale decline consistently.
+
+#### Opt-out structures
+
+Yale and Michigan both built in opt-out structures. Yale introduced consolidation through nudge strategies — automated tools that moved departments toward standardization over time. Michigan allowed departments to opt out of specific shared service functions while still contributing to central infrastructure. Neither bet everything on a single mandate.
+
+#### Sequencing: governance before restructuring
+
+The sequencing finding is consistent across Yale, Cornell, and Michigan: service design and governance design must come before organizational restructuring. The institutions that inverted this sequence could not recover within their own timelines.
+
+---
+
+## Part III: UC Research Data Policy (2022)
+
+The UC Research Data Policy took effect July 15, 2022. It governs all research data generated or collected in the course of University Research. It operates as systemwide policy — above campus-level preferences — and it has direct implications for whatever IT governance model the WG recommends.
+
+**Who owns what.** The Regents own research data generated through University Research. PIs are the primary stewards, responsible for collection, management, retention, and disposal. When a PI leaves, the data stays.
+
+**Who is accountable on campus.** The Vice Chancellor for Research is the designated responsible officer for interpretation, implementation, and oversight of the policy. Any reorganization of research data infrastructure that affects how UCLA meets its obligations here needs to be legible to the VCR's office.
+
+**Retention is not uniform.** PIs must apply the most stringent applicable standard across overlapping requirements: general institutional retention, inventions and patents, FDA-regulated research, student participation, and litigation or misconduct investigations. Getting this right requires domain familiarity, not a generic compliance checklist.
+
+**Libraries are in the policy text.** University Researchers are directed to "consult with the California Digital Library, campus libraries, or other campus or systemwide resources for advice on documenting, preserving, and appropriately disposing of Research Data." This is a designated pathway in the policy, not informal guidance.
+
+**IS-3 interaction.** Research data classified at P3 or P4 has specific infrastructure and access requirements under UC IS-3. Where data lives and who can reach it has direct IS-3 implications that infrastructure governance decisions need to account for.
+
+### Questions for the Working Group
+
+Any governance model we recommend should be able to answer these:
+
+1. Who is accountable when a PI needs to comply with a funder's retention requirement — and do they have the domain knowledge to give accurate guidance?
+
+2. How does the VCR's oversight function connect to day-to-day management of research data infrastructure under the proposed model?
+
+3. The policy designates libraries and CDL as consultation resources. How does the proposed model preserve or clarify that pathway?
+
+4. For P3/P4 research data, who provides compliance support to PIs — and are they close enough to the research to do it effectively?
+
+5. When a PI leaves and data must be managed for continuity, which function has the operational capacity to execute that?
+
+---
+
+*Prepared for the UCLA One IT Research Working Group, April 2026.*
+*UC Research Data Policy: [https://policy.ucop.edu/doc/2500700/ResearchData](https://policy.ucop.edu/doc/2500700/ResearchData)*

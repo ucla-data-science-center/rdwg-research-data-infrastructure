@@ -1,0 +1,87 @@
+---
+title: "UC Research Data Policy (2022)"
+subtitle: "Summary for the One IT Research Working Group"
+date: "April 2026"
+---
+
+The University of California Research Data Policy took effect July 15, 2022. It is a systemwide policy — meaning it applies across all UC campuses and operates above campus-level preferences. It governs all research data generated or collected in the course of University Research, regardless of funding source.
+
+The policy clarifies three things that were previously handled inconsistently: who owns research data, who is responsible for managing it, and what happens when a researcher leaves. It also establishes the campus accountability structure for compliance.
+
+Source: [UC Research Data Policy (RI-22-0607)](https://policy.ucop.edu/doc/2500700/ResearchData)
+
+---
+
+## Ownership
+
+The Regents of the University of California own research data generated in the course of University Research. This is a long-standing UC principle (articulated in UC Regulation No. 4 since 1958) that the 2022 policy formalizes and extends.
+
+Ownership does not restrict what PIs or researchers can do with their data for research purposes. It does mean the university has legitimate interests in access, continuity, and compliance — interests that don't disappear when data moves to a new storage system or when a researcher departs.
+
+---
+
+## Who is responsible for what
+
+**Principal Investigators** are the primary stewards. They are responsible for:
+
+- Collection, recording, management, retention, and disposal of research data
+- Knowing and applying the most stringent applicable retention requirement
+- Determining access for other researchers and collaborators consistent with relevant agreements
+- Ensuring compliance with sponsor, legal, and contractual obligations
+
+**The Vice Chancellor for Research** is the designated responsible officer at the campus level. The VCR, in consultation with the Academic Senate, is responsible for interpretation, implementation, and oversight of the policy at UCLA. Any campus infrastructure or governance decision that affects how UCLA meets its research data obligations falls within the VCR's purview.
+
+**University Researchers** (faculty, staff, postdocs, graduate students involved in research) are responsible for following best academic practices in collection, recording, and storage, and for managing data consistent with their discipline's standards, applicable law, and sponsor agreements.
+
+**Libraries and CDL** are explicitly named in the policy as a consultation resource. University Researchers are directed to consult with "the California Digital Library, campus libraries, or other campus or systemwide resources for advice on documenting, preserving, and appropriately disposing of Research Data." This is in the policy text — it is a designated pathway, not informal guidance.
+
+---
+
+## Retention requirements
+
+Retention is not a single rule. PIs must determine which requirements apply and follow the most stringent among them. Categories include:
+
+- **General institutional retention** — baseline requirement under UC policy
+- **Inventions** — data must be kept long enough to protect intellectual property and complete UC patenting procedures
+- **FDA-regulated research** — specific CFR requirements (21 C.F.R. §§ 312.6, 812.140); typically two years from approval or discontinuation
+- **Student participation in research** — data must be retained until the student has been awarded a degree or is no longer enrolled
+- **Allegations, investigations, or litigation** — data must be preserved until the VCR and Campus Counsel issue instructions regarding disposition
+
+These categories overlap and interact. Applying them correctly requires someone who understands the research context, not just a checklist.
+
+---
+
+## When a researcher leaves
+
+When a researcher (other than the PI) leaves a project, they may take copies of data they generated — subject to PI approval and any sponsor requirements. Ownership of the original data remains with the university.
+
+When a PI leaves UCLA and takes a project to another institution, the ownership of the research data may be transferred or licensed through a locally developed process. The university may impose conditions or require the PI to leave copies of data with UCLA. In either case:
+
+- Remaining team members retain rights to the data they need to continue their work
+- The departing individual must arrange for management or disposition of any data remaining at UCLA
+- The university retains the right to sequester or access data for investigations, litigation, or continuity of research, regardless of where the data is located
+
+This last point has infrastructure implications. If data is stored in systems that are difficult to access or that require the departing PI's credentials, the university's ability to exercise its rights under the policy is impaired.
+
+---
+
+## IS-3 interaction
+
+The policy operates alongside the UC Electronic Information Security Policy (IS-3), which classifies institutional data by protection level. Research data involving human subjects, clinical information, export-controlled material, or sensitive sponsor data may be classified at Protection Level 3 (P3) or P4. Data at these levels has specific requirements for storage location, access controls, and incident response.
+
+Infrastructure decisions — where data lives, who can access it, what systems it passes through — have direct IS-3 implications. The IS-3 classification of a dataset determines what infrastructure is even permissible for storing it.
+
+---
+
+## What this means for the Working Group
+
+The policy creates an accountability chain that any governance model we recommend needs to fit within. The VCR is the designated campus responsible officer. PIs are the stewards. Libraries are designated as a consultation resource. And the university's ability to access data for continuity or legal purposes depends on having infrastructure that can actually support that access.
+
+Governance proposals that don't address where these accountabilities live — or that consolidate infrastructure in ways that obscure the chain from researcher to VCR — create compliance risk independent of any policy preferences.
+
+For related governance questions and risk patterns from peer institutions, see: [Risk Patterns & Policy Context](risk-patterns.qmd)
+
+---
+
+*UC Research Data Policy: [https://policy.ucop.edu/doc/2500700/ResearchData](https://policy.ucop.edu/doc/2500700/ResearchData)*
+*Prepared for the UCLA One IT Research Working Group, April 2026.*

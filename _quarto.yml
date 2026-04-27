@@ -31,6 +31,12 @@ website:
         href: gaps-analysis.qmd
       - text: "Peer Evidence"
         href: peer-evidence.qmd
+      - text: "Policy & Risk"
+        menu:
+          - text: "Risk Patterns"
+            href: risk-patterns.qmd
+          - text: "UC Research Data Policy"
+            href: uc-policy.qmd
       - text: "Faculty Voices"
         href: faculty-voices.qmd
       - text: "Bibliography"
