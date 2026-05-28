@@ -1,5 +1,7 @@
 # RDWG Research Data Infrastructure
 
+[![DOI](https://zenodo.org/badge/1187460735.svg)](https://doi.org/10.5281/zenodo.20436618)
+
 Evidence base compiled by Tim Dennis (UCLA Library Data Science Center) to support the One IT Research Working Group (2026).
 
 ## About
