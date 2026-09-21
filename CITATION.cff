@@ -1,0 +1,21 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: dataset
+title: "RDWG Research Data Infrastructure: Evidence Base and Recommendations"
+authors:
+  - family-names: Dennis
+    given-names: Tim
+    affiliation: "UCLA Library, Data Science Center"
+abstract: >
+  Evidence base and recommendations from the UCLA Research Data Working
+  Group (RDWG), prepared to inform the One IT Research Working Group
+  (2026). Includes a one-pager, slide deck, gaps analysis, risk patterns,
+  UC policy landscape, and supporting bibliography.
+license: CC-BY-4.0
+repository-code: "https://github.com/ucla-data-science-center/rdwg-research-data-infrastructure"
+url: "https://ucla-data-science-center.github.io/rdwg-research-data-infrastructure/"
+keywords:
+  - research data infrastructure
+  - research computing
+  - university IT governance
+  - academic libraries
